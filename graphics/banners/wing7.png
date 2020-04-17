@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" name="viewport" />
+
+    <!-- section:seometa -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Discord" />
+    <meta property="og:title" content="Discord - A New Way to Chat with Friends & Communities" />
+    <meta
+      property="og:description"
+      content="Discord is the easiest way to communicate over voice, video, and text.  Chat, hang out, and stay close with your friends and communities."
+    /><meta property="og:image" content="https://discordapp.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png" />    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@discord" />
+    <meta name="twitter:creator" content="@discord" />
+    <!-- endsection -->
+
+    <link
+      rel="chrome-webstore-item"
+      href="https://chrome.google.com/webstore/detail/lcbhdgefieegnkbopmgklhlpjjdgmbog"
+    />
+<link rel="stylesheet" href="/assets/1.b9d92db96b802e70e5df.css" integrity="sha256-tSScHu/5gQ6zwRWGYvTb7pOKBOBlbV/UJDkaFYPDQqo= sha512-VPZ8jECr6rckJtLomnMzBCetfbFyR+KwZllvrjBS2HSxM4/IWgcZ/TvidYk7SkeHxwKwYT+R33IPfM3TbL3nKg=="><link rel="icon" href="/assets/07dca80a102d4149e9736d4b162cff6f.ico" />    <!-- section:title -->
+    <title>Discord</title>
+    <!-- endsection -->
+  </head>
+
+  <body>
+    <div id="app-mount"></div><script nonce="MjAyLDU2LDE2NSw5MSwyMjMsOTUsMjEwLDE5OQ==">window.__OVERLAY__ = /overlay/.test(location.pathname)</script><script nonce="MjAyLDU2LDE2NSw5MSwyMjMsOTUsMjEwLDE5OQ==">window.__BILLING_STANDALONE__ = /^\/billing/.test(location.pathname)</script><script nonce="MjAyLDU2LDE2NSw5MSwyMjMsOTUsMjEwLDE5OQ==">window.GLOBAL_ENV = {
+        API_ENDPOINT: '//discordapp.com/api',
+        WEBAPP_ENDPOINT: '//discordapp.com',
+        CDN_HOST: 'cdn.discordapp.com',
+        ASSET_ENDPOINT: 'https://discordapp.com',
+        WIDGET_ENDPOINT: '//discordapp.com/widget',
+        INVITE_HOST: 'discord.gg',
+        GUILD_TEMPLATE_HOST: 'discord.new',
+        GIFT_CODE_HOST: 'discord.gift',
+        RELEASE_CHANNEL: 'stable',
+        MARKETING_ENDPOINT: '//discordapp.com',
+        BRAINTREE_KEY: 'production_5st77rrc_49pp2rp4phym7387',
+        STRIPE_KEY: 'pk_live_CUQtlpQUF0vufWpnpUmQvcdi',
+        NETWORKING_ENDPOINT: '//router.discordapp.net',
+        PROJECT_ENV: 'production',
+        REMOTE_AUTH_ENDPOINT: '//remote-auth-gateway.discord.gg',
+        SENTRY_TAGS: {"buildId":"a015454","buildType":"normal"},
+        HTML_TIMESTAMP: Date.now(),
+      };</script><script nonce="MjAyLDU2LDE2NSw5MSwyMjMsOTUsMjEwLDE5OQ==">!function(){if(null!=window.WebSocket){var n=function(n){try{var e=localStorage.getItem(n);return null==e?null:JSON.parse(e)}catch(n){return null}},e=n("token"),o=n("gatewayURL");if(e&&o&&!window.__OVERLAY__){var r=null!=window.DiscordNative||null!=window.require?"etf":"json",t=o+"/?encoding="+r+"&v=6&compress=zlib-stream";console.log("[FAST CONNECT] "+t+", encoding: "+r+", version: 6");var a=new WebSocket(t);a.binaryType="arraybuffer";var s=Date.now(),i={open:!1,gateway:t,messages:[]};a.onopen=function(){console.log("[FAST CONNECT] connected in "+(Date.now()-s)+"ms"),i.open=!0},a.onclose=a.onerror=function(){window._ws=null},a.onmessage=function(n){i.messages.push(n)},window._ws={ws:a,state:i}}}}();</script><script src="/assets/1cca871273227f175dac.js" integrity="sha256-V0vS0SvhSpDxuzPUjDftOJTdn5r0O4fhSwUqYTgArOk= sha512-uuWZ3oS8m4kaCBs0/iZmBrsrwfsdlARBsKJmhrgjVQnwG39sTN5LP/M1uk+qKyg2cEySQwSsqGXx/4o4EPRlcg=="></script><script src="/assets/02de9562afb64f4414a9.js" integrity="sha256-Zd8qLemnDsHLW17b8/Yd1c6slCHpgHJzkiVzjM65q68= sha512-svh5TI8pUODuGdgEJ5e1hywbFNXeartX2rya30G9GscO8Akdg4pe8IFCWzJsNp3SfGXOxqlfsI+OfH1OWyVm0A=="></script><script src="/assets/d4d6f1475d0cfc835fd1.js" integrity="sha256-YnSHjbHqOFBperPT4aYHW1WbQv55Byqe7rbEnB+4e7Q= sha512-VRgra3zZwr41EwvXmpVTNXGRZsARYuAPV2p0zAXou4QCrwiZDLCBpLUzHwT/+frqUyYENU5pudsHbjg1OWnhvQ=="></script><script src="/assets/a3fe86f37e25d34aa286.js" integrity="sha256-vmAhyasoimmIPJNQvLhzTLkDOCW0GlZwos8jnMNjBlw= sha512-rfTSVAhQcyevUgK5TRF7SFmVSpwYCH15u6INAcT+xUSlbVoOj9c3c44tBsadzFwvLtyLt1oP/v08iqlERsXW6Q=="></script>  </body>
+</html>
