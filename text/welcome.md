@@ -26,4 +26,4 @@ We look forward to raiding with you!
 ![header-accept](../graphics/headers/header-accept.png)
 ![separator-big](../graphics/separators/separator-big.png)
 
-Once you have read the above, including the rules, click on the :white_check_mark: reaction to gain access to our other channels!
+Once you have read the above, including the #rules, click on the :white_check_mark: reaction to gain access to our other channels!
