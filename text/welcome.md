@@ -1,7 +1,5 @@
 ![banner](../graphics/banners/banner.png)
-```css
---- [Welcome To RTI]
-```
+![header-welcome](../graphics/headers/header-welcome.png)
 ![separator-big](../graphics/separators/separator-big.png)
 ```css
 --- [Who We Are]

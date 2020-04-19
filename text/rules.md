@@ -1,4 +1,4 @@
-![header-rules](../graphics/headers/header-join_us.png)
+![header-rules](../graphics/headers/header-server_rules.png)
 ![separator-big](../graphics/separators/separator-big.png)
 ```md
 # Rule [1]: Respect others
