@@ -81,6 +81,7 @@ Requirements: Approved by @Officer. Help out in at least 1 training per month.
 `[•]` **Officer**
 Enforces guild discipline and handles the admin.
 Requirements: Approved by @Leader.
+_ _
 `[14] Whom do I speak to if I have an issue with another member?`
 Speak to an @Officer. Screenshots of the (entire) conversation, if it happened in game, are immensely useful. Any action taken will depend upon the severity of the transgression.
 _ _

@@ -6,7 +6,7 @@
 **Guild Name:** `[RTI] Raid Training Initative`
 **TeamSpeak:** `ts3server://62.210.222.72:15651`
 **Website:** <https://rti.enjin.com/>
-**Discord Invite:** https://discord.gg/Tw47MfJ
+**Discord Invite:** https://discord.gg/yBHtWmF
 ![separator-small](../graphics/separators/separator-small.png)
 ```css
 --- [How to apply]
