@@ -18,8 +18,12 @@ Last but not least, we ask you to never forget where you came from, what it was 
 ```css
 --- [Closing Notes]
 ```
-If RTI seems like the right place for you, then please be sure to read our #rules and then move onto #join_us make an application. If you are wondering about something regarding joining the guild and its trainings, it is probably already answered in #faq.
+If RTI seems like the right place for you, then please be sure to read our #rules and then hit the checkbox at the bottom to have access to the rest of our server.
 
 We look forward to raiding with you!
 - RTI
 ![separator-big_2](../graphics/separators/separator-big_2.png)
+![header-accept](../graphics/headers/header-accept.png)
+![separator-big](../graphics/separators/separator-big.png)
+
+Once you have read the above, including the rules, click on the :white_check_mark: reaction to gain access to our other channels!
