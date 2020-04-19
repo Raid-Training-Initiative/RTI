@@ -14,10 +14,10 @@ We expect an active interest in learning and improving in raids. This includes e
 Being a part of our community, you also need to have an open mind for different opinions and perspectives. What a good player is, or what meta is, can vary dramatically from person to person, and thus, we expect you to respect other people's views and resolve differences through friendly discussion.
 
 Last but not least, we ask you to never forget where you came from, what it was like when you first joined so that you can contribute to our guild by helping new players and welcome them to our guild in the same way that we have welcomed you.
+![separator-small](../graphics/separators/separator-small.png)
 ```css
 --- [Closing Notes]
 ```
-![separator-small](../graphics/separators/separator-small.png)
 If RTI seems like the right place for you, then please be sure to read our #rules and then move onto #join_us make an application. If you are wondering about something regarding joining the guild and its trainings, it is probably already answered in #faq.
 
 We look forward to raiding with you!
