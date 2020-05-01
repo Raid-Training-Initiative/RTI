@@ -28,7 +28,7 @@ _ _
 `[6] Can I run my own homebrew offmeta build?`
 Our default stance is no; we expect you to bring a character with a meta build into our training runs. You can easily check what the meta builds are from the Snow Crows website: <https://snowcrows.com/>
 
-Be aware that if you are returning to the game after a break, the builds you may be familiar with are probably no longer in use, and/or their gear may have changed significantly. Having only recently returned to the game is not an acceptable excuse to run an out-of-date build in training runs when you can easily check through Snow Crows or simply asking in #general chat.
+Be aware that if you are returning to the game after a break, the builds you may be familiar with are probably no longer in use, and/or their gear may have changed significantly. Having only recently returned to the game is not an acceptable excuse to run an out-of-date build in training runs when you can easily check through Snow Crows or simply ask in #general chat.
 
 If you wish to use anything else, please ask the commander running the event, prior to signing up.
 _ _
@@ -108,4 +108,3 @@ You probably missed an activity check (see 10). These happen every number of mon
 _ _
 ![separator-small](../graphics/separators/separator-small.png)
 -table of contents goes here-
-![separator-big_2](../graphics/separators/separator-big_2.png)
