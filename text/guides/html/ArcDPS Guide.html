@@ -1,0 +1,2815 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArcDPS Guide</title>
+</head>
+<style>
+@font-face {
+    font-family: KaTeX_AMS;
+    src: url(/static/fonts/KaTeX_AMS-Regular.e78e28b.woff2) format("woff2"), url(/static/fonts/KaTeX_AMS-Regular.7f06b4e.woff) format("woff"), url(/static/fonts/KaTeX_AMS-Regular.aaf4eee.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Caligraphic;
+    src: url(/static/fonts/KaTeX_Caligraphic-Bold.4ec58be.woff2) format("woff2"), url(/static/fonts/KaTeX_Caligraphic-Bold.1e802ca.woff) format("woff"), url(/static/fonts/KaTeX_Caligraphic-Bold.021dd4d.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Caligraphic;
+    src: url(/static/fonts/KaTeX_Caligraphic-Regular.7edb53b.woff2) format("woff2"), url(/static/fonts/KaTeX_Caligraphic-Regular.d3b46c3.woff) format("woff"), url(/static/fonts/KaTeX_Caligraphic-Regular.d49f2d5.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Fraktur;
+    src: url(/static/fonts/KaTeX_Fraktur-Bold.d5b59ec.woff2) format("woff2"), url(/static/fonts/KaTeX_Fraktur-Bold.c4c8cab.woff) format("woff"), url(/static/fonts/KaTeX_Fraktur-Bold.a31e7cb.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Fraktur;
+    src: url(/static/fonts/KaTeX_Fraktur-Regular.32a5339.woff2) format("woff2"), url(/static/fonts/KaTeX_Fraktur-Regular.b7d9c46.woff) format("woff"), url(/static/fonts/KaTeX_Fraktur-Regular.a48dad4.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Main;
+    src: url(/static/fonts/KaTeX_Main-Bold.8e1e01c.woff2) format("woff2"), url(/static/fonts/KaTeX_Main-Bold.22086eb.woff) format("woff"), url(/static/fonts/KaTeX_Main-Bold.9ceff51.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Main;
+    src: url(/static/fonts/KaTeX_Main-BoldItalic.284a17f.woff2) format("woff2"), url(/static/fonts/KaTeX_Main-BoldItalic.4c57dbc.woff) format("woff"), url(/static/fonts/KaTeX_Main-BoldItalic.e8b44b9.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: KaTeX_Main;
+    src: url(/static/fonts/KaTeX_Main-Italic.e533d5a.woff2) format("woff2"), url(/static/fonts/KaTeX_Main-Italic.99be0e1.woff) format("woff"), url(/static/fonts/KaTeX_Main-Italic.29c8639.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: KaTeX_Main;
+    src: url(/static/fonts/KaTeX_Main-Regular.5c734d7.woff2) format("woff2"), url(/static/fonts/KaTeX_Main-Regular.b741441.woff) format("woff"), url(/static/fonts/KaTeX_Main-Regular.5c94aef.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Math;
+    src: url(/static/fonts/KaTeX_Math-BoldItalic.d747bd1.woff2) format("woff2"), url(/static/fonts/KaTeX_Math-BoldItalic.b13731e.woff) format("woff"), url(/static/fonts/KaTeX_Math-BoldItalic.9a2834a.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: KaTeX_Math;
+    src: url(/static/fonts/KaTeX_Math-Italic.4ad08b8.woff2) format("woff2"), url(/static/fonts/KaTeX_Math-Italic.f030390.woff) format("woff"), url(/static/fonts/KaTeX_Math-Italic.291e76b.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: KaTeX_SansSerif;
+    src: url(/static/fonts/KaTeX_SansSerif-Bold.6e0830b.woff2) format("woff2"), url(/static/fonts/KaTeX_SansSerif-Bold.3fb4195.woff) format("woff"), url(/static/fonts/KaTeX_SansSerif-Bold.7dc027c.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_SansSerif;
+    src: url(/static/fonts/KaTeX_SansSerif-Italic.fba01c9.woff2) format("woff2"), url(/static/fonts/KaTeX_SansSerif-Italic.727a9b0.woff) format("woff"), url(/static/fonts/KaTeX_SansSerif-Italic.4059868.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: KaTeX_SansSerif;
+    src: url(/static/fonts/KaTeX_SansSerif-Regular.d929cd6.woff2) format("woff2"), url(/static/fonts/KaTeX_SansSerif-Regular.2555754.woff) format("woff"), url(/static/fonts/KaTeX_SansSerif-Regular.5c58d16.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Script;
+    src: url(/static/fonts/KaTeX_Script-Regular.755e249.woff2) format("woff2"), url(/static/fonts/KaTeX_Script-Regular.d524c9a.woff) format("woff"), url(/static/fonts/KaTeX_Script-Regular.d12ea9e.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Size1;
+    src: url(/static/fonts/KaTeX_Size1-Regular.048c39c.woff2) format("woff2"), url(/static/fonts/KaTeX_Size1-Regular.08b5f00.woff) format("woff"), url(/static/fonts/KaTeX_Size1-Regular.7342d45.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Size2;
+    src: url(/static/fonts/KaTeX_Size2-Regular.81d6b8d.woff2) format("woff2"), url(/static/fonts/KaTeX_Size2-Regular.af24b0e.woff) format("woff"), url(/static/fonts/KaTeX_Size2-Regular.eb130dc.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Size3;
+    src: url(/static/fonts/KaTeX_Size3-Regular.b311ca0.woff2) format("woff2"), url(/static/fonts/KaTeX_Size3-Regular.0d89264.woff) format("woff"), url(/static/fonts/KaTeX_Size3-Regular.7e02a40.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Size4;
+    src: url(/static/fonts/KaTeX_Size4-Regular.6a3255d.woff2) format("woff2"), url(/static/fonts/KaTeX_Size4-Regular.68895bb.woff) format("woff"), url(/static/fonts/KaTeX_Size4-Regular.ad76725.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: KaTeX_Typewriter;
+    src: url(/static/fonts/KaTeX_Typewriter-Regular.6cc31ea.woff2) format("woff2"), url(/static/fonts/KaTeX_Typewriter-Regular.3fe216d.woff) format("woff"), url(/static/fonts/KaTeX_Typewriter-Regular.2570235.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+.katex {
+    font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+    line-height: 1.2;
+    text-indent: 0;
+    text-rendering: auto
+}
+
+.katex * {
+    -ms-high-contrast-adjust: none !important
+}
+
+.katex .katex-version:after {
+    content: "0.10.2"
+}
+
+.katex .katex-mathml {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden
+}
+
+.katex .katex-html>.newline {
+    display: block
+}
+
+.katex .base {
+    position: relative;
+    white-space: nowrap;
+    width: min-content
+}
+
+.katex .base,
+.katex .strut {
+    display: inline-block
+}
+
+.katex .textbf {
+    font-weight: 700
+}
+
+.katex .textit {
+    font-style: italic
+}
+
+.katex .textrm {
+    font-family: KaTeX_Main
+}
+
+.katex .textsf {
+    font-family: KaTeX_SansSerif
+}
+
+.katex .texttt {
+    font-family: KaTeX_Typewriter
+}
+
+.katex .mathdefault {
+    font-family: KaTeX_Math;
+    font-style: italic
+}
+
+.katex .mathit {
+    font-family: KaTeX_Main;
+    font-style: italic
+}
+
+.katex .mathrm {
+    font-style: normal
+}
+
+.katex .mathbf {
+    font-family: KaTeX_Main;
+    font-weight: 700
+}
+
+.katex .boldsymbol {
+    font-family: KaTeX_Math;
+    font-weight: 700;
+    font-style: italic
+}
+
+.katex .amsrm,
+.katex .mathbb,
+.katex .textbb {
+    font-family: KaTeX_AMS
+}
+
+.katex .mathcal {
+    font-family: KaTeX_Caligraphic
+}
+
+.katex .mathfrak,
+.katex .textfrak {
+    font-family: KaTeX_Fraktur
+}
+
+.katex .mathtt {
+    font-family: KaTeX_Typewriter
+}
+
+.katex .mathscr,
+.katex .textscr {
+    font-family: KaTeX_Script
+}
+
+.katex .mathsf,
+.katex .textsf {
+    font-family: KaTeX_SansSerif
+}
+
+.katex .mathboldsf,
+.katex .textboldsf {
+    font-family: KaTeX_SansSerif;
+    font-weight: 700
+}
+
+.katex .mathitsf,
+.katex .textitsf {
+    font-family: KaTeX_SansSerif;
+    font-style: italic
+}
+
+.katex .mainrm {
+    font-family: KaTeX_Main;
+    font-style: normal
+}
+
+.katex .vlist-t {
+    display: inline-table;
+    table-layout: fixed
+}
+
+.katex .vlist-r {
+    display: table-row
+}
+
+.katex .vlist {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative
+}
+
+.katex .vlist>span {
+    display: block;
+    height: 0;
+    position: relative
+}
+
+.katex .vlist>span>span {
+    display: inline-block
+}
+
+.katex .vlist>span>.pstrut {
+    overflow: hidden;
+    width: 0
+}
+
+.katex .vlist-t2 {
+    margin-right: -2px
+}
+
+.katex .vlist-s {
+    display: table-cell;
+    vertical-align: bottom;
+    font-size: 1px;
+    width: 2px;
+    min-width: 2px
+}
+
+.katex .msupsub {
+    text-align: left
+}
+
+.katex .mfrac>span>span {
+    text-align: center
+}
+
+.katex .mfrac .frac-line {
+    display: inline-block;
+    width: 100%;
+    border-bottom-style: solid
+}
+
+.katex .hdashline,
+.katex .hline,
+.katex .mfrac .frac-line,
+.katex .overline .overline-line,
+.katex .rule,
+.katex .underline .underline-line {
+    min-height: 1px
+}
+
+.katex .mspace {
+    display: inline-block
+}
+
+.katex .clap,
+.katex .llap,
+.katex .rlap {
+    width: 0;
+    position: relative
+}
+
+.katex .clap>.inner,
+.katex .llap>.inner,
+.katex .rlap>.inner {
+    position: absolute
+}
+
+.katex .clap>.fix,
+.katex .llap>.fix,
+.katex .rlap>.fix {
+    display: inline-block
+}
+
+.katex .llap>.inner {
+    right: 0
+}
+
+.katex .clap>.inner,
+.katex .rlap>.inner {
+    left: 0
+}
+
+.katex .clap>.inner>span {
+    margin-left: -50%;
+    margin-right: 50%
+}
+
+.katex .rule {
+    display: inline-block;
+    border: 0 solid;
+    position: relative
+}
+
+.katex .hline,
+.katex .overline .overline-line,
+.katex .underline .underline-line {
+    display: inline-block;
+    width: 100%;
+    border-bottom-style: solid
+}
+
+.katex .hdashline {
+    display: inline-block;
+    width: 100%;
+    border-bottom-style: dashed
+}
+
+.katex .sqrt>.root {
+    margin-left: .27777778em;
+    margin-right: -.55555556em
+}
+
+.katex .fontsize-ensurer,
+.katex .sizing {
+    display: inline-block
+}
+
+.katex .fontsize-ensurer.reset-size1.size1,
+.katex .sizing.reset-size1.size1 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size1.size2,
+.katex .sizing.reset-size1.size2 {
+    font-size: 1.2em
+}
+
+.katex .fontsize-ensurer.reset-size1.size3,
+.katex .sizing.reset-size1.size3 {
+    font-size: 1.4em
+}
+
+.katex .fontsize-ensurer.reset-size1.size4,
+.katex .sizing.reset-size1.size4 {
+    font-size: 1.6em
+}
+
+.katex .fontsize-ensurer.reset-size1.size5,
+.katex .sizing.reset-size1.size5 {
+    font-size: 1.8em
+}
+
+.katex .fontsize-ensurer.reset-size1.size6,
+.katex .sizing.reset-size1.size6 {
+    font-size: 2em
+}
+
+.katex .fontsize-ensurer.reset-size1.size7,
+.katex .sizing.reset-size1.size7 {
+    font-size: 2.4em
+}
+
+.katex .fontsize-ensurer.reset-size1.size8,
+.katex .sizing.reset-size1.size8 {
+    font-size: 2.88em
+}
+
+.katex .fontsize-ensurer.reset-size1.size9,
+.katex .sizing.reset-size1.size9 {
+    font-size: 3.456em
+}
+
+.katex .fontsize-ensurer.reset-size1.size10,
+.katex .sizing.reset-size1.size10 {
+    font-size: 4.148em
+}
+
+.katex .fontsize-ensurer.reset-size1.size11,
+.katex .sizing.reset-size1.size11 {
+    font-size: 4.976em
+}
+
+.katex .fontsize-ensurer.reset-size2.size1,
+.katex .sizing.reset-size2.size1 {
+    font-size: .83333333em
+}
+
+.katex .fontsize-ensurer.reset-size2.size2,
+.katex .sizing.reset-size2.size2 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size2.size3,
+.katex .sizing.reset-size2.size3 {
+    font-size: 1.16666667em
+}
+
+.katex .fontsize-ensurer.reset-size2.size4,
+.katex .sizing.reset-size2.size4 {
+    font-size: 1.33333333em
+}
+
+.katex .fontsize-ensurer.reset-size2.size5,
+.katex .sizing.reset-size2.size5 {
+    font-size: 1.5em
+}
+
+.katex .fontsize-ensurer.reset-size2.size6,
+.katex .sizing.reset-size2.size6 {
+    font-size: 1.66666667em
+}
+
+.katex .fontsize-ensurer.reset-size2.size7,
+.katex .sizing.reset-size2.size7 {
+    font-size: 2em
+}
+
+.katex .fontsize-ensurer.reset-size2.size8,
+.katex .sizing.reset-size2.size8 {
+    font-size: 2.4em
+}
+
+.katex .fontsize-ensurer.reset-size2.size9,
+.katex .sizing.reset-size2.size9 {
+    font-size: 2.88em
+}
+
+.katex .fontsize-ensurer.reset-size2.size10,
+.katex .sizing.reset-size2.size10 {
+    font-size: 3.45666667em
+}
+
+.katex .fontsize-ensurer.reset-size2.size11,
+.katex .sizing.reset-size2.size11 {
+    font-size: 4.14666667em
+}
+
+.katex .fontsize-ensurer.reset-size3.size1,
+.katex .sizing.reset-size3.size1 {
+    font-size: .71428571em
+}
+
+.katex .fontsize-ensurer.reset-size3.size2,
+.katex .sizing.reset-size3.size2 {
+    font-size: .85714286em
+}
+
+.katex .fontsize-ensurer.reset-size3.size3,
+.katex .sizing.reset-size3.size3 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size3.size4,
+.katex .sizing.reset-size3.size4 {
+    font-size: 1.14285714em
+}
+
+.katex .fontsize-ensurer.reset-size3.size5,
+.katex .sizing.reset-size3.size5 {
+    font-size: 1.28571429em
+}
+
+.katex .fontsize-ensurer.reset-size3.size6,
+.katex .sizing.reset-size3.size6 {
+    font-size: 1.42857143em
+}
+
+.katex .fontsize-ensurer.reset-size3.size7,
+.katex .sizing.reset-size3.size7 {
+    font-size: 1.71428571em
+}
+
+.katex .fontsize-ensurer.reset-size3.size8,
+.katex .sizing.reset-size3.size8 {
+    font-size: 2.05714286em
+}
+
+.katex .fontsize-ensurer.reset-size3.size9,
+.katex .sizing.reset-size3.size9 {
+    font-size: 2.46857143em
+}
+
+.katex .fontsize-ensurer.reset-size3.size10,
+.katex .sizing.reset-size3.size10 {
+    font-size: 2.96285714em
+}
+
+.katex .fontsize-ensurer.reset-size3.size11,
+.katex .sizing.reset-size3.size11 {
+    font-size: 3.55428571em
+}
+
+.katex .fontsize-ensurer.reset-size4.size1,
+.katex .sizing.reset-size4.size1 {
+    font-size: .625em
+}
+
+.katex .fontsize-ensurer.reset-size4.size2,
+.katex .sizing.reset-size4.size2 {
+    font-size: .75em
+}
+
+.katex .fontsize-ensurer.reset-size4.size3,
+.katex .sizing.reset-size4.size3 {
+    font-size: .875em
+}
+
+.katex .fontsize-ensurer.reset-size4.size4,
+.katex .sizing.reset-size4.size4 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size4.size5,
+.katex .sizing.reset-size4.size5 {
+    font-size: 1.125em
+}
+
+.katex .fontsize-ensurer.reset-size4.size6,
+.katex .sizing.reset-size4.size6 {
+    font-size: 1.25em
+}
+
+.katex .fontsize-ensurer.reset-size4.size7,
+.katex .sizing.reset-size4.size7 {
+    font-size: 1.5em
+}
+
+.katex .fontsize-ensurer.reset-size4.size8,
+.katex .sizing.reset-size4.size8 {
+    font-size: 1.8em
+}
+
+.katex .fontsize-ensurer.reset-size4.size9,
+.katex .sizing.reset-size4.size9 {
+    font-size: 2.16em
+}
+
+.katex .fontsize-ensurer.reset-size4.size10,
+.katex .sizing.reset-size4.size10 {
+    font-size: 2.5925em
+}
+
+.katex .fontsize-ensurer.reset-size4.size11,
+.katex .sizing.reset-size4.size11 {
+    font-size: 3.11em
+}
+
+.katex .fontsize-ensurer.reset-size5.size1,
+.katex .sizing.reset-size5.size1 {
+    font-size: .55555556em
+}
+
+.katex .fontsize-ensurer.reset-size5.size2,
+.katex .sizing.reset-size5.size2 {
+    font-size: .66666667em
+}
+
+.katex .fontsize-ensurer.reset-size5.size3,
+.katex .sizing.reset-size5.size3 {
+    font-size: .77777778em
+}
+
+.katex .fontsize-ensurer.reset-size5.size4,
+.katex .sizing.reset-size5.size4 {
+    font-size: .88888889em
+}
+
+.katex .fontsize-ensurer.reset-size5.size5,
+.katex .sizing.reset-size5.size5 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size5.size6,
+.katex .sizing.reset-size5.size6 {
+    font-size: 1.11111111em
+}
+
+.katex .fontsize-ensurer.reset-size5.size7,
+.katex .sizing.reset-size5.size7 {
+    font-size: 1.33333333em
+}
+
+.katex .fontsize-ensurer.reset-size5.size8,
+.katex .sizing.reset-size5.size8 {
+    font-size: 1.6em
+}
+
+.katex .fontsize-ensurer.reset-size5.size9,
+.katex .sizing.reset-size5.size9 {
+    font-size: 1.92em
+}
+
+.katex .fontsize-ensurer.reset-size5.size10,
+.katex .sizing.reset-size5.size10 {
+    font-size: 2.30444444em
+}
+
+.katex .fontsize-ensurer.reset-size5.size11,
+.katex .sizing.reset-size5.size11 {
+    font-size: 2.76444444em
+}
+
+.katex .fontsize-ensurer.reset-size6.size1,
+.katex .sizing.reset-size6.size1 {
+    font-size: .5em
+}
+
+.katex .fontsize-ensurer.reset-size6.size2,
+.katex .sizing.reset-size6.size2 {
+    font-size: .6em
+}
+
+.katex .fontsize-ensurer.reset-size6.size3,
+.katex .sizing.reset-size6.size3 {
+    font-size: .7em
+}
+
+.katex .fontsize-ensurer.reset-size6.size4,
+.katex .sizing.reset-size6.size4 {
+    font-size: .8em
+}
+
+.katex .fontsize-ensurer.reset-size6.size5,
+.katex .sizing.reset-size6.size5 {
+    font-size: .9em
+}
+
+.katex .fontsize-ensurer.reset-size6.size6,
+.katex .sizing.reset-size6.size6 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size6.size7,
+.katex .sizing.reset-size6.size7 {
+    font-size: 1.2em
+}
+
+.katex .fontsize-ensurer.reset-size6.size8,
+.katex .sizing.reset-size6.size8 {
+    font-size: 1.44em
+}
+
+.katex .fontsize-ensurer.reset-size6.size9,
+.katex .sizing.reset-size6.size9 {
+    font-size: 1.728em
+}
+
+.katex .fontsize-ensurer.reset-size6.size10,
+.katex .sizing.reset-size6.size10 {
+    font-size: 2.074em
+}
+
+.katex .fontsize-ensurer.reset-size6.size11,
+.katex .sizing.reset-size6.size11 {
+    font-size: 2.488em
+}
+
+.katex .fontsize-ensurer.reset-size7.size1,
+.katex .sizing.reset-size7.size1 {
+    font-size: .41666667em
+}
+
+.katex .fontsize-ensurer.reset-size7.size2,
+.katex .sizing.reset-size7.size2 {
+    font-size: .5em
+}
+
+.katex .fontsize-ensurer.reset-size7.size3,
+.katex .sizing.reset-size7.size3 {
+    font-size: .58333333em
+}
+
+.katex .fontsize-ensurer.reset-size7.size4,
+.katex .sizing.reset-size7.size4 {
+    font-size: .66666667em
+}
+
+.katex .fontsize-ensurer.reset-size7.size5,
+.katex .sizing.reset-size7.size5 {
+    font-size: .75em
+}
+
+.katex .fontsize-ensurer.reset-size7.size6,
+.katex .sizing.reset-size7.size6 {
+    font-size: .83333333em
+}
+
+.katex .fontsize-ensurer.reset-size7.size7,
+.katex .sizing.reset-size7.size7 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size7.size8,
+.katex .sizing.reset-size7.size8 {
+    font-size: 1.2em
+}
+
+.katex .fontsize-ensurer.reset-size7.size9,
+.katex .sizing.reset-size7.size9 {
+    font-size: 1.44em
+}
+
+.katex .fontsize-ensurer.reset-size7.size10,
+.katex .sizing.reset-size7.size10 {
+    font-size: 1.72833333em
+}
+
+.katex .fontsize-ensurer.reset-size7.size11,
+.katex .sizing.reset-size7.size11 {
+    font-size: 2.07333333em
+}
+
+.katex .fontsize-ensurer.reset-size8.size1,
+.katex .sizing.reset-size8.size1 {
+    font-size: .34722222em
+}
+
+.katex .fontsize-ensurer.reset-size8.size2,
+.katex .sizing.reset-size8.size2 {
+    font-size: .41666667em
+}
+
+.katex .fontsize-ensurer.reset-size8.size3,
+.katex .sizing.reset-size8.size3 {
+    font-size: .48611111em
+}
+
+.katex .fontsize-ensurer.reset-size8.size4,
+.katex .sizing.reset-size8.size4 {
+    font-size: .55555556em
+}
+
+.katex .fontsize-ensurer.reset-size8.size5,
+.katex .sizing.reset-size8.size5 {
+    font-size: .625em
+}
+
+.katex .fontsize-ensurer.reset-size8.size6,
+.katex .sizing.reset-size8.size6 {
+    font-size: .69444444em
+}
+
+.katex .fontsize-ensurer.reset-size8.size7,
+.katex .sizing.reset-size8.size7 {
+    font-size: .83333333em
+}
+
+.katex .fontsize-ensurer.reset-size8.size8,
+.katex .sizing.reset-size8.size8 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size8.size9,
+.katex .sizing.reset-size8.size9 {
+    font-size: 1.2em
+}
+
+.katex .fontsize-ensurer.reset-size8.size10,
+.katex .sizing.reset-size8.size10 {
+    font-size: 1.44027778em
+}
+
+.katex .fontsize-ensurer.reset-size8.size11,
+.katex .sizing.reset-size8.size11 {
+    font-size: 1.72777778em
+}
+
+.katex .fontsize-ensurer.reset-size9.size1,
+.katex .sizing.reset-size9.size1 {
+    font-size: .28935185em
+}
+
+.katex .fontsize-ensurer.reset-size9.size2,
+.katex .sizing.reset-size9.size2 {
+    font-size: .34722222em
+}
+
+.katex .fontsize-ensurer.reset-size9.size3,
+.katex .sizing.reset-size9.size3 {
+    font-size: .40509259em
+}
+
+.katex .fontsize-ensurer.reset-size9.size4,
+.katex .sizing.reset-size9.size4 {
+    font-size: .46296296em
+}
+
+.katex .fontsize-ensurer.reset-size9.size5,
+.katex .sizing.reset-size9.size5 {
+    font-size: .52083333em
+}
+
+.katex .fontsize-ensurer.reset-size9.size6,
+.katex .sizing.reset-size9.size6 {
+    font-size: .5787037em
+}
+
+.katex .fontsize-ensurer.reset-size9.size7,
+.katex .sizing.reset-size9.size7 {
+    font-size: .69444444em
+}
+
+.katex .fontsize-ensurer.reset-size9.size8,
+.katex .sizing.reset-size9.size8 {
+    font-size: .83333333em
+}
+
+.katex .fontsize-ensurer.reset-size9.size9,
+.katex .sizing.reset-size9.size9 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size9.size10,
+.katex .sizing.reset-size9.size10 {
+    font-size: 1.20023148em
+}
+
+.katex .fontsize-ensurer.reset-size9.size11,
+.katex .sizing.reset-size9.size11 {
+    font-size: 1.43981481em
+}
+
+.katex .fontsize-ensurer.reset-size10.size1,
+.katex .sizing.reset-size10.size1 {
+    font-size: .24108004em
+}
+
+.katex .fontsize-ensurer.reset-size10.size2,
+.katex .sizing.reset-size10.size2 {
+    font-size: .28929605em
+}
+
+.katex .fontsize-ensurer.reset-size10.size3,
+.katex .sizing.reset-size10.size3 {
+    font-size: .33751205em
+}
+
+.katex .fontsize-ensurer.reset-size10.size4,
+.katex .sizing.reset-size10.size4 {
+    font-size: .38572806em
+}
+
+.katex .fontsize-ensurer.reset-size10.size5,
+.katex .sizing.reset-size10.size5 {
+    font-size: .43394407em
+}
+
+.katex .fontsize-ensurer.reset-size10.size6,
+.katex .sizing.reset-size10.size6 {
+    font-size: .48216008em
+}
+
+.katex .fontsize-ensurer.reset-size10.size7,
+.katex .sizing.reset-size10.size7 {
+    font-size: .57859209em
+}
+
+.katex .fontsize-ensurer.reset-size10.size8,
+.katex .sizing.reset-size10.size8 {
+    font-size: .69431051em
+}
+
+.katex .fontsize-ensurer.reset-size10.size9,
+.katex .sizing.reset-size10.size9 {
+    font-size: .83317261em
+}
+
+.katex .fontsize-ensurer.reset-size10.size10,
+.katex .sizing.reset-size10.size10 {
+    font-size: 1em
+}
+
+.katex .fontsize-ensurer.reset-size10.size11,
+.katex .sizing.reset-size10.size11 {
+    font-size: 1.19961427em
+}
+
+.katex .fontsize-ensurer.reset-size11.size1,
+.katex .sizing.reset-size11.size1 {
+    font-size: .20096463em
+}
+
+.katex .fontsize-ensurer.reset-size11.size2,
+.katex .sizing.reset-size11.size2 {
+    font-size: .24115756em
+}
+
+.katex .fontsize-ensurer.reset-size11.size3,
+.katex .sizing.reset-size11.size3 {
+    font-size: .28135048em
+}
+
+.katex .fontsize-ensurer.reset-size11.size4,
+.katex .sizing.reset-size11.size4 {
+    font-size: .32154341em
+}
+
+.katex .fontsize-ensurer.reset-size11.size5,
+.katex .sizing.reset-size11.size5 {
+    font-size: .36173633em
+}
+
+.katex .fontsize-ensurer.reset-size11.size6,
+.katex .sizing.reset-size11.size6 {
+    font-size: .40192926em
+}
+
+.katex .fontsize-ensurer.reset-size11.size7,
+.katex .sizing.reset-size11.size7 {
+    font-size: .48231511em
+}
+
+.katex .fontsize-ensurer.reset-size11.size8,
+.katex .sizing.reset-size11.size8 {
+    font-size: .57877814em
+}
+
+.katex .fontsize-ensurer.reset-size11.size9,
+.katex .sizing.reset-size11.size9 {
+    font-size: .69453376em
+}
+
+.katex .fontsize-ensurer.reset-size11.size10,
+.katex .sizing.reset-size11.size10 {
+    font-size: .83360129em
+}
+
+.katex .fontsize-ensurer.reset-size11.size11,
+.katex .sizing.reset-size11.size11 {
+    font-size: 1em
+}
+
+.katex .delimsizing.size1 {
+    font-family: KaTeX_Size1
+}
+
+.katex .delimsizing.size2 {
+    font-family: KaTeX_Size2
+}
+
+.katex .delimsizing.size3 {
+    font-family: KaTeX_Size3
+}
+
+.katex .delimsizing.size4 {
+    font-family: KaTeX_Size4
+}
+
+.katex .delimsizing.mult .delim-size1>span {
+    font-family: KaTeX_Size1
+}
+
+.katex .delimsizing.mult .delim-size4>span {
+    font-family: KaTeX_Size4
+}
+
+.katex .nulldelimiter {
+    display: inline-block;
+    width: .12em
+}
+
+.katex .delimcenter,
+.katex .op-symbol {
+    position: relative
+}
+
+.katex .op-symbol.small-op {
+    font-family: KaTeX_Size1
+}
+
+.katex .op-symbol.large-op {
+    font-family: KaTeX_Size2
+}
+
+.katex .accent>.vlist-t,
+.katex .op-limits>.vlist-t {
+    text-align: center
+}
+
+.katex .accent .accent-body {
+    position: relative
+}
+
+.katex .accent .accent-body:not(.accent-full) {
+    width: 0
+}
+
+.katex .overlay {
+    display: block
+}
+
+.katex .mtable .vertical-separator {
+    display: inline-block;
+    margin: 0 -.025em;
+    border-right: .05em solid;
+    min-width: 1px
+}
+
+.katex .mtable .vs-dashed {
+    border-right: .05em dashed
+}
+
+.katex .mtable .arraycolsep {
+    display: inline-block
+}
+
+.katex .mtable .col-align-c>.vlist-t {
+    text-align: center
+}
+
+.katex .mtable .col-align-l>.vlist-t {
+    text-align: left
+}
+
+.katex .mtable .col-align-r>.vlist-t {
+    text-align: right
+}
+
+.katex .svg-align {
+    text-align: left
+}
+
+.katex svg {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: inherit;
+    fill: currentColor;
+    stroke: currentColor;
+    fill-rule: nonzero;
+    fill-opacity: 1;
+    stroke-width: 1;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-dasharray: none;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1
+}
+
+.katex svg path {
+    stroke: none
+}
+
+.katex img {
+    border-style: none;
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+    max-height: none
+}
+
+.katex .stretchy {
+    width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden
+}
+
+.katex .stretchy:after,
+.katex .stretchy:before {
+    content: ""
+}
+
+.katex .hide-tail {
+    width: 100%;
+    position: relative;
+    overflow: hidden
+}
+
+.katex .halfarrow-left {
+    position: absolute;
+    left: 0;
+    width: 50.2%;
+    overflow: hidden
+}
+
+.katex .halfarrow-right {
+    position: absolute;
+    right: 0;
+    width: 50.2%;
+    overflow: hidden
+}
+
+.katex .brace-left {
+    position: absolute;
+    left: 0;
+    width: 25.1%;
+    overflow: hidden
+}
+
+.katex .brace-center {
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    overflow: hidden
+}
+
+.katex .brace-right {
+    position: absolute;
+    right: 0;
+    width: 25.1%;
+    overflow: hidden
+}
+
+.katex .x-arrow-pad {
+    padding: 0 .5em
+}
+
+.katex .mover,
+.katex .munder,
+.katex .x-arrow {
+    text-align: center
+}
+
+.katex .boxpad {
+    padding: 0 .3em
+}
+
+.katex .fbox,
+.katex .fcolorbox {
+    box-sizing: border-box;
+    border: .04em solid
+}
+
+.katex .cancel-pad {
+    padding: 0 .2em
+}
+
+.katex .cancel-lap {
+    margin-left: -.2em;
+    margin-right: -.2em
+}
+
+.katex .sout {
+    border-bottom-style: solid;
+    border-bottom-width: .08em
+}
+
+.katex-display {
+    display: block;
+    margin: 1em 0;
+    text-align: center
+}
+
+.katex-display>.katex {
+    display: block;
+    text-align: center;
+    white-space: nowrap
+}
+
+.katex-display>.katex>.katex-html {
+    display: block;
+    position: relative
+}
+
+.katex-display>.katex>.katex-html>.tag {
+    position: absolute;
+    right: 0
+}
+
+.katex-display.leqno>.katex>.katex-html>.tag {
+    left: 0;
+    right: auto
+}
+
+.katex-display.fleqn>.katex {
+    text-align: left
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/static/fonts/lato-normal.27bd77b.woff) format("woff")
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 400;
+    src: url(/static/fonts/lato-normal-italic.f28f2d6.woff) format("woff")
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    src: url(/static/fonts/lato-black.f80bda6.woff) format("woff")
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 600;
+    src: url(/static/fonts/lato-black-italic.798eafd.woff) format("woff")
+}
+
+@font-face {
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/static/fonts/RobotoMono-Regular.0b6a547.woff) format("woff")
+}
+
+@font-face {
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: 600;
+    src: url(/static/fonts/RobotoMono-Bold.819f3b2.woff) format("woff")
+}
+
+.prism *,
+.token.pre.gfm * {
+    font-weight: inherit !important
+}
+
+.prism .token.cdata,
+.prism .token.comment,
+.prism .token.doctype,
+.prism .token.prolog,
+.token.pre.gfm .token.cdata,
+.token.pre.gfm .token.comment,
+.token.pre.gfm .token.doctype,
+.token.pre.gfm .token.prolog {
+    color: #708090
+}
+
+.prism .token.punctuation,
+.token.pre.gfm .token.punctuation {
+    color: #999
+}
+
+.prism .namespace,
+.token.pre.gfm .namespace {
+    opacity: .7
+}
+
+.prism .token.boolean,
+.prism .token.constant,
+.prism .token.deleted,
+.prism .token.number,
+.prism .token.property,
+.prism .token.symbol,
+.prism .token.tag,
+.token.pre.gfm .token.boolean,
+.token.pre.gfm .token.constant,
+.token.pre.gfm .token.deleted,
+.token.pre.gfm .token.number,
+.token.pre.gfm .token.property,
+.token.pre.gfm .token.symbol,
+.token.pre.gfm .token.tag {
+    color: #905
+}
+
+.prism .token.attr-name,
+.prism .token.builtin,
+.prism .token.char,
+.prism .token.inserted,
+.prism .token.selector,
+.prism .token.string,
+.token.pre.gfm .token.attr-name,
+.token.pre.gfm .token.builtin,
+.token.pre.gfm .token.char,
+.token.pre.gfm .token.inserted,
+.token.pre.gfm .token.selector,
+.token.pre.gfm .token.string {
+    color: #690
+}
+
+.prism .language-css .token.string,
+.prism .style .token.string,
+.prism .token.entity,
+.prism .token.operator,
+.prism .token.url,
+.token.pre.gfm .language-css .token.string,
+.token.pre.gfm .style .token.string,
+.token.pre.gfm .token.entity,
+.token.pre.gfm .token.operator,
+.token.pre.gfm .token.url {
+    color: #a67f59
+}
+
+.prism .token.atrule,
+.prism .token.attr-value,
+.prism .token.keyword,
+.token.pre.gfm .token.atrule,
+.token.pre.gfm .token.attr-value,
+.token.pre.gfm .token.keyword {
+    color: #07a
+}
+
+.prism .token.function,
+.token.pre.gfm .token.function {
+    color: #dd4a68
+}
+
+.prism .token.important,
+.prism .token.regex,
+.prism .token.variable,
+.token.pre.gfm .token.important,
+.token.pre.gfm .token.regex,
+.token.pre.gfm .token.variable {
+    color: #e90
+}
+
+.prism .token.bold,
+.prism .token.important,
+.token.pre.gfm .token.bold,
+.token.pre.gfm .token.important {
+    font-weight: 500
+}
+
+.prism .token.italic,
+.token.pre.gfm .token.italic {
+    font-style: italic
+}
+
+.mermaid {
+    font-size: 16px
+}
+
+.mermaid svg {
+    color: rgba(0, 0, 0, .75);
+    width: 100%;
+    max-width: 100%
+}
+
+.app--dark .mermaid svg {
+    color: hsla(0, 0%, 100%, .75)
+}
+
+.mermaid svg * {
+    font-family: Lato, Helvetica Neue, Helvetica, sans-serif
+}
+
+.mermaid .mermaid .label {
+    color: #333
+}
+
+.mermaid .node circle,
+.mermaid .node ellipse,
+.mermaid .node polygon,
+.mermaid .node rect {
+    fill: #eee;
+    stroke: #999;
+    stroke-width: 1px
+}
+
+.mermaid .node.clickable {
+    cursor: pointer
+}
+
+.mermaid .arrowheadPath {
+    fill: #333
+}
+
+.mermaid .edgePath .path {
+    stroke: #666;
+    stroke-width: 1.5px
+}
+
+.mermaid .edgeLabel {
+    background-color: #fff
+}
+
+.mermaid .cluster rect {
+    fill: #eaf2fb !important;
+    stroke: #26a !important;
+    stroke-width: 1px !important
+}
+
+.mermaid .cluster text {
+    fill: #333
+}
+
+.mermaid div.mermaidTooltip {
+    position: absolute;
+    text-align: center;
+    max-width: 200px;
+    padding: 2px;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 12px;
+    background: #eaf2fb;
+    border: 1px solid #26a;
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 100
+}
+
+.mermaid .actor {
+    stroke: #999;
+    fill: #eee
+}
+
+.mermaid text.actor {
+    fill: #333;
+    stroke: none
+}
+
+.mermaid .actor-line {
+    stroke: #666
+}
+
+.mermaid .messageLine0 {
+    marker-end: "url(#arrowhead)"
+}
+
+.mermaid .messageLine0,
+.mermaid .messageLine1 {
+    stroke-width: 1.5;
+    stroke-dasharray: "2 2";
+    stroke: #333
+}
+
+.mermaid #arrowhead {
+    fill: #333
+}
+
+.mermaid #crosshead path {
+    fill: #333 !important;
+    stroke: #333 !important
+}
+
+.mermaid .messageText {
+    fill: #333;
+    stroke: none
+}
+
+.mermaid .labelBox {
+    stroke: #999;
+    fill: #eee
+}
+
+.mermaid .labelText,
+.mermaid .loopText {
+    fill: #fff;
+    stroke: none
+}
+
+.mermaid .loopLine {
+    stroke-width: 2;
+    stroke-dasharray: "2 2";
+    marker-end: "url(#arrowhead)";
+    stroke: #999
+}
+
+.mermaid .note {
+    stroke: #770;
+    fill: #ffa
+}
+
+.mermaid .noteText {
+    fill: #000;
+    stroke: none;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 14px
+}
+
+.mermaid .section {
+    stroke: none;
+    opacity: .2
+}
+
+.mermaid .section0,
+.mermaid .section2 {
+    fill: #80b3e6
+}
+
+.mermaid .section1,
+.mermaid .section3 {
+    fill: #fff;
+    opacity: .2
+}
+
+.mermaid .sectionTitle0,
+.mermaid .sectionTitle1,
+.mermaid .sectionTitle2,
+.mermaid .sectionTitle3 {
+    fill: #333
+}
+
+.mermaid .sectionTitle {
+    text-anchor: start;
+    font-size: 11px
+}
+
+.mermaid .grid .tick {
+    stroke: #e6e6e6;
+    opacity: .3;
+    shape-rendering: crispEdges
+}
+
+.mermaid .grid path {
+    stroke-width: 0
+}
+
+.mermaid .today {
+    fill: none;
+    stroke: #d42;
+    stroke-width: 2px
+}
+
+.mermaid .task {
+    stroke-width: 2
+}
+
+.mermaid .taskText {
+    text-anchor: middle;
+    font-size: 11px
+}
+
+.mermaid .taskTextOutsideRight {
+    fill: #333;
+    text-anchor: start;
+    font-size: 11px
+}
+
+.mermaid .taskTextOutsideLeft {
+    fill: #333;
+    text-anchor: end;
+    font-size: 11px
+}
+
+.mermaid .taskText0,
+.mermaid .taskText1,
+.mermaid .taskText2,
+.mermaid .taskText3 {
+    fill: #fff
+}
+
+.mermaid .task0,
+.mermaid .task1,
+.mermaid .task2,
+.mermaid .task3 {
+    fill: #26a;
+    stroke: #1a4d80
+}
+
+.mermaid .taskTextOutside0,
+.mermaid .taskTextOutside1,
+.mermaid .taskTextOutside2,
+.mermaid .taskTextOutside3 {
+    fill: #333
+}
+
+.mermaid .active0,
+.mermaid .active1,
+.mermaid .active2,
+.mermaid .active3 {
+    fill: #eee;
+    stroke: #1a4d80
+}
+
+.mermaid .activeText0,
+.mermaid .activeText1,
+.mermaid .activeText2,
+.mermaid .activeText3 {
+    fill: #333 !important
+}
+
+.mermaid .done0,
+.mermaid .done1,
+.mermaid .done2,
+.mermaid .done3 {
+    stroke: #666;
+    fill: #bbb;
+    stroke-width: 2
+}
+
+.mermaid .doneText0,
+.mermaid .doneText1,
+.mermaid .doneText2,
+.mermaid .doneText3 {
+    fill: #333 !important
+}
+
+.mermaid .crit0,
+.mermaid .crit1,
+.mermaid .crit2,
+.mermaid .crit3 {
+    stroke: #b1361b;
+    fill: #d42;
+    stroke-width: 2
+}
+
+.mermaid .activeCrit0,
+.mermaid .activeCrit1,
+.mermaid .activeCrit2,
+.mermaid .activeCrit3 {
+    stroke: #b1361b;
+    fill: #eee;
+    stroke-width: 2
+}
+
+.mermaid .doneCrit0,
+.mermaid .doneCrit1,
+.mermaid .doneCrit2,
+.mermaid .doneCrit3 {
+    stroke: #b1361b;
+    fill: #bbb;
+    stroke-width: 2;
+    cursor: pointer;
+    shape-rendering: crispEdges
+}
+
+.mermaid .activeCritText0,
+.mermaid .activeCritText1,
+.mermaid .activeCritText2,
+.mermaid .activeCritText3,
+.mermaid .doneCritText0,
+.mermaid .doneCritText1,
+.mermaid .doneCritText2,
+.mermaid .doneCritText3 {
+    fill: #333 !important
+}
+
+.mermaid .titleText {
+    text-anchor: middle;
+    font-size: 18px;
+    fill: #333
+}
+
+.mermaid g.classGroup text {
+    fill: #999;
+    stroke: none;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 10px
+}
+
+.mermaid g.classGroup rect {
+    fill: #eee;
+    stroke: #999
+}
+
+.mermaid g.classGroup line {
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid .classLabel .box {
+    stroke: none;
+    stroke-width: 0;
+    fill: #eee;
+    opacity: .5
+}
+
+.mermaid .classLabel .label {
+    fill: #999;
+    font-size: 10px
+}
+
+.mermaid .relation {
+    stroke: #999;
+    stroke-width: 1;
+    fill: none
+}
+
+.mermaid #compositionEnd,
+.mermaid #compositionStart {
+    fill: #999;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid #aggregationEnd,
+.mermaid #aggregationStart {
+    fill: #eee;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid #dependencyEnd,
+.mermaid #dependencyStart,
+.mermaid #extensionEnd,
+.mermaid #extensionStart {
+    fill: #999;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid .branch-label,
+.mermaid .commit-id,
+.mermaid .commit-msg {
+    fill: #d3d3d3;
+    color: #d3d3d3
+}
+
+.app--dark .mermaid .label {
+    color: #323d47
+}
+
+.app--dark .mermaid .node circle,
+.app--dark .mermaid .node ellipse,
+.app--dark .mermaid .node polygon,
+.app--dark .mermaid .node rect {
+    fill: #bdd5ea;
+    stroke: purple;
+    stroke-width: 1px
+}
+
+.app--dark .mermaid .node.clickable {
+    cursor: pointer
+}
+
+.app--dark .mermaid .arrowheadPath {
+    fill: #d3d3d3
+}
+
+.app--dark .mermaid .edgePath .path {
+    stroke: #d3d3d3;
+    stroke-width: 1.5px
+}
+
+.app--dark .mermaid .edgeLabel {
+    background-color: #e8e8e8
+}
+
+.app--dark .mermaid .cluster rect {
+    fill: #6d6d65 !important;
+    stroke: hsla(0, 0%, 100%, .25) !important;
+    stroke-width: 1px !important
+}
+
+.app--dark .mermaid .cluster text {
+    fill: #f9fffe
+}
+
+.app--dark .mermaid div.mermaidTooltip {
+    position: absolute;
+    text-align: center;
+    max-width: 200px;
+    padding: 2px;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 12px;
+    background: #6d6d65;
+    border: 1px solid hsla(0, 0%, 100%, .25);
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 100
+}
+
+.app--dark .mermaid .actor {
+    stroke: #81b1db;
+    fill: #bdd5ea
+}
+
+.app--dark .mermaid text.actor {
+    fill: #000;
+    stroke: none
+}
+
+.app--dark .mermaid .actor-line {
+    stroke: #d3d3d3
+}
+
+.app--dark .mermaid .messageLine0 {
+    marker-end: "url(#arrowhead)"
+}
+
+.app--dark .mermaid .messageLine0,
+.app--dark .mermaid .messageLine1 {
+    stroke-width: 1.5;
+    stroke-dasharray: "2 2";
+    stroke: #d3d3d3
+}
+
+.app--dark .mermaid #arrowhead {
+    fill: #d3d3d3
+}
+
+.app--dark .mermaid #crosshead path {
+    fill: #d3d3d3 !important;
+    stroke: #d3d3d3 !important
+}
+
+.app--dark .mermaid .messageText {
+    fill: #d3d3d3;
+    stroke: none
+}
+
+.app--dark .mermaid .labelBox {
+    stroke: #81b1db;
+    fill: #bdd5ea
+}
+
+.app--dark .mermaid .labelText,
+.app--dark .mermaid .loopText {
+    fill: #d3d3d3;
+    stroke: none
+}
+
+.app--dark .mermaid .loopLine {
+    stroke-width: 2;
+    stroke-dasharray: "2 2";
+    marker-end: "url(#arrowhead)";
+    stroke: #81b1db
+}
+
+.app--dark .mermaid .note {
+    stroke: hsla(0, 0%, 100%, .25);
+    fill: #fff5ad
+}
+
+.app--dark .mermaid .noteText {
+    fill: #000;
+    stroke: none;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 14px
+}
+
+.app--dark .mermaid .section {
+    stroke: none;
+    opacity: .2
+}
+
+.app--dark .mermaid .section0 {
+    fill: hsla(0, 0%, 100%, .3)
+}
+
+.app--dark .mermaid .section2 {
+    fill: #eae8b9
+}
+
+.app--dark .mermaid .section1,
+.app--dark .mermaid .section3 {
+    fill: #fff;
+    opacity: .2
+}
+
+.app--dark .mermaid .sectionTitle0,
+.app--dark .mermaid .sectionTitle1,
+.app--dark .mermaid .sectionTitle2,
+.app--dark .mermaid .sectionTitle3 {
+    fill: #f9fffe
+}
+
+.app--dark .mermaid .sectionTitle {
+    text-anchor: start;
+    font-size: 11px
+}
+
+.app--dark .mermaid .grid .tick {
+    stroke: #d3d3d3;
+    opacity: .3;
+    shape-rendering: crispEdges
+}
+
+.app--dark .mermaid .grid path {
+    stroke-width: 0
+}
+
+.app--dark .mermaid .today {
+    fill: none;
+    stroke: #db5757;
+    stroke-width: 2px
+}
+
+.app--dark .mermaid .task {
+    stroke-width: 2
+}
+
+.app--dark .mermaid .taskText {
+    text-anchor: middle;
+    font-size: 11px
+}
+
+.app--dark .mermaid .taskTextOutsideRight {
+    fill: #323d47;
+    text-anchor: start;
+    font-size: 11px
+}
+
+.app--dark .mermaid .taskTextOutsideLeft {
+    fill: #323d47;
+    text-anchor: end;
+    font-size: 11px
+}
+
+.app--dark .mermaid .taskText0,
+.app--dark .mermaid .taskText1,
+.app--dark .mermaid .taskText2,
+.app--dark .mermaid .taskText3 {
+    fill: #323d47
+}
+
+.app--dark .mermaid .task0,
+.app--dark .mermaid .task1,
+.app--dark .mermaid .task2,
+.app--dark .mermaid .task3 {
+    fill: #bdd5ea;
+    stroke: hsla(0, 0%, 100%, .5)
+}
+
+.app--dark .mermaid .taskTextOutside0,
+.app--dark .mermaid .taskTextOutside1,
+.app--dark .mermaid .taskTextOutside2,
+.app--dark .mermaid .taskTextOutside3 {
+    fill: #d3d3d3
+}
+
+.app--dark .mermaid .active0,
+.app--dark .mermaid .active1,
+.app--dark .mermaid .active2,
+.app--dark .mermaid .active3 {
+    fill: #81b1db;
+    stroke: hsla(0, 0%, 100%, .5)
+}
+
+.app--dark .mermaid .activeText0,
+.app--dark .mermaid .activeText1,
+.app--dark .mermaid .activeText2,
+.app--dark .mermaid .activeText3 {
+    fill: #323d47 !important
+}
+
+.app--dark .mermaid .done0,
+.app--dark .mermaid .done1,
+.app--dark .mermaid .done2,
+.app--dark .mermaid .done3 {
+    stroke: grey;
+    fill: #d3d3d3;
+    stroke-width: 2
+}
+
+.app--dark .mermaid .doneText0,
+.app--dark .mermaid .doneText1,
+.app--dark .mermaid .doneText2,
+.app--dark .mermaid .doneText3 {
+    fill: #323d47 !important
+}
+
+.app--dark .mermaid .crit0,
+.app--dark .mermaid .crit1,
+.app--dark .mermaid .crit2,
+.app--dark .mermaid .crit3 {
+    stroke: #e83737;
+    fill: #e83737;
+    stroke-width: 2
+}
+
+.app--dark .mermaid .activeCrit0,
+.app--dark .mermaid .activeCrit1,
+.app--dark .mermaid .activeCrit2,
+.app--dark .mermaid .activeCrit3 {
+    stroke: #e83737;
+    fill: #81b1db;
+    stroke-width: 2
+}
+
+.app--dark .mermaid .doneCrit0,
+.app--dark .mermaid .doneCrit1,
+.app--dark .mermaid .doneCrit2,
+.app--dark .mermaid .doneCrit3 {
+    stroke: #e83737;
+    fill: #d3d3d3;
+    stroke-width: 2;
+    cursor: pointer;
+    shape-rendering: crispEdges
+}
+
+.app--dark .mermaid .activeCritText0,
+.app--dark .mermaid .activeCritText1,
+.app--dark .mermaid .activeCritText2,
+.app--dark .mermaid .activeCritText3,
+.app--dark .mermaid .doneCritText0,
+.app--dark .mermaid .doneCritText1,
+.app--dark .mermaid .doneCritText2,
+.app--dark .mermaid .doneCritText3 {
+    fill: #323d47 !important
+}
+
+.app--dark .mermaid .titleText {
+    text-anchor: middle;
+    font-size: 18px;
+    fill: #323d47
+}
+
+.app--dark .mermaid g.classGroup text {
+    fill: purple;
+    stroke: none;
+    font-family: trebuchet ms, verdana, arial;
+    font-size: 10px
+}
+
+.app--dark .mermaid g.classGroup rect {
+    fill: #bdd5ea;
+    stroke: purple
+}
+
+.app--dark .mermaid g.classGroup line {
+    stroke: purple;
+    stroke-width: 1
+}
+
+.app--dark .mermaid .classLabel .box {
+    stroke: none;
+    stroke-width: 0;
+    fill: #bdd5ea;
+    opacity: .5
+}
+
+.app--dark .mermaid .classLabel .label {
+    fill: purple;
+    font-size: 10px
+}
+
+.app--dark .mermaid .relation {
+    stroke: purple;
+    stroke-width: 1;
+    fill: none
+}
+
+.app--dark .mermaid #compositionEnd,
+.app--dark .mermaid #compositionStart {
+    fill: purple;
+    stroke: purple;
+    stroke-width: 1
+}
+
+.app--dark .mermaid #aggregationEnd,
+.app--dark .mermaid #aggregationStart {
+    fill: #bdd5ea;
+    stroke: purple;
+    stroke-width: 1
+}
+
+.app--dark .mermaid #dependencyEnd,
+.app--dark .mermaid #dependencyStart,
+.app--dark .mermaid #extensionEnd,
+.app--dark .mermaid #extensionStart {
+    fill: purple;
+    stroke: purple;
+    stroke-width: 1
+}
+
+.app--dark .mermaid .branch-label,
+.app--dark .mermaid .commit-id,
+.app--dark .mermaid .commit-msg {
+    fill: #d3d3d3;
+    color: #d3d3d3
+}
+
+/*! normalize-scss | MIT/GPLv2 License | bit.ly/normalize-scss */
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0
+}
+
+article,
+aside,
+footer,
+header,
+nav,
+section {
+    display: block
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0
+}
+
+figcaption,
+figure {
+    display: block
+}
+
+figure {
+    margin: 1em 40px
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible
+}
+
+main {
+    display: block
+}
+
+pre {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects
+}
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted
+}
+
+b,
+strong {
+    font-weight: inherit;
+    font-weight: bolder
+}
+
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+dfn {
+    font-style: italic
+}
+
+mark {
+    background-color: #ff0;
+    color: #000
+}
+
+small {
+    font-size: 80%
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sub {
+    bottom: -.25em
+}
+
+sup {
+    top: -.5em
+}
+
+audio,
+video {
+    display: inline-block
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0
+}
+
+img {
+    border-style: none
+}
+
+svg:not(:root) {
+    overflow: hidden
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0
+}
+
+button {
+    overflow: visible
+}
+
+button,
+select {
+    text-transform: none
+}
+
+[type=reset],
+[type=submit],
+button,
+html [type=button] {
+    -webkit-appearance: button
+}
+
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner,
+button::-moz-focus-inner {
+    border-style: none;
+    padding: 0
+}
+
+[type=button]:-moz-focusring,
+[type=reset]:-moz-focusring,
+[type=submit]:-moz-focusring,
+button:-moz-focusring {
+    outline: 1px dotted ButtonText
+}
+
+input {
+    overflow: visible
+}
+
+[type=checkbox],
+[type=radio] {
+    box-sizing: border-box;
+    padding: 0
+}
+
+[type=number]::-webkit-inner-spin-button,
+[type=number]::-webkit-outer-spin-button {
+    height: auto
+}
+
+[type=search] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px
+}
+
+[type=search]::-webkit-search-cancel-button,
+[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit
+}
+
+fieldset {
+    padding: .35em .75em .625em
+}
+
+legend {
+    box-sizing: border-box;
+    display: table;
+    max-width: 100%;
+    padding: 0;
+    color: inherit;
+    white-space: normal
+}
+
+progress {
+    display: inline-block;
+    vertical-align: baseline
+}
+
+textarea {
+    overflow: auto
+}
+
+details {
+    display: block
+}
+
+summary {
+    display: list-item
+}
+
+menu {
+    display: block
+}
+
+canvas {
+    display: inline-block
+}
+
+[hidden],
+template {
+    display: none
+}
+
+body,
+html {
+    color: rgba(0, 0, 0, .75);
+    font-size: 16px;
+    font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.67;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.app--dark .layout__panel--editor,
+.app--dark .layout__panel--preview {
+    color: hsla(0, 0%, 100%, .75)
+}
+
+blockquote,
+dl,
+ol,
+p,
+pre,
+ul {
+    margin: 1.2em 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 1.8em 0;
+    line-height: 1.33
+}
+
+h1:after,
+h2:after {
+    content: "";
+    display: block;
+    position: relative;
+    top: .33em;
+    border-bottom: 1px solid hsla(0, 0%, 50%, .33)
+}
+
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+    margin: 0
+}
+
+dt {
+    font-weight: 700
+}
+
+a {
+    color: #0c93e4;
+    text-decoration: underline;
+    text-decoration-skip: ink
+}
+
+a:focus,
+a:hover {
+    text-decoration: none
+}
+
+code,
+pre,
+samp {
+    font-family: Roboto Mono, Lucida Sans Typewriter, Lucida Console, monaco, Courrier, monospace;
+    font-size: .85em
+}
+
+code *,
+pre *,
+samp * {
+    font-size: inherit
+}
+
+blockquote {
+    color: rgba(0, 0, 0, .5);
+    padding-left: 1.5em;
+    border-left: 5px solid rgba(0, 0, 0, .1)
+}
+
+.app--dark .layout__panel--editor blockquote,
+.app--dark .layout__panel--preview blockquote {
+    color: hsla(0, 0%, 100%, .4);
+    border-left-color: hsla(0, 0%, 100%, .1)
+}
+
+code {
+    background-color: rgba(0, 0, 0, .05);
+    border-radius: 3px;
+    padding: 2px 4px
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid hsla(0, 0%, 50%, .33);
+    margin: 2em 0
+}
+
+pre>code {
+    background-color: rgba(0, 0, 0, .05);
+    display: block;
+    padding: .5em;
+    -webkit-text-size-adjust: none;
+    overflow-x: auto;
+    white-space: pre
+}
+
+.toc ul {
+    list-style-type: none;
+    padding-left: 20px
+}
+
+table {
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td,
+th {
+    border-right: 1px solid #dcdcdc;
+    padding: 8px 12px
+}
+
+td:last-child,
+th:last-child {
+    border-right: 0
+}
+
+td {
+    border-top: 1px solid #dcdcdc
+}
+
+mark {
+    background-color: #f8f840
+}
+
+kbd {
+    font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
+    background-color: #fff;
+    border: 1px solid rgba(63, 63, 63, .25);
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(63, 63, 63, .25);
+    color: #333;
+    display: inline-block;
+    font-size: .8em;
+    margin: 0 .1em;
+    padding: .1em .6em;
+    white-space: nowrap
+}
+
+abbr[title] {
+    border-bottom: 1px dotted #777;
+    cursor: help
+}
+
+img {
+    max-width: 100%
+}
+
+.task-list-item {
+    list-style-type: none
+}
+
+.task-list-item-checkbox {
+    margin: 0 .2em 0 -1.3em
+}
+
+.footnote {
+    font-size: .8em;
+    position: relative;
+    top: -.25em;
+    vertical-align: top
+}
+
+.page-break-after {
+    page-break-after: always
+}
+
+.abc-notation-block {
+    overflow-x: auto !important
+}
+
+.stackedit__html {
+    margin-bottom: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width: 1750px
+}
+
+.stackedit__toc ul {
+    padding: 0
+}
+
+.stackedit__toc ul a {
+    margin: .5rem 0;
+    padding: .5rem 1rem
+}
+
+.stackedit__toc ul ul {
+    color: #888;
+    font-size: .9em
+}
+
+.stackedit__toc ul ul a {
+    margin: 0;
+    padding: .1rem 1rem
+}
+
+.stackedit__toc li {
+    display: block
+}
+
+.stackedit__toc a {
+    display: block;
+    color: inherit;
+    text-decoration: none
+}
+
+.stackedit__toc a:active,
+.stackedit__toc a:focus,
+.stackedit__toc a:hover {
+    background-color: rgba(0, 0, 0, .075);
+    border-radius: 3px
+}
+
+.stackedit__left {
+    position: fixed;
+    display: none;
+    width: 250px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none
+}
+
+@media (min-width:1060px) {
+    .stackedit__left {
+        display: block
+    }
+}
+
+.stackedit__right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0
+}
+
+@media (min-width:1060px) {
+    .stackedit__right {
+        left: 250px
+    }
+}
+
+.stackedit--pdf blockquote {
+    border-left-color: #ececec
+}
+
+.stackedit--pdf .stackedit__html {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: none
+}
+</style>
+
+<body class="stackedit">
+    <div class="stackedit__left">
+        <div class="stackedit__toc">
+            <ul>
+                <li><a href="#how-to-use-arcdps">How to use ArcDPS</a>
+                    <ul>
+                        <li><a href="#basics">Basics</a>
+                            <ul>
+                                <li><a href="#what-is-arcdps">- What is ArcDPS?</a></li>
+                                <li><a href="#is-it-safe-to-use">- Is it safe to use?</a></li>
+                                <li><a href="#how-do-i-install-arcdps">- How do I install ArcDPS?</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#using-arcdps">Using ArcDPS</a>
+                            <ul>
+                                <li><a href="#hotkeys">- Hotkeys</a></li>
+                                <li><a href="#reading-the-dps-meter">- Reading the DPS meter</a></li>
+                                <li><a href="#plugins">- Plugins</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#logging-basics">Logging Basics</a>
+                            <ul>
+                                <li><a href="#what-is-logging">- What is Logging?</a></li>
+                                <li><a href="#how-to-configure-arcdps-to-log-encounters">- How to Configure ArcDPS to Log Encounters</a></li>
+                                <li><a href="#what-do-i-do-with-log-files">- What do I do with Log Files?</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#viewing-dps.report-logs">Viewing dps.report Logs</a>
+                            <ul>
+                                <li><a href="#interface-basics">- Interface Basics</a></li>
+                                <li><a href="#viewing-general-stats">- Viewing General Stats</a></li>
+                                <li><a href="#viewing-boons-and-buffs">- Viewing Boons and Buffs</a></li>
+                                <li><a href="#viewing-mechanics">- Viewing Mechanics</a></li>
+                                <li><a href="#viewing-the-graphs">- Viewing the Graphs</a></li>
+                                <li><a href="#viewing-player-summaries">- Viewing Player Summaries</a></li>
+                                <li><a href="#viewing-the-combat-replay">- Viewing the Combat Replay</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#closing-notes">Closing Notes</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="stackedit__right">
+        <div class="stackedit__html">
+            <h1 id="how-to-use-arcdps">How to use ArcDPS</h1>
+            <h2 id="basics">Basics</h2>
+            <h3 id="what-is-arcdps">What is ArcDPS?</h3>
+            <p>ArcDPS is a DPS meter for Guild Wars 2 used by a huge portion of the raiding community. It’s very simple to install and use, and all it does is overlay some unobtrusive windows above your game that you can move around, hide/show, and configure to your liking.</p>
+            <h3 id="is-it-safe-to-use">Is it safe to use?</h3>
+            <p>While there is no “official” approval, it was <a href="https://www.reddit.com/r/Guildwars2/comments/5svug8/the_head_of_the_snake_devs_here_ask_us_anything/ddi77u2/" title="GW2 Reddit - Head of the Snake AMA">approved by Chris Cleary, a former lead ArenaNet dev</a> in an old Reddit post. Many players are using it, recording footage with it visible, and openly talking about it on the official forums and subreddits. ArenaNet are very much aware of its existence and nobody has ever been banned for using it to our knowledge. Remember that in the end, it is a third-party tool, so nobody can claim it is 100% safe to use, but raiders have used this tool for years without hitches. Make of that what you will.</p>
+            <h3 id="how-do-i-install-arcdps">How do I install ArcDPS?</h3>
+            <p>Go to the <a href="https://www.deltaconnected.com/arcdps/" title="ArcDPS Home Page">ArcDPS Website</a>, scroll down to <a href="https://www.deltaconnected.com/arcdps/x64/" title="ArcDPS Files">x64: Current</a>, and click on <code>d3d9.dll</code>. Browse to your Guild Wars 2 installation directory (usually <code>C:/Program Files/Guild Wars 2</code>), go into your <code>bin64</code> directory, and save the <code>d3d9.dll</code> file in there.</p>
+            <p><img src="https://i.imgur.com/V89ZFo6.png" alt="d3d9 Directory"></p>
+            <p>If you ever want to update ArcDPS, you would also follow the above instructions and replace the old <code>dll</code> file with the new one. ArcDPS often breaks with new significant game updates and the developer of the DPS meter has to roll out a new update to ArcDPS, which is usually done within a day or two. The <strong>changes</strong> section of the official website will update when a new patch is out.</p>
+            <p>If you ever want to uninstall ArcDPS, you simply remove <code>d3d9.dll</code> from your directory.</p>
+            <p>Finally, if you run into issues getting it to work, the <strong>its not working</strong> section of the official website has some fixes you can try.</p>
+            <h2 id="using-arcdps">Using ArcDPS</h2>
+            <h3 id="hotkeys">Hotkeys</h3>
+            <p><code>Alt+Shift+T</code>: Opens the options panel.</p>
+            <p><img src="https://i.imgur.com/zA7rmbl.png" alt="ArcDPS Options Panel"></p>
+            <p><code>Alt+Shift+C</code>: Opens the combat panel. Here you can see your DPS and everyone else’s in your squad.</p>
+            <p><img src="https://i.imgur.com/qWpmWfi.png" alt="ArcDPS Combat Panel"></p>
+            <p><code>Alt+Shift+B</code>: Opens the boon table so you can see your uptimes on boons such as quickness, alacrity, might, and fury.</p>
+            <p><img src="https://i.imgur.com/pKuyPzY.png" alt="ArcDPS Boon Table"></p>
+            <p><code>Alt+Shift+H</code>: Shows/Hides ArcDPS.</p>
+            <h3 id="reading-the-dps-meter">Reading the DPS meter</h3>
+            <p>Right-clicking on the combat meter brings up a context menu.</p>
+            <p><img src="https://i.imgur.com/7km8mZY.png" alt="Combat Settings"></p>
+            <p>Over here you can adjust your <strong>stats format</strong>. This basically tells ArcDPS how you want the DPS meter’s output to look, based on the below syntax:</p>
+            <ul>
+                <li><code>@1</code>: <strong>cleave total</strong> - the total amount of damage you dealt to everything.</li>
+                <li><code>@2</code>: <strong>cleave per second</strong> - the DPS you dealt to everything.</li>
+                <li><code>@3</code>: <strong>cleave percent</strong> - the % of total squad cleave damage that you contributed to.</li>
+                <li><code>@4</code>: <strong>target total</strong> - the total amount of damage you dealt to the raid boss.</li>
+                <li><code>@5</code>: <strong>target per second</strong> - the DPS you dealt to the raid boss.</li>
+                <li><code>@6</code>: <strong>target percent</strong> - the % of total squad target damage that you contributed to.</li>
+            </ul>
+            <p>In the above screenshot, you can see that the stats format is set to <code>[@5] @2</code>. This means that my target DPS will go inside square brackets and my total cleave DPS will be outputted next to it.</p>
+            <p>What’s very important to understand here is the difference between <strong>target</strong> and <strong>cleave</strong> damage. For example, if we’re fighting the raid boss <a href="https://wiki.guildwars2.com/wiki/Xera" title="GW2 Wiki - Xera">Xera</a>, you might see that you have a <strong>target</strong> DPS of <code>15.2k</code> and a <strong>cleave</strong> DPS of <code>17.8k</code>. This means that you’re doing roughly <code>15,200</code> DPS to the boss and <code>17,800</code> DPS to the boss AND all of the mobs she spawns (White Mantle enemies and her phantasms).</p>
+            <h3 id="plugins">Plugins</h3>
+            <h4 id="boon-table">Boon Table</h4>
+            <p>The ArcDPS Boon Table plugin hooks into your ArcDPS and replaces the default boon table with a much more readable one:</p>
+            <p><img src="https://i.imgur.com/0HvaDtW.png" alt="ArcDPS Boon Table"></p>
+            <p>To install it, simply go <a href="https://github.com/MarsEdge/GW2-ArcDPS-Boon-Table/releases" title="GitHub - ArcDPS Boon Table Releases">here</a>, click on <code>d3d9_arcdps_table.dll</code>, and save it right next to your <code>d3d9.dll</code> in the <code>bin64</code> folder. To use it, you can view the boon table by clicking the checkbox in the options menu (<code>Alt+Shift+T</code>) or by hitting <code>Alt+Shift+B</code>.</p>
+            <h4 id="mechanics-log">Mechanics Log</h4>
+            <p>The ArcDPS Mechanics Log plugin hooks into your ArcDPS and allows you to view a real-time log of who got affected by mechanics. We’re talking about things like who touches Deimos blacks/oils, who gets shackles on Dhuum, etc etc:</p>
+            <p><img src="https://i.imgur.com/Z6DhkYf.png" alt="ArcDPS Mechanics Log"></p>
+            <p>To install it, simply go <a href="https://github.com/MarsEdge/GW2-ArcDPS-Mechanics-Log/releases" title="GitHub - ArcDPS Mechanics Log Releases">here</a>, click on <code>d3d9_arcdps_mechanics.dll</code>, and save it right next to your <code>d3d9.dll</code> in the <code>bin64</code> folder. To use it, you can open your options menu (<code>Alt+Shift+T</code>) and navigate to the mechanics windows from there.</p>
+            <h2 id="logging-basics">Logging Basics</h2>
+            <h3 id="what-is-logging">What is Logging?</h3>
+            <p>ArcDPS can be configured to save <strong>logs</strong> after encounters. These are files with the extension of <code>.evtc</code> (or <code>.zevtc</code> if compressed) that basically include all sorts of combat-related data of a successful or unsuccessful attempt on a raid boss. These files are what we call binary files which are basically unreadable for humans but can be <em>parsed</em> by computer algorithms, allowing us to get really useful data about any given fight.</p>
+            <h3 id="how-to-configure-arcdps-to-log-encounters">How to Configure ArcDPS to Log Encounters</h3>
+            <p>This can be done from the ArcDPS options (<code>Alt+Shift+T</code>):</p>
+            <p><img src="https://i.imgur.com/2q1RfzM.png" alt="ArcDPS Logging Options"></p>
+            <p>In the <code>Logging</code> menu, make sure that the following settings are turned on:</p>
+            <ul>
+                <li><code>Save EVTC logs after encounters</code></li>
+                <li><code>Lock target to encounter NPC</code></li>
+                <li><code>Compress logs with PowerShell (Win10)</code></li>
+                <li><code>Use NPC name in EVTC save path</code></li>
+            </ul>
+            <p>By default, these log files will be saved in <code>C:/Users/&lt;user&gt;/Documents/Guild Wars 2/addons/arcdps/arcdps.cbtlogs</code>. You can open this folder by pressing the <code>Open</code> button in the ArcDPS <code>Logging</code> menu. If you’ve set things up correctly, then killing any raid boss, fractal CM boss, or training golem should populate your <code>arcdps.cbtlogs</code> folder with sub-folders and <code>evtc</code> or <code>zevtc</code> files:</p>
+            <p><img src="https://i.imgur.com/yc4n0qp.png" alt="ArcDPS EVTC Files"></p>
+            <h3 id="what-do-i-do-with-log-files">What do I do with Log Files?</h3>
+            <p>Now that you have these files, there are various parsers and online services that can take the files and make sense out of them. By far the most common one is <a href="https://dps.report/" title="dps.report Main Page">dps.report</a>. Go that website, and drag and drop any EVTC file that ArcDPS has generated for you. Here’s an example of me uploading a log of the Soulless Horror fight:</p>
+            <p><img src="https://i.imgur.com/va0pMAZ.png" alt="EVTC dps.report Example"></p>
+            <p>Doing this gave me <a href="https://dps.report/QC7g-20200420-212556_sh" title="Soulless Horror Log Example">this</a> link. Clicking on it takes me to a generated page that includes all sorts of combat data and graphs.</p>
+            <h2 id="viewing-dps.report-logs">Viewing dps.report Logs</h2>
+            <h3 id="interface-basics">Interface Basics</h3>
+            <p>Using the above log as an example, this is what we should be seeing when open the link:</p>
+            <p><img src="https://i.imgur.com/IA3j98g.png" alt="dps.report Main Interface"></p>
+            <p>The main page simply shows the <strong>damage numbers</strong> that the squad hit in the fight. We can split the data into phases using the buttons at the top. For example, if I wanted to see just what DPS everyone hit by the end of the “Pre-Breakbar 1” phase, I would click on that:</p>
+            <p><img src="https://i.imgur.com/VLTm3Tf.png" alt="dps.report Phases"></p>
+            <p>Underneath those buttons is a grid showing all of the people present in the squad. Above the names, we can see what weapons each squad member was taking, and above the weapons, we can see what class the squad member was playing followed by icons that are related to what stats they took for the fight. These stat icons are a <em>bit</em> unintuitive to understand, but bear with me!</p>
+            <p>Basically, each value for a stat is a number from 1 to 10 that represents how much of that stat the squad member has relative to the person with the highest of that stat. For example, if I mouse over Stephd’s concentration icon and it says <code>Concentration: 10</code>, it means that Stephd took the most concentration (i.e. boon duration) in the squad. Mousing over Violette Eau’s concentration shows a value of 6. This means that he had roughly 60% of the concentration that Stephd had.</p>
+            <p><img src="https://i.imgur.com/qoP9skn.png" alt="dps.report Squad Names"></p>
+            <h3 id="viewing-general-stats">Viewing General Stats</h3>
+            <p>The first table we see shows the damage numbers, but there’s a lot more information we can take out of this log than just damage. For example, we can click on <code>Gameplay Stats</code> under <code>General Stats</code></p>
+            <p><img src="https://i.imgur.com/57RFsgg.png" alt="dps.report Gameplay Stats"></p>
+            <p>In this page, we can see things like how many attacks of each player were critical, flanking, glancing, blinded, interrupted, or invulnerable hits, among other useful information. We can also look at <code>Defensive Stats</code> or <code>Support Stats</code> to see other useful information such as how much damage each person took, how many times they dodged, how many times they revived downed people, etc. If there is any icon or number that doesn’t seem to make sense, mousing over it will show a helpful tooltip saying what it actually is.</p>
+            <h3 id="viewing-boons-and-buffs">Viewing Boons and Buffs</h3>
+            <p>We can also take a look at the <code>Buffs</code> tab. Here we’ll see information about the <strong>boons</strong> (might, quickness, etc) that people received or gave out, along with information about <strong>buffs</strong> (Sun Spirit, Empower Allies, trait-specific buffs such as Kalla’s Fervor, etc). What we’re most interested in is the boons:</p>
+            <p><img src="https://i.imgur.com/bahT3O9.png" alt="dps.report Boons"></p>
+            <p>In this page, we can see the <strong>boon uptimes</strong> people had. We can see that almost every player had, on average, 23-24 stacks of might, almost permanent uptime of fury, quickness, alacrity, protection, and swiftness, and some uptimes of retaliation, aegis, stability, vigor, and resistance. These are very good boons. One interesting thing to note is that Lucius Blackmoon has very low uptimes of all boons. This could mean that she was either always far away from the group and rarely received boons or (the most likely cause) that she died early on. If we want to see her boon uptime for the duration that she was alive, we can click on <code>Phase active duration</code>.</p>
+            <p><img src="https://i.imgur.com/HdtYVHa.png" alt="dps.report Phase Active Duration"></p>
+            <p>So far we’ve only seen boon <em>uptimes</em>, but we haven’t seen where the boons are coming from. That’s what the rest of the tabs are for. For example, if we wanted to see the <strong>boon generation</strong> that people gave to just themselves, we can take a look at <code>Generation Self</code>:</p>
+            <p><img src="https://i.imgur.com/IqDHtMr.png" alt="dps.report Generation Self"></p>
+            <p>Here we can see that the Mirages, for example, gave themselves a lot of uptime of the vigor boon. This makes sense, because Mirages have a bunch of traits that give them the vigor boon. However, if we instead go to <code>Generation Group</code>, we’ll see that they gave no uptime of vigor to other people:</p>
+            <p><img src="https://i.imgur.com/Pzny6De.png" alt="dps.report Generation Group"></p>
+            <p>What’s important to understand now is the difference between all the <code>Generation</code> tabs. <strong>Generation Self</strong> means boons that each player gave to themselves, <strong>Generation Group</strong> means boons that each player gave to their subgroup in the squad, <strong>Generation Off-Group</strong> means boons that each player gave to <em>other</em> subgroup, and finally, <strong>Generation Squad</strong> means boons that players gave to everyone in the squad.</p>
+            <p>The numbers here are quite difficult to understand, but for our purposes, we can simply take it as “the higher the number, the more of that boon I gave out”. These numbers vary wildly depending on many factors, such as how much people are stacked to receive each other’s boons, how good the boon providers are at their rotation, how much boon duration boon providers take, whether the fight has a lot of moments where people lose their boons, etc. From experience, you’ll gain a sense of what kind of numbers to aim for. As a Druid, for example, around 15+ might output to squad is usually pretty solid.</p>
+            <h3 id="viewing-mechanics">Viewing Mechanics</h3>
+            <p>Another useful page that dps.report provides is a summary of the fight’s <strong>mechanics</strong>. This page will be unique for each boss, since every boss has different mechanics. What’s usually shown here involves things like how many times people got hit by certain attacks, how many times people were affected by mechanics (such as Slothasor poisons or Dhuum shackles), and so on. In our example, we can take a look at some Soulless-Horror-specific mechanics:</p>
+            <p><img src="https://i.imgur.com/iDoCJj8.png" alt="dps.report Mechanics"></p>
+            <p>Most of Soulless Horror’s listed mechanics are simply attacks that people failed to dodge. For example, we can see that Naomi Delacroíx got hit by one <code>Donut In</code> attack. This is the inner circle of the boss’s Vortex Slash attack, more commonly referred to by groups as the “donut attack”. Every time someone fails to dodge, block, or use invulnerability against any of these listed attacks, ArcDPS logs it and dps.report will output that for us to see.</p>
+            <p>Some of these mecahnics are <em>not</em> in fact attacks, such as <code>Fixate</code> or <code>Necrosis</code>, which are tank-specific mechanics that indicate how many times each tank took the aggro and how many stacks of Necrosis they got. Since tanks usually try swap at 3 stacks of Necrosis (the longer you tank, the more stacks you get, which means you take more and more damage), the fact that they swapped fixation three times each and got three stacks of Necrosis each makes a lot of sense.</p>
+            <h3 id="viewing-the-graphs">Viewing the Graphs</h3>
+            <p>In dps.report, we can see a <strong>graph</strong> of people’s DPS and other events over time. This is in the <code>Graph</code> tab.</p>
+            <p><img src="https://i.imgur.com/I2zZ5we.png" alt="dps.report Graph"></p>
+            <p>On the y-axis, we have people’s DPS, and on the x-axis, we have the time of the fight. We’ll notice that the fight here is split up into the different phases and also that people’s DPS over time is tracked as coloured lines depending on the class they play. At the bottom, we can show or hide certain items in the graph. For example, if we show the <code>Inner Donut</code> item, then we’ll see when exactly in the fight Naomi Delacroíx got hit by that <code>Donut In</code> attack we saw in the <code>Mechanics</code> tab:</p>
+            <p><img src="https://i.imgur.com/jyCdHTl.png" alt="dps.report Donut In"></p>
+            <p>We can also see, marked with a black <code>X</code>, when Lucius Blackmoon died. Her DPS line started going down, which makes sense, since she wasn’t alive to continue doing damage:</p>
+            <p><img src="https://i.imgur.com/Ha6cOCv.png" alt="dps.report Death"></p>
+            <p>If we wanted to, we could see a similar sort of graph for the Soulless Horror boss, by going in the <code>Targets Summary</code> tab and hitting the <code>Graph</code> tab:</p>
+            <p><img src="https://i.imgur.com/v2lmWg9.png" alt="dps.report Target Graph"></p>
+            <p>By default, this graph shows the vulnerability stacks over time for the boss as a green visualisation. We can see that the vulnerability on the boss is almost always at 25 stacks, which is what we want. Vulnerability means the boss takes more damage, and if this ever dips down, the squad loses out on a lot of damage. The controls on the right of the graph allow us to see other conditions that the boss had on herself throughout the fight.</p>
+            <h3 id="viewing-player-summaries">Viewing Player Summaries</h3>
+            <p>If we want to drill down on specifics of a single player’s performance, we can click on the <code>Player Summary</code> tab and choose one of the names in the squad grid at the top. For the sake of the example, we can choose Fierce Tara.</p>
+            <p><img src="https://i.imgur.com/nccx1lD.png" alt="dps.report Player Summary Fierce Tara"></p>
+            <p>This shows us a lot of details about what Fierce Tara did throughout the fight. We can see which skills and conditions of his did the most damage to the boss, which skills he took the most damage from, a graph showing which skills he cast at what time and his boon uptimes, a visualisation of the skills he pressed in a simple rotation, which consumables he took, and how he died (if he died, which he didn’t in our case). Just like previously, we can take a look at that graph in the <code>Graph</code> tab:</p>
+            <p><img src="https://i.imgur.com/CxTE4by.png" alt="dps.report Player Summary Graph"></p>
+            <p>By default, the first thing we’ll see is his might (in red), which is almost always at 25 apart from a couple of drops to 20 between the first and second phase. At the bottom, we can see a small, long pink rectangle indicating his quickness uptime. All of this information can be toggled on and off on the right. We can zoom, pan, and perform other actions on the graph by hovering over it and making use of the controls that fade in at the top right:</p>
+            <p><img src="https://i.imgur.com/N5yAo92.png" alt="dps.report Graph Controls"></p>
+            <p>Zooming in and looking at the bottom of the graph allows us to see which skills he pressed at which point in the fight:</p>
+            <p><img src="https://i.imgur.com/x8BrZuP.png" alt="dps.report Graph Skills"></p>
+            <p>In the above picture, we can see that between 50 and 70 seconds of the fight, Fierce Tara cast various different skills. The very bottom shows what the colours mean. Almost all of Fierce Tara’s skills are filled in as blue, which meant that he was fast with his rotation and cast his buttons in quick enough succession that the skill aftercasts (useless animations that play out after the skill finishes casting) are cancelled and don’t play out. If he cancelled any of those abilities <em>before</em> they finished casting (by dodging or whatever else could interrupt a skill), then they would be filled in red, which is obviously not good.</p>
+            <p>If we wanted to see Fierce Tara’s skill rotation more concisely rather than zooming and panning through a long graph, we can navigate to the <code>Simple Rotation</code> tab:</p>
+            <p><img src="https://i.imgur.com/xgP6xrP.png" alt="dps.report Simple Rotation"></p>
+            <h3 id="viewing-the-combat-replay">Viewing the Combat Replay</h3>
+            <p>Finally, one last really cool feature of dps.report is the <strong>Combat Replay</strong>. If we want to see an animation of how exactly the fight played out, we can hit the <code>Combat Replay</code> button at the top right.</p>
+            <p><img src="https://i.imgur.com/r75CMhb.png" alt="dps.report Combat Replay Button"></p>
+            <p>Let’s say we want to use this combat replay to find out how Lucius Blackmoon died. We know from the graph that she died 84 seconds into the fight. Let’s turn on tracking for her in the squad tables on the left:</p>
+            <p><img src="https://i.imgur.com/KYqUM90.png" alt="dps.report Squad Tables"></p>
+            <p>Let’s also move the tracker to a few seconds before 84 and hit the <code>Play</code> button:</p>
+            <p><img src="https://i.imgur.com/B8Ad37r.png" alt="dps.report Combat Replay Media Buttons"></p>
+            <p>If we now look at the animation, we’ll be able to see Lucius Blackmoon highlighted in green, and watching the animation shows that she died due to an unfortunate dodge into the oneshot wall:</p>
+            <p><img src="https://i.imgur.com/gaVVPhO.png" alt="dps.report Combat Replay Highlight"></p>
+            <h2 id="closing-notes">Closing Notes</h2>
+            <p>If anyone has any questions about logging, ask about them in the <a href="https://discord.gg/455x8kG" title="RTI Discord Invite">RTI discord</a>!</p>
+        </div>
+    </div>
+</body>
+
+</html>
