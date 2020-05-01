@@ -60,7 +60,7 @@
 
 * **XERA**
 	- [Chrono (Tank)](https://youtu.be/FY1yca1fIV8)
-	- DPS
+	- [DPS](https://youtu.be/235WeQYBGhs)
 
 ---
 
