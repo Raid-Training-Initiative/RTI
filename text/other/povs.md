@@ -1,4 +1,3 @@
-
 # VALE GUARDIAN
 [Chrono (Tank)](https://youtu.be/CAGlgKkwACw)
 [Druid (Seeker Control)](https://youtu.be/re84jKiVTJI)
