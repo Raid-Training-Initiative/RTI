@@ -6,8 +6,8 @@
 * **VALE GUARDIAN**
 	- [Chrono (Tank)](https://youtu.be/CAGlgKkwACw)
 	- [Druid (Seeker Control)](https://youtu.be/re84jKiVTJI)
-	- [DPS (Condi)](https://youtu.be/1LrNn-a5DyQ)
-	- [DPS (Power)](https://youtu.be/TmouJVFStC4)
+	- [DPS (Condi)](https://youtu.be/TmouJVFStC4)
+	- [DPS (Power)](https://youtu.be/1LrNn-a5DyQ)
 
 * **SPIRIT RUN**
 	- [Chrono (Portals)](https://youtu.be/0uWESE80lkE)
@@ -78,7 +78,7 @@
 	- [DPS](https://youtu.be/xxcJqk7uLwE)
 
 * **SAMAROG**
-	- [Druid (Pusher)](https://youtu.be/Fg3J7usmaHk)
+	- [Druid (Rigom Pusher)](https://youtu.be/Fg3J7usmaHk)
 	- [BS](https://youtu.be/3tzgnoYj7jE?t=2)
 	- [DPS](https://youtu.be/dZWxP_v6GO4)
 
@@ -139,7 +139,7 @@
 	- [Chrono (Tank + Portals + Pull In)](https://youtu.be/xUj4PogR5uc)
 	- [Chrono (Tank + Pull Out)](https://youtu.be/d0c8rp96xww)
 	- [Spellbreaker (Dome)](https://youtu.be/yXRPdVGL-7k)
-	- [Daredevil (Lamp)](https://youtu.be/I1-JTVwTr4s)
+	- [Daredevil (Solo Lamp)](https://youtu.be/I1-JTVwTr4s)
 	- [Deadeye (Kiter)](https://youtu.be/scp3ActKZh4)
 	- [DPS](https://youtu.be/GKFM_1ggRBQ)
 
