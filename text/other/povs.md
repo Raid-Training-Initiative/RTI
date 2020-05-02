@@ -46,7 +46,7 @@
 
 ## Wing 3
 * **ESCORT**
-	- [Chrono (Solo Towers)](https://youtu.be/tYrQ4_uGt9g)
+	- [Mirage (Solo Towers)](https://youtu.be/tYrQ4_uGt9g)
 	- [BS](https://youtu.be/teWW5SCivdg)
 	- [DPS](https://youtu.be/ki-Hkka5Bo0)
 
