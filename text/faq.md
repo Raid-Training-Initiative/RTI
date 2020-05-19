@@ -54,7 +54,7 @@ RTI is not simply a training guild, but a community of friends that try to help 
 
 Activity checks will be occassionally used to clear out players that have become completely inactive. These are given a large amount of notice in game, in Discord and on our website.
 _ _
-`[11] What is the bot that I see people sending commands to in #glenna_secret_room?`
+`[11] What is the bot that I see people sending commands?`
 That's GW2Bot! You can read up on the GW2Bot, and the commands you can give it, here: <https://gw2bot.info/>
 Please keep all usage of the bot to the appropriate channel (usually #glenna_secret_room).
 _ _
@@ -67,8 +67,7 @@ _ _
 `[13] What are all the different guild ranks?`
 `[•]` **Trainee**
 Your default rank upon joining the guild. Ask an Officer to give you this role on Discord if it isn't automatically applied to you. Trainees are here to improve, eager to get better and learn the basics to succeed.
-_Requirements_: #join_us 
-_Activity kick_: 2 weeks
+_Requirements_: #join_us
 `[•]` **Raider**
 Speak to an @Officer once you feel comfortable clearing at least four of the raid wings and you will be promoted to this rank. Raiders are considered past the "training stage" and should be confident raiding independently.
 _Requirements_: Cleared at least 4 raid wings.
@@ -77,10 +76,10 @@ They improve the guild hall with their scribe skills.
 _Requirements_: Approved by @Officer.
 `[•]` **Commander**
 They help around on our trainings, leading or assisting. They have good knowledge of most encounters and class builds.They will also be socially active in the guild and keen to help out new players. 
-Requirements: Approved by @Officer. Help out in at least 1 training per month.
+_Requirements_: Approved by @Officer. Help out in at least 1 training per month.
 `[•]` **Officer**
 Enforces guild discipline and handles the admin.
-Requirements: Approved by @Leader.
+_Requirements_: Approved by @Leader.
 _ _
 `[14] Whom do I speak to if I have an issue with another member?`
 Speak to an @Officer. Screenshots of the (entire) conversation, if it happened in game, are immensely useful. Any action taken will depend upon the severity of the transgression.
