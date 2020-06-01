@@ -1,10 +1,10 @@
 ![header-faq](../graphics/headers/header-faq.png)
 ![separator-big](../graphics/separators/separator-big.png)
 `[1] How do I join your raids?`
-First, join our guild! Read the #join_us channel and follow our requirements before applying.
+First, join our community! Read the #join_us channel and follow our requirements before applying.
 _ _
 `[2] When do you normally raid?`
-Training runs can take place on any day of the week, and normally begin at `20:00 CET/CEST (GMT+1/2)`, with the expectation that - once signed up - you are committing yourself to at least 2.5 hours of playtime with the group.
+Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`). The only expectation is that, once signed up, you commit yourself to the duration of the raid (usually 2 - 3 hours).
 _ _
 `[3] How do I sign up for a raid?`
 Once you have joined the guild, you can sign up for training runs on our calendar: <https://rti.enjin.com/events>
@@ -64,23 +64,16 @@ _ _
 `[•]` Check the permissions that you will give it. Common permissions used to get the most out of the bot include: `inventories`, `characters`, `wallet`, `progressions`, and `guilds`
 `[•]` Once you have created the key, copy it, and then go into #glenna_secret_room and type `$key add ####` (replace the hashtags with your key).
 _ _
-`[13] What are all the different guild ranks?`
-`[•]` **Trainee**
-Your default rank upon joining the guild. Ask an Officer to give you this role on Discord if it isn't automatically applied to you. Trainees are here to improve, eager to get better and learn the basics to succeed.
+`[13] What are all the different Discord ranks?`
+`[•]` **Member**
+Your rank upon joining the community.
 _Requirements_: #join_us 
-_Activity kick_: 2 weeks
-`[•]` **Raider**
-Speak to an @Officer once you feel comfortable clearing at least four of the raid wings and you will be promoted to this rank. Raiders are considered past the "training stage" and should be confident raiding independently.
-_Requirements_: Cleared at least 4 raid wings.
-`[•]` **Decorator**
-They improve the guild hall with their scribe skills.
-_Requirements_: Approved by @Officer.
 `[•]` **Commander**
-They help around on our trainings, leading or assisting. They have good knowledge of most encounters and class builds.They will also be socially active in the guild and keen to help out new players. 
-Requirements: Approved by @Officer. Help out in at least 1 training per month.
+They help around on our trainings, leading or assisting. They have good knowledge of most encounters and class builds. They will also be socially active in the guild and keen to help out new players. 
+_Requirements_: Approved by @Officer. Help out in at least 1 training per month.
 `[•]` **Officer**
 Enforces guild discipline and handles the admin.
-Requirements: Approved by @Leader.
+_Requirements_: Approved by @Leader.
 _ _
 `[14] Whom do I speak to if I have an issue with another member?`
 Speak to an @Officer. Screenshots of the (entire) conversation, if it happened in game, are immensely useful. Any action taken will depend upon the severity of the transgression.
@@ -90,20 +83,7 @@ Yes! Anyone is allowed to set up an event on our calendar or post an LFG in the 
 `[•]` You cannot ask for LI or kill proof in these channels, unless it is not an RTI run (e.g. the PUG you are in - which you are currently not leading - is looking for just one more person).
 `[•]` If you're organising a run on the calendar, there is an expectation that you tag up and command it. If you are not able to do this, then contact a @Commander and request a raid.
 _ _
-`[16] What are Strikes? What is the "Scheduled Raider" status?`
-If you sign up for an event, but do not show up or change your status at the last minute to "Not Attending", you may be given a Strike. These are warnings. Strikes are also given generally for poor behaviour, at the discretion of the officers. These include, but are not limited to:
-
-`[•]` Engaging publicly in petty drama (take it to DMs or whispers, or talk to an officer)
-`[•]` Spamming guild chat or discord 
-`[•]` Posting NSFW content
-`[•]` Disrespectful attitude not becoming of a raid training guild (e.g. "People who do updrafts on Gorse don't deserve to raid")
-`[•]` Ragequitting training runs
-`[•]` Intentional trolling
-`[•]` Severe harassment aimed at a particular person or group of people
-
-We operate a "3 strikes and you're out" system, but the number of strikes given for an action depends on its severity.
-_ _
-`[17] I've returned to the game and I've been kicked! How come?`
+`[16] I've returned to the game and I've been kicked! How come?`
 You probably missed an activity check (see 10). These happen every number of months and are given a large amount of notice in game, on discord, and on the website. If you wish to reapply, you should contact an Officer with your in-game name.
 _ _
 ![separator-small](../graphics/separators/separator-small.png)
