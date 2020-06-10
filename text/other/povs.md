@@ -4,17 +4,23 @@
 
 ## Wing 1
 * **VALE GUARDIAN**
-	- [Chrono (Tank)](https://youtu.be/CAGlgKkwACw)
+	- [Chrono (Tank)](https://youtu.be/7V_Ew_xCZDM)
 	- [Druid (Seeker Control)](https://youtu.be/re84jKiVTJI)
+	- [BS](https://youtu.be/e2fEPSttoqg)
 	- [DPS (Condi)](https://youtu.be/TmouJVFStC4)
 	- [DPS (Power)](https://youtu.be/1LrNn-a5DyQ)
+	- [DPS (Mid Strat)](https://youtu.be/dWnZAucAKm8)
 
 * **SPIRIT RUN**
 	- [Chrono (Portals)](https://youtu.be/0uWESE80lkE)
+	- [DPS](https://youtu.be/q4q_nq-4vVg)
 
 * **GORSEVAL**
 	- [Chrono (Tank)](https://youtu.be/BeZ05d15GWc)
+	- [Chrono (Tank + Updraft)](https://youtu.be/rdZ8oWbIrj8)
+	- [Alacrigade (Updraft)](https://youtu.be/3wlQwa7Fx4k)
 	- [Druid](https://youtu.be/d0L0prxQH1I)
+	- [BS](https://youtu.be/RasqA-G7PNg)
 	- [DPS](https://youtu.be/xqfs3FS2xG0)
 
 * **SABETHA**
@@ -27,8 +33,10 @@
 
 ## Wing 2
 * **SLOTH**
+	- [Chrono](https://youtu.be/u4mb6yjEulo)
 	- [DPS (Shrooms)](https://youtu.be/YXzpOUoDVZw)
 	- [BS (Shrooms)](https://youtu.be/ihM1db0M37A)
+	- [Dragonhunter (Stand Your Ground)](https://youtu.be/vVffM-aIExc)
 	- [DPS](https://youtu.be/4JqUNxb3aBI)
 
 * **TRIO**
@@ -38,7 +46,9 @@
 	- [DPS](https://youtu.be/RZtas5B3FjI)
 
 * **MATTHIAS**
-	- [Mirage (Reflect)](https://youtu.be/_LVe99cJFiU)
+	- [Boon Thief](https://youtu.be/23_YsTTIV3Q)
+	- [Mirage (Reflect)](https://youtu.be/a23mTxiYaHQ)
+	- [Heal Scourge](https://youtu.be/2JPK2x7RwY8)
 	- [BS](https://youtu.be/hJ6gmW_9rIo)
 	- [DPS](https://youtu.be/9JOa0hkGJH0)
 
@@ -46,13 +56,16 @@
 
 ## Wing 3
 * **ESCORT**
+	- [Chrono (Solo Towers)](https://youtu.be/ZzI6Uf7bopU)
 	- [Mirage (Solo Towers)](https://youtu.be/tYrQ4_uGt9g)
-	- [BS](https://youtu.be/teWW5SCivdg)
+	- [Druid (Babysitter)](https://youtu.be/MobIYmSYTOI)
+	- [BS (Back Warg)](https://youtu.be/teWW5SCivdg)
 	- [DPS](https://youtu.be/ki-Hkka5Bo0)
 
-* **KC**
+* **KEEP CONSTRUCT**
 	- [Chrono (Tank)](https://youtu.be/jFP7oklGeGI)
-	- [Druid (Orb Pusher)](https://youtu.be/n4hYnXJd3V4)
+	- [Druid (Orb Pusher)](https://youtu.be/gcxRonJ8Wzw)
+	- [BS](https://youtu.be/eNnEHaeMicI)
 	- [DPS](https://youtu.be/xLa5kAMan0s)
 
 * **TWISTED CASTLE**
@@ -60,6 +73,8 @@
 
 * **XERA**
 	- [Chrono (Tank)](https://youtu.be/FY1yca1fIV8)
+	- [BS](https://youtu.be/CE1CGuDcJso)
+	- [Druid]https://youtu.be/9_j2mpunrl8)
 	- [DPS](https://youtu.be/235WeQYBGhs)
 
 ---
@@ -71,13 +86,14 @@
 	- [DPS](https://youtu.be/yLz_zSCm5zE)
 
 * **MURSAAT**
-	- [Druid (Claim)](https://youtu.be/Gkw8BA_8Kdw)
+	- [Druid (Claim)](https://youtu.be/mPuzAE4AjUc)
 	- [Druid (Dispel)](https://youtu.be/rTXwJBg0lVc)
 	- [Druid (Protect)](https://youtu.be/FMT-ctKm8uQ)
 	- [BS](https://youtu.be/aOnccAmEDxU)
 	- [DPS](https://youtu.be/xxcJqk7uLwE)
 
 * **SAMAROG**
+	- [Chrono](https://youtu.be/951DyFOdxhk)
 	- [Druid (Rigom Pusher)](https://youtu.be/Fg3J7usmaHk)
 	- [BS](https://youtu.be/3tzgnoYj7jE?t=2)
 	- [DPS](https://youtu.be/dZWxP_v6GO4)
@@ -86,6 +102,7 @@
 	- [Chrono (Tank)](https://youtu.be/ai4ty-4Ex3I)
 	- [Druid (Prides Control)](https://youtu.be/xJ_xm8UYKFk)
 	- [Soulbeast (Hand Kiter)](https://youtu.be/IukfOGbuKug)
+	- [Herald (Hand Kiter)](https://youtu.be/bs4kSdFFHWc)
 	- [BS](https://youtu.be/TLETc4e9eAQ)
 	- [DPS](https://youtu.be/SA8eGZYjp5Q)
 
@@ -93,7 +110,7 @@
 
 ## Wing 5
 * **SOULLESS HORROR**
-	- [Chrono (Tank)](https://youtu.be/iCCBgDkpFPI)
+	- [Chrono (Tank)](https://youtu.be/nRs7X0N2W9c)
 	- [Druid (Pusher)](https://youtu.be/f22kP9-K45c)
 	- [BS](https://youtu.be/pURbNb6zukQ)
 	- [DPS](https://youtu.be/y1EAoMfllyM)
@@ -105,20 +122,22 @@
 * **STATUES**
 	- [Chrono (Tank / Broken King)](https://youtu.be/MkaEXA6nylE)
 	- [Chrono (Tank / Eater of Souls)](https://youtu.be/kBw-Mw_i5co)
-	- [Greens (Eater of Souls)](https://youtu.be/zAaUVYI4nxQ)
+	- [Greens (Eater of Souls)](https://youtu.be/iAVCDo0E1DM)
 	- [Chrono (Eyes of Darkness / Split)](https://youtu.be/vP7-MxqZfWY)
-	- [Chrono (Eyes of Darkness / Portals)](https://youtu.be/O0veZr4KXbg)
-	- [Thrower (Eyes of Darkness / Split)](https://youtu.be/Sz8U8sKXGf0)
+	- [Chrono (Eyes of Darkness / Portals)](https://youtu.be/Kzj85qEm8NE)
+	- [Thrower (Eyes of Darkness / Split)](https://youtu.be/c1_qIuXr0fQ)
 	- [Druid (Eyes of Darkness + Orb Detonator)](https://youtu.be/nNXg1wKM6vg)
 	- [BS](https://youtu.be/e7eB6lylTlI)
 	- [DPS](https://youtu.be/9P5YvA-BzKE)
 
 * **DHUUM**
 	- [Chrono (Tank)](https://youtu.be/BG4MoKSBep8)
+	- [Chrono (Throne Tank)](https://youtu.be/zELFWwFQDzg)
+	- [Chrono (Green 3)](https://youtu.be/rQpYB--cM6U)
 	- [Druid (Kiter + Greens)](https://youtu.be/uECC39w2Gcg)
 	- [DPS (Boonstrip)](https://youtu.be/XI81tes7aA8)
 	- [BS](https://youtu.be/1WbmOvuAwlM)
-	- [DPS](https://youtu.be/cRxxxlObYXY)
+	- [DPS](https://youtu.be/2O_axpUXBI8)
 
 ---
 
@@ -131,24 +150,26 @@
 
 * **LARGOS**
 	- [Chrono (Tank)](https://youtu.be/uqLM7o46b-I)
+	- [Chrono (Portals)](https://youtu.be/JWUcvNvxl7Q)
 	- [Druid (Kiter)](https://youtu.be/An72f8O7QDw)
 	- [BS](https://youtu.be/GpJiBlg9WgA)
 	- [DPS](https://youtu.be/S4Mz9xFAaDw)
 
 * **QADIM**
-	- [Chrono (Tank + Portals + Pull In)](https://youtu.be/xUj4PogR5uc)
+	- [Chrono (Tank + Portals + Pull In)](https://youtu.be/UVs4JuTodQs)
 	- [Chrono (Tank + Pull Out)](https://youtu.be/d0c8rp96xww)
 	- [Spellbreaker (Dome)](https://youtu.be/yXRPdVGL-7k)
 	- [Daredevil (Solo Lamp)](https://youtu.be/I1-JTVwTr4s)
 	- [Deadeye (Kiter)](https://youtu.be/scp3ActKZh4)
-	- [DPS](https://youtu.be/GKFM_1ggRBQ)
+	- [DPS (Duo Lamp)](https://youtu.be/GKFM_1ggRBQ)
+	- [DPS](https://youtu.be/5UXpLCUgfPM)
 
 ---
 
 ## Wing 7
 * **ADINA**
 	- [Boon Thief (Tank)](https://youtu.be/6nNuLeSf4Sg)
-	- [Heal Renegade](https://youtu.be/k1hNz09kyUc)
+	- [Heal Renegade](https://youtu.be/2bpC0aC67Dw)
 	- [BS](https://youtu.be/pr16Y7oFEIE)
 	- [DPS](https://youtu.be/vItcc0AwU4c)
 
@@ -157,7 +178,9 @@
 	- [DPS](https://youtu.be/-8USQJCZowo)
 
 * **QADIM THE PEERLESS**
-	- [Chrono (Tank)](https://youtu.be/-K1fY4rHljQ)
+	- [Chrono (Tank)](https://youtu.be/9n8mUe1dQSg)
+	- [Scourge (Pylon Kiter / Blood Magic)](https://youtu.be/4Or5OkISenY)
+	- [Scourge (Pylon Kiter / Parasitic Contagion)]()
 	- [Deadeye (Pylon Kiter)](https://youtu.be/S0aYPj-7h1o)
-	- [BS (Anomalies)](https://youtu.be/FfzENdNH_aQ)
+	- [BS (Anomalies)](https://youtu.be/OdL5_5e7FcM)
 	- [DPS](https://youtu.be/s28xBJIQfP4)
