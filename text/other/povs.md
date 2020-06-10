@@ -1,3 +1,8 @@
+This is a channel that lists information for every boss. Each boss will have:
+`[•]` A list of aliases it is known by.
+`[•]` What KP (kill proof) it gives, and whether it gives LI or LD.
+`[•]` A curated list of PoVs (videos) showing how to do all the different roles the fight involves.
+
 # Raid POVs
 
 ---
