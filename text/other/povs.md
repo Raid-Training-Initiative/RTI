@@ -61,7 +61,7 @@ This is a channel that lists information for every boss. Each boss will have:
 
 ## Wing 3
 * **ESCORT**
-	- [Chrono (Solo Towers)](https://youtu.be/ZzI6Uf7bopU)
+	- [Chrono (Towers)](https://youtu.be/ZzI6Uf7bopU)
 	- [Mirage (Solo Towers)](https://youtu.be/tYrQ4_uGt9g)
 	- [Druid (Babysitter)](https://youtu.be/MobIYmSYTOI)
 	- [BS (Back Warg)](https://youtu.be/teWW5SCivdg)
