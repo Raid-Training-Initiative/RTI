@@ -9,8 +9,8 @@ This is a channel that lists information for every boss. Each boss will have:
 
 ## Wing 1
 * **VALE GUARDIAN**
-	- [Chrono (Tank)](https://youtu.be/7V_Ew_xCZDM)
-	- [Druid (Seeker Control)](https://youtu.be/re84jKiVTJI)
+	- [Chrono (Tank)](https://youtu.be/CAGlgKkwACw)
+	- [Druid (Seeker Control)](https://youtu.be/7V_Ew_xCZDM)
 	- [BS](https://youtu.be/e2fEPSttoqg)
 	- [DPS (Condi)](https://youtu.be/TmouJVFStC4)
 	- [DPS (Power)](https://youtu.be/1LrNn-a5DyQ)
@@ -63,7 +63,7 @@ This is a channel that lists information for every boss. Each boss will have:
 * **ESCORT**
 	- [Chrono (Towers)](https://youtu.be/ZzI6Uf7bopU)
 	- [Mirage (Solo Towers)](https://youtu.be/tYrQ4_uGt9g)
-	- [Druid (Babysitter)](https://youtu.be/MobIYmSYTOI)
+	- [Druid (Babysitter)](https://youtu.be/suWLGKKy_3E)
 	- [BS (Back Warg)](https://youtu.be/teWW5SCivdg)
 	- [DPS](https://youtu.be/ki-Hkka5Bo0)
 
