@@ -79,7 +79,7 @@ This is a channel that lists information for every boss. Each boss will have:
 * **XERA**
 	- [Chrono (Tank)](https://youtu.be/FY1yca1fIV8)
 	- [BS](https://youtu.be/CE1CGuDcJso)
-	- [Druid]https://youtu.be/9_j2mpunrl8)
+	- [Druid](https://youtu.be/9_j2mpunrl8)
 	- [DPS](https://youtu.be/235WeQYBGhs)
 
 ---
