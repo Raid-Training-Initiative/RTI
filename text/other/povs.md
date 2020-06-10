@@ -126,7 +126,7 @@ This is a channel that lists information for every boss. Each boss will have:
 
 * **STATUES**
 	- [Chrono (Tank / Broken King)](https://youtu.be/MkaEXA6nylE)
-	- [Chrono (Tank / Eater of Souls)](https://youtu.be/kBw-Mw_i5co)
+	- [Chrono (Tank / Eater of Souls)](https://youtu.be/pz1ZSjfq5S8)
 	- [Greens (Eater of Souls)](https://youtu.be/iAVCDo0E1DM)
 	- [Chrono (Eyes of Darkness / Split)](https://youtu.be/vP7-MxqZfWY)
 	- [Chrono (Eyes of Darkness / Portals)](https://youtu.be/Kzj85qEm8NE)
