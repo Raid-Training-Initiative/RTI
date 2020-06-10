@@ -36,4 +36,8 @@ Spam includes posting the same or similar messages multiple times, pinging peopl
 - Rule [9]: Be punctual
 If you sign up for a training run on our website calendar, we expect you to show up and stay for at least 2 and a half hours. If you learn that you can't make it for an event, set your status to "Maybe" or "Not Attending" and *clear your role*! It is also considered a courtesy to let the commander of the run know if you have to drop out.
 ```
+```diff
+- Rule [10]: Do not misspell "Qadim"
+It's spelled "Qadim". Not "Quadim". Seriously.
+```
 ![separator-big_2](../graphics/separators/separator-big_2.png)
