@@ -7,12 +7,19 @@ _ _
 Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`). The only expectation is that, once signed up, you commit yourself to the duration of the raid (usually 2 - 3 hours).
 _ _
 `[3] How do I sign up for a raid?`
-Once you have joined the guild, you can sign up for training runs on our calendar: <https://rti.enjin.com/events>
+Once you have joined the guild, you can sign up for training runs in one of two ways:
+
+`[•]` On our calendar: <https://rti.enjin.com/events>
 Click on the event you wish to sign up for, then choose "Sign-up for this Event!". You can then click on the prompts to set a Character, your Status, your Role, and a Note.
 
 You can create a profile for your characters by choosing `Add New Character` under `Set Character`. Make sure that you sign up using the appropriate character for the role you have selected - e.g. if you are signing up as the chronotank, please sign up using a Chronomancer.
 
 Ensure you choose a Role, as simply signing up and designating the character you wish to play on will not be enough! There are only a limited number of roles for each event! Also clear your role if your plans change and you change your status to "Maybe" or "Not Attending" (please note that both options are effectively the same - by clearing your role you are un-reserving your spot).
+
+`[•]` With our Discord bot: @RtiBot#4883
+We are currently transitioning to hosting our runs in a completely Discord-based environment rather than using Enjin. Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels. To sign up for them, simply click the :pencil: icon underneath the post in the channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number.
+
+Ensure that you have DMs turned on for this server or else the bot won't be able to contact you! You can turn them on from the server's privacy settings, which you can find by right-clicking on the RTI server icon in your Discord.
 _ _
 `[4] Can I sign up for any raid?`
 As a general rule of thumb, always read the raid description. That being said, the raids we organise tend to fall under four categories:
