@@ -37,6 +37,9 @@ _ _
 :pushpin: **OTHER DISCORDS**
 `--------------------------`
 
+:link: <https://discord.gg/CE3TswT>
+**Mistlocked [FotM]**: Fractal training guild & discord server for EU and NA. Go here for training fractals (including CMs), even if you have low experience with them!
+
 :link:  <https://discord.gg/guildwars2>
 **Guild Wars 2**: The subreddit's Discord server.
 
@@ -49,7 +52,7 @@ _ _
 `--------------------------`
 
 :link:  <https://www.deltaconnected.com/arcdps/>
-**ArcDPS**: Thus is the DPS meter that a huge portion of the raiding community uses. We stongly recommend that you download it!!
+**ArcDPS**: This is the DPS meter that a huge portion of the raiding community uses. We stongly recommend that you download it!!
 
 :link:  <https://github.com/MarsEdge/GW2-ArcDPS-Boon-Table/releases>
 **ArcDPS Boon Table**: Plugin for ArcDPS to improve the boon table. Download `d3d9_arcdps_table.dll` and dump it in the `bin64` folder in your Guild Wars 2 installation.
@@ -59,6 +62,9 @@ _ _
 
 :link: <https://buildpad.gw2archive.eu/>
 **BuildPad**: Plugin for ArcDPS which allows you to save as many build templates (note: NOT gear templates) as you wish and organise them to your liking.
+
+:link: <https://gw2scratch.com/tools/manager>
+**arcdps Log Manager**: Software you can download which managers your recorded logs, allowing you to filter them and find interesting statistics.
 
 :link:  <https://pandateemo.github.io/YoloMouse/>
 **YoloMouse**: A program that you can use to make your cursor much more visible.
@@ -71,13 +77,25 @@ _ _
 :pushpin: **GUIDES**
 `--------------------------`
 
-:link: <https://feverousaardvark.htmlpasta.com/>
-**ArcDPS & Logging Guide**: Guide on how to install and use ArcDPS, its plugins, and <https://dps.report/> logging.
+:link:  <https://tinyurl.com/y5syghdp>
+**Raid Beginner's Guide**: Useful guide for general knowledge on how to get into raiding.
 
-:link:  <https://www.youtube.com/playlist?list=PLb0ISfn3umyMAAcZEaaLhxWl0EMKDZa45>
+:link: <https://wiki.guildwars2.com/wiki/User:Tanetris/So_You_Want_To_Gear_a_Character>
+**Gearing Guide**: Guide on how to gear your character.
+
+:link: <https://feverousaardvark.htmlpasta.com/>
+**ArcDPS & Logging Guide**: Guide (by Step) on how to install and use ArcDPS, its plugins, and <https://dps.report/> logging.
+
+:link:  <https://wiki.guildwars2.com/>
+**Raid Guides/Summary**: Each raid boss page on the Wiki has a fairly succinct and useful guide on how the boss works.
+
+:link:  <https://tinyurl.com/y8nkhwfd>
 **Raid Guides**: MightyTeapot's YouTube video guides (not all are listed in this playlist - use the search bar for specific bosses). 
 
-:link:  <https://www.youtube.com/playlist?list=PLgsiP5N-KYybRJNy1mlDDoOTpAws0LH0v>
+:link: <https://tinyurl.com/y6wnhhwy>
+**Raid Guides**: MightyTeapot's YouTube raid intro videos with a high-level overview of each boss.
+
+:link:  <https://tinyurl.com/yd83rrop>
 **Raid Guides**: Tekkit's condensed YouTube video guides.
 
 :link:  <http://dulfy.net/category/gw2/raid-guides/>
@@ -86,16 +104,10 @@ _ _
 :link:  <https://snowcrows.com/>
 **Advanced Raid Guides**: The "Class Guides" section at the top of the Snow Crows website has useful guides for your class on each boss (though some advice is suited more for hardcore players).
 
-:link:  <https://wiki.guildwars2.com/>
-**Raid Guides/Summary**: Each raid boss page on the Wiki has a fairly succinct and useful guide on how the boss works.
-
 :link:  <https://www.youtube.com/watch?v=d-Z-mwZUlkA>
 **Raid Commanding Guide**: A long stream to watch with lots of info on how to be a raid commander and trainer.
 
-:link:  <https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit>
-**Raid Beginner's Guide**: Useful guide for general knowledge on how to get into raiding.
-
-**Note**: As the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #tryhards or consult any of our raid commanders!
+**Note**: For boss-specific guides, check the #boss_guides channel. Also, as the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #ask_questions or consult any of our raid commanders!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
