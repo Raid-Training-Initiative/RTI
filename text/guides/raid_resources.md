@@ -10,7 +10,7 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 :link:  <https://discord.gg/x4uNQpy>
 **GW2 Raid Academy (RA)**: Large NA-based raid training guild.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **RAID LFG**
 `--------------------------`
@@ -21,7 +21,7 @@ _ _
 :link:  <https://discord.gg/Xfg2TqF>
 **GW2 Looking For Instance**: Discord for looking for raid openers.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **HIGH-END GAMEPLAY**
 `--------------------------`
@@ -32,7 +32,7 @@ _ _
 :link:  <https://discord.gg/32Zb3UX>
 **discretize.eu**: dT's public Discord server for high-end fractal discussion and questions.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **OTHER DISCORDS**
 `--------------------------`
@@ -43,7 +43,7 @@ _ _
 :link: <https://discord.gg/PTCp2tC>
 **[fast] EU GW2 Farming Community**: A Discord for PvE open world farming.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **USEFUL TOOLS**
 `--------------------------`
@@ -66,7 +66,7 @@ _ _
 :link:  <http://www.gw2taco.com/>
 **GW2 TacO**: A powerful overlay that you can use to show a lot of useful location markers and information, including raid-related information, on top of your game.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **GUIDES**
 `--------------------------`
@@ -97,7 +97,7 @@ _ _
 
 **Note**: As the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #tryhards or consult any of our raid commanders!
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **WEBSITES & SERVICES**
 `--------------------------`
@@ -123,7 +123,7 @@ _ _
 :link:  <https://gw2timer.com/>
 **GW2 Timer**: Timers for world bosses, resource nodes, and events.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
 :pushpin: **SUBREDDITS**
 `--------------------------`
@@ -137,5 +137,5 @@ _ _
 :link:  <https://www.reddit.com/r/GW2Exchange/>
 **/r/GW2Exchange**: Subreddit for selling and buying in-game items without involving the trading post.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 -table of contents goes here-

@@ -1,5 +1,5 @@
-![header-faq](../graphics/headers/header-faq.png)
-![separator-big](../graphics/separators/separator-big.png)
+![header-faq](../../../../graphics/headers/header-faq.png)
+![separator-big](../../../../graphics/separators/separator-big.png)
 `[1] How do I join your raids?`
 First, join our community! Read the #join_us channel and follow our requirements before applying.
 _ _
@@ -83,5 +83,5 @@ Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We
 
 If you're interested in organising official raids with the guild, especially training runs, then please contact an @Officer and we can talk about giving you the @Commander role.
 _ _
-![separator-small](../graphics/separators/separator-small.png)
+![separator-small](../../../../graphics/separators/separator-small.png)
 -table of contents goes here-

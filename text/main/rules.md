@@ -1,5 +1,5 @@
-![header-rules](../graphics/headers/header-server_rules.png)
-![separator-big](../graphics/separators/separator-big.png)
+![header-rules](../../graphics/headers/header-server_rules.png)
+![separator-big](../../graphics/separators/separator-big.png)
 ```diff
 - Rule [1]: Respect others
 We encourage joking around and friendly humour but not toxicity, frustration, inappropriate behaviour, and name-shaming. To veterans in particular, do not berate new players and trainees - remember that we were all new once.
@@ -40,4 +40,4 @@ If you sign up for a training run on our website calendar, we expect you to show
 - Rule [10]: Do not misspell "Qadim"
 It's spelled "Qadim". Not "Quadim". Seriously.
 ```
-![separator-big_2](../graphics/separators/separator-big_2.png)
+![separator-big_2](../../graphics/separators/separator-big_2.png)
