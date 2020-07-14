@@ -97,6 +97,8 @@ _ _
 `--------------------------`
 **BEGINNER'S GUIDE**:
 :link: <https://youtu.be/SjzG0qEi20o>
+**EXTRA GUIDES**:
+:link: <https://youtu.be/pRyqyvN1YuY> - Cairn Mirage DPS written guide.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
@@ -152,11 +154,16 @@ _ _
 **BEGINNER'S GUIDE**:
 :link: <https://youtu.be/uEfAH8DdaUg>
 **EXTRA GUIDES**:
+:link: <https://youtu.be/KoyDhzzXAlg> - Dhuum solo greens training (Thief).
+:link: <https://youtu.be/fi8kaJJURjE> - Dhuum solo greens training (Engineer).
 :link: <http://www.gw2lunchbox.com/DhuumTimer.html> - GW2 Lunchbox timer.
+:link: <https://youtu.be/LhNtHuuv-DY> - Dhuum Renegade DPS written guide.
+:link: <https://youtu.be/Qq6pae_z3Cw> - Dhuum greens footage (with explanation in description).
 :clipboard: <https://tinyurl.com/dhuumoverview> - Overview diagram.
 :clipboard: <https://i.imgur.com/hvW08xf.png> - Green 1 timings.
 :clipboard: <https://i.imgur.com/yYgqu4W.png> - Green 2 timings.
 :clipboard: <https://i.imgur.com/oLY3iug.png> - Green 3 timings.
+_ _
 _ _
 ![wing6](../../graphics/banners/wing6.png)
 `--------------------------`
