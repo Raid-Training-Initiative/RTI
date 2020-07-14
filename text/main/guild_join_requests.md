@@ -7,4 +7,4 @@ We don't add people to our in-game guild automatically after approving their app
 `[•]` The ability to rep RTI to help spread the word.
 `[•]` More opportunities to get into raids.
 
-Put a '+' here if you want to get added to the in-game guild!
+Type 'join' here if you want to get added to the in-game guild!
