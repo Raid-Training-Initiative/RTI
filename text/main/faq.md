@@ -1,5 +1,5 @@
-![header-faq](../../../../graphics/headers/header-faq.png)
-![separator-big](../../../../graphics/separators/separator-big.png)
+![header-faq](../../graphics/headers/header-faq.png)
+![separator-big](../../graphics/separators/separator-big.png)
 `[1] How do I join your raids?`
 First, join our community! Read the #join_us channel and follow our requirements before applying.
 _ _
@@ -7,7 +7,7 @@ _ _
 Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`). The only expectation is that, once signed up, you commit yourself to the duration of the raid (usually 2 - 3 hours).
 _ _
 `[3] How do I sign up for a raid?`
-Once you have joined the guild, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels. To sign up for them, simply click the :pencil: icon underneath the post in the channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number.
+Once you have joined RTI, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels. To sign up for them, simply click the :pencil: icon underneath the post in the channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number.
 
 Ensure that you have DMs turned on for this server or else the bot won't be able to contact you! You can turn them on from the server's privacy settings, which you can find by right-clicking on the RTI server icon in your Discord.
 _ _
@@ -23,7 +23,7 @@ _ _
 You must be able to listen during an RTI run. Talking is not required but is encouraged.
 _ _
 `[6] Do I need to be in the in-game guild to join your raids?`
-No! You can join our raids without being in our in-game guild. However, if you want to be part of the guild, check out #guild_join_requests.
+No! You can join our raids without being in our in-game guild. However, if you want a spot in the in-game guild, check out #guild_join_requests.
 _ _
 `[7] Can I run my own homebrew offmeta build?`
 Our default stance is no; we expect you to bring a character with a meta build into our training runs. You can easily check what the meta builds are from the Snow Crows website: <https://snowcrows.com/>
@@ -83,5 +83,5 @@ Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We
 
 If you're interested in organising official raids with the guild, especially training runs, then please contact an @Officer and we can talk about giving you the @Commander role.
 _ _
-![separator-small](../../../../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 -table of contents goes here-
