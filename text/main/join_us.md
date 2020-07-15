@@ -11,8 +11,8 @@
 --- [How to apply]
 ```
 In order to join our community, you must follow some rules. You can check them all at #rules.
-After you read our rules and you agree with them you can apply to our guild at: <http://rti.enjin.com/application>
-If you wish to be invited to the in-game guild, you can do so at #guild_join_requests.
+After you read our rules and you agree with them you can apply to RTI at: <http://rti.enjin.com/application>
+If you wish to be invited to the in-game guild, you can do so at #guild_join_requests after your application has been approved.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 ```css
