@@ -66,7 +66,7 @@ An API key is a identifier unique to your GW2 account that allows the bots to ac
 _ _
 `[14] What are all the different Discord ranks?`
 `[•]` **Member**
-Your rank upon joining the community.
+Your rank upon joining the community. You need this rank to join our raids!
 _Requirements_: #join_us 
 `[•]` **Commander**
 They help around on our trainings, leading or assisting. They have good knowledge of most encounters and class builds. They will also be socially active in the guild and keen to help out new players. 
