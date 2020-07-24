@@ -74,6 +74,9 @@ _Requirements_: Approved by @Officer. Help out in at least 1 training per month.
 `[•]` **Officer**
 Enforces guild discipline and handles the admin.
 _Requirements_: Approved by @Leader.
+`[•]` **Hero, Zero to Hero, Sidekick**
+These roles are part of the "Zero to Hero" initiative where temporary raid statics are made for new raiders and all raid wings are completed with close guidance by (an) experienced raid leader(s). This initiative is announced in #announcements every few months.
+_Requirements_: Show interest in the initiative when it is announced.
 _ _
 `[15] Whom do I speak to if I have an issue with another member?`
 Speak to an @Officer. Screenshots of the (entire) conversation, if it happened in game, are immensely useful. Any action taken will depend upon the severity of the transgression.
