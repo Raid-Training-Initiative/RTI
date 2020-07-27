@@ -53,7 +53,7 @@ Chronomancers (support) are always in short supply. Niche builds, such as hand k
 Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on Largos, a class that is good for moving targets that attack often such as condition Mirage/Chronomancer is extremely helpful).
 _ _
 `[11] Do I need to rep RTI?`
-There are no requirements on repping this specific guild.
+There are no requirements on representing or even joining the in-game guild.
 _ _
 `[12] Do I need to be active?`
 There is no requirement to be active to remain a member of RTI, but do note that we regularly clear out inactive members (i.e. people who have not logged into the game for a while) from our in-game guild.
