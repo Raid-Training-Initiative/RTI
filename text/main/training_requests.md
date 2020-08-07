@@ -1,7 +1,7 @@
 This is a channel you can use to request wings or bosses to be trained on.
 `-------------------------------------------------`
 **How does it work?**
-Post a message in here saying which wing or boss you want a training for. Remember that you need the @Member role in this Discord to be able to use this channel. (check #join_us)
+Post a message in here saying which wings or bosses you want a training for. Remember that you need the @Member role in this Discord to be able to use this channel. (check #join_us)
 **Example**: "Wing 5 training please. Can play DPS or Druid but don't want to push or kite. I can't make Sunday."
 Afterwards, one of the commanders MAY post a training in a private channel, allow you to see it before everyone else, and ping you. You will have some advance notice to sign up before it is made public.
 Every Monday, the requests in this channel are purged. If your request was not accommodated in time, then feel free to post it again.
