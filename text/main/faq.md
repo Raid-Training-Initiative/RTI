@@ -48,9 +48,11 @@ _ _
 `[10] What build should I run?`
 We want to encourage players to build up a variety of roles they can perform. Having more increases your desirability in raids and gives you more opportunities, as well as just improving your understanding of each encounter.
 
-Chronomancers (support) are always in short supply. Niche builds, such as hand kiter on Deimos, are also far and few between. Healers, especially druid and renegade, are always a good idea to have in any raider's arsenal.
+Chronomancers (support) are always in short supply (namely the variant with boon duration). Niche builds, such as hand kiter on Deimos, are also far and few between. Healers, especially druid and renegade, are always a good idea to have in any raider's arsenal.
 
 Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on Largos, a class that is good for moving targets that attack often such as condition Mirage/Chronomancer is extremely helpful).
+
+Beginner-friendly power DPS classes include power reaper, power daredevil, and power berserker. Beginner-friendly condition DPS classes include condi soulbeast, condi scourge, and condi chronomancer.
 _ _
 `[11] Do I need to rep RTI?`
 There are no requirements on representing or even joining the in-game guild.
