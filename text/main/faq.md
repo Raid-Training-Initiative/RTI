@@ -5,6 +5,9 @@ First, join our community! Read the #join_us channel and follow our requirements
 _ _
 `[2] When do you normally raid?`
 Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`). The only expectation is that, once signed up, you commit yourself to the duration of the raid (usually 2 - 3 hours).
+Our timezones are CET and CEST, depending on whether or not we're in the summer period and daylight savings is active.
+<https://time.is/CET>
+<https://time.is/CEST>
 _ _
 `[3] How do I sign up for a raid?`
 Once you have joined RTI and received the Member role, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels. To sign up for them, simply click the :pencil: icon underneath the post in the channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number.
