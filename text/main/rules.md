@@ -26,7 +26,7 @@ Do not engage in illegal or counterfeit activities through our chat channels. Th
 ```
 ```diff
 - Rule [7]: No LI/KP requirements
-The whole point of this guild is to help new players raid. Keep LI and KP requirements out of the guild chat or this Discord. The only exception we make to this rule is when you are in a pug group unrelated to RTI that set their own requirements, in which case this must be clearly stated. Note that asking for experience or knowledge of a fight is permissible.
+The whole point of this guild is to help new players raid. Groups you organise must not require LI/KP from RTI members. The only exception we make to this rule is when you are in a pug group unrelated to RTI that set their own requirements, in which case this must be clearly stated. Note that asking for experience or knowledge of a fight is permissible.
 ```
 ```diff
 - Rule [8]: Don't spam
