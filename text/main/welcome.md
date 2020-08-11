@@ -20,7 +20,7 @@ _ _
 ```diff
 - [Closing Notes]
 ```
-If RTI seems like the right place for you, then please be sure to read our #rules and then hit the checkbox at the bottom to have access to the rest of our server.
+If RTI seems like the right place for you, then please be sure to read our #rules. Then, hit the checkbox at the bottom to have access to the rest of our server and read #faq to learn how to join our raids!
 
 We look forward to raiding with you!
 - RTI
