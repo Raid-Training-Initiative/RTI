@@ -77,6 +77,9 @@ _ _
 :pushpin: **GUIDES**
 `--------------------------`
 
+:link: <https://tinyurl.com/gw2raidbeginnerguide>
+**Ultimate Beginner's Guide**: MightyTeapot's videos on basic GW2 gameplay.
+
 :link:  <https://tinyurl.com/y5syghdp>
 **Raid Beginner's Guide**: Useful guide for general knowledge on how to get into raiding.
 
@@ -97,9 +100,6 @@ _ _
 
 :link:  <https://tinyurl.com/yd83rrop>
 **Raid Guides**: Tekkit's condensed YouTube video guides.
-
-:link:  <http://dulfy.net/category/gw2/raid-guides/>
-**Raid Guides**: Dulfy's written raid guides (these can sometimes be outdated, especially anything that mentions team compositions).
 
 :link:  <https://snowcrows.com/>
 **Advanced Raid Guides**: The "Class Guides" section at the top of the Snow Crows website has useful guides for your class on each boss (though some advice is suited more for hardcore players).
