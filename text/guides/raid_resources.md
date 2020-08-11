@@ -80,20 +80,17 @@ _ _
 :link: <https://tinyurl.com/gw2raidbeginnerguide>
 **Ultimate Beginner's Guide**: MightyTeapot's videos on basic GW2 gameplay.
 
-:link:  <https://tinyurl.com/y5syghdp>
-**Raid Beginner's Guide**: Useful guide for general knowledge on how to get into raiding.
-
 :link: <https://wiki.guildwars2.com/wiki/User:Tanetris/So_You_Want_To_Gear_a_Character>
 **Gearing Guide**: Guide on how to gear your character.
 
 :link: <https://feverousaardvark.htmlpasta.com/>
 **ArcDPS & Logging Guide**: Guide (by Step) on how to install and use ArcDPS, its plugins, and <https://dps.report/> logging.
 
-:link:  <https://wiki.guildwars2.com/>
-**Raid Guides/Summary**: Each raid boss page on the Wiki has a fairly succinct and useful guide on how the boss works.
+:link:  <https://metabattle.com/wiki/PvE_Guides>
+**PvE/Raid Guides**: Guides on general PvE and raid bosses.
 
 :link:  <https://tinyurl.com/y8nkhwfd>
-**Raid Guides**: MightyTeapot's YouTube video guides (not all are listed in this playlist - use the search bar for specific bosses). 
+**Raid Guides**: MightyTeapot's YouTube video guides.
 
 :link: <https://tinyurl.com/y6wnhhwy>
 **Raid Guides**: MightyTeapot's YouTube raid intro videos with a high-level overview of each boss.
