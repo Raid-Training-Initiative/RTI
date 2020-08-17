@@ -1,19 +1,17 @@
 This is a channel where we will showcase other Discord servers, websites, tools, and resources that you can visit and use as a raider!
 **Note**: If you want to advertise your own raiding guild here, DM an officer!
 `--------------------------`
-:pushpin: **RAID TRAINING**
+:pushpin: **RAIDS**
 `--------------------------`
 
-:link: <https://discord.gg/nZg52r3>
+:link: <https://discord.gg/hdhDE3v>
 **The Crossroads Inn**: Large EU-based raid training guild.
 
-:link:  <https://discord.gg/x4uNQpy>
+:link:  <https://discord.gg/gw2ra>
 **GW2 Raid Academy (RA)**: Large NA-based raid training guild.
-_ _
-![separator-small](../../graphics/separators/separator-small.png)
-`--------------------------`
-:pushpin: **RAID LFG**
-`--------------------------`
+
+:link:  <https://discord.gg/qTs63YH>
+**Snow Crows Help Desk**: SC's public Discord server for high-end raid discussion and questions.
 
 :link:  <https://discord.gg/ASSRRVs>
 **Late Night Raids [LNR]**: Discord-based raid LFG for EU and NA.
@@ -23,11 +21,11 @@ _ _
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
-:pushpin: **HIGH-END GAMEPLAY**
+:pushpin: **FRACTALS**
 `--------------------------`
 
-:link:  <https://discord.gg/qTs63YH>
-**Snow Crows Help Desk**: SC's public Discord server for high-end raid discussion and questions.
+:link: <https://discord.gg/CE3TswT>
+**Mistlocked [FotM]**: Fractal training guild & discord server for EU and NA. Go here for training fractals (including CMs), even if you have low experience with them!
 
 :link:  <https://discord.gg/32Zb3UX>
 **discretize.eu**: dT's public Discord server for high-end fractal discussion and questions.
@@ -37,14 +35,14 @@ _ _
 :pushpin: **OTHER DISCORDS**
 `--------------------------`
 
-:link: <https://discord.gg/CE3TswT>
-**Mistlocked [FotM]**: Fractal training guild & discord server for EU and NA. Go here for training fractals (including CMs), even if you have low experience with them!
-
 :link:  <https://discord.gg/guildwars2>
 **Guild Wars 2**: The subreddit's Discord server.
 
 :link: <https://discord.gg/PTCp2tC>
 **[fast] EU GW2 Farming Community**: A Discord for PvE open world farming.
+
+:link: <https://discord.gg/3qXmrqe>
+**Overflow Trading Company**: A Discord for learning how to make gold and trade with other players.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
@@ -74,7 +72,7 @@ _ _
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
-:pushpin: **GUIDES**
+:pushpin: **BEGINNER GUIDES**
 `--------------------------`
 
 :link: <https://tinyurl.com/gw2raidbeginnerguide>
@@ -98,13 +96,18 @@ _ _
 :link:  <https://tinyurl.com/yd83rrop>
 **Raid Guides**: Tekkit's condensed YouTube video guides.
 
+**Note**: For boss-specific guides, check the #boss_guides channel. Also, as the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #ask_questions or consult any of our raid commanders!
+_ _
+![separator-small](../../graphics/separators/separator-small.png)
+`--------------------------`
+:pushpin: **ADVANCED GUIDES**
+`--------------------------`
+
 :link:  <https://snowcrows.com/>
 **Advanced Raid Guides**: The "Class Guides" section at the top of the Snow Crows website has useful guides for your class on each boss (though some advice is suited more for hardcore players).
 
 :link:  <https://www.youtube.com/watch?v=d-Z-mwZUlkA>
 **Raid Commanding Guide**: A long stream to watch with lots of info on how to be a raid commander and trainer.
-
-**Note**: For boss-specific guides, check the #boss_guides channel. Also, as the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #ask_questions or consult any of our raid commanders!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
