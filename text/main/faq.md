@@ -10,7 +10,7 @@ Our timezones are CET and CEST, depending on whether or not we're in the summer 
 <https://time.is/CEST>
 _ _
 `[3] How do I sign up for a raid?`
-Once you have joined RTI and received the Member role, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels, with a :blue_circle: near the channel name if there are spots and a :red_circle: near the channel name if the raid is full. Note that a full raid doesn't necessarily mean you can't sign up - feel free to take a reserve spot and you will get notified if a spot opens up!
+Once you have joined RTI and received the Member role, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels, with a :large_blue_diamond: near the channel name if there are spots and a :red_circle: near the channel name if the raid is full. Note that a full raid doesn't necessarily mean you can't sign up - feel free to take a reserve spot and you will get notified if a spot opens up!
 
 To sign up for any raid, simply click the :pencil: reaction underneath the post in the raid's channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number.
 
