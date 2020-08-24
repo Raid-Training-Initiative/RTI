@@ -108,6 +108,9 @@ _ _
 
 :link:  <https://www.youtube.com/watch?v=d-Z-mwZUlkA>
 **Raid Commanding Guide**: A long stream to watch with lots of info on how to be a raid commander and trainer.
+
+:link: <https://youtu.be/U1KFb5TdjLA>
+**Power Daredevil Guide**: A long stream (by Akronox) with lots of info on how to play power Daredevil in raids. Timestamps in description!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
