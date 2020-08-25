@@ -81,11 +81,14 @@ _ _
 `[•]` **Member**
 Your rank upon joining the community. You need this rank to join our raids!
 _Requirements_: #join_us 
+`[•]` **Lieutenant**
+Lieutenants help out in training runs and organise kill runs, CM runs, fractals, and dungeons. They have good knowledge of most encounters and have experience within raids.
+_Requirements_: Approved by @Officer. To get the role, a lieutenant will have raided with us before and demonstrated good performance in raids and a capacity to lead raids.
 `[•]` **Commander**
-They help around on our trainings, leading or assisting. They have good knowledge of most encounters and class builds. They will also be socially active in the guild and keen to help out new players. 
-_Requirements_: Approved by @Officer. Help out in at least 1 training per month.
+Commanders lead training runs on a regular basis (at least once per month). They have good knowledge of all encounters and many class builds. They will also be socially active in the guild and keen to help out new players.
+_Requirements_: Approved by @Officer. A commander will get their role after they demonstrate their ability and motivation to teach and train new players in official RTI training runs.
 `[•]` **Officer**
-Enforces guild discipline and handles the admin.
+Officers enforce guild discipline, handle guild admin, and are involved in overarching changes to how RTI and the discord work.
 _Requirements_: Approved by @Leader.
 `[•]` **Hero, Zero to Hero, Sidekick**
 These roles are part of the "Zero to Hero" initiative where temporary raid statics are made for new raiders and all raid wings are completed with close guidance by (an) experienced raid leader(s). This initiative is announced in #announcements every few months.
@@ -97,7 +100,9 @@ _ _
 `[17] Can anyone organise a raid / training run?`
 Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We do, however, have an important rule: You cannot ask for LI or kill proof in these channels, unless it is not an RTI run (e.g. the PUG you are in - which you are currently not leading - is looking for more people).
 
-If you're interested in organising official raids with the guild, especially training runs, then please contact an @Officer and we can talk about giving you the @Commander role.
+If you're interested in organising official raids with the guild on a regular basis, especially training runs, then please contact an @Officer and we can talk about giving you the @Commander role.
+
+If you want to help out in our raid trainings and/or organise your own kill runs, CMs, dungeons, or fractals, contact an @Officer and we can talk about giving you the @Lieutenant role. This is a good stepping stone towards becoming a commander!
 _ _
 `[18] RTI raids fill up too quickly! What do I do?`
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
