@@ -10,7 +10,9 @@ This is a channel that lists information for every boss. Each boss will have:
 ## Wing 1
 * **VALE GUARDIAN**
 	- [Chrono (Tank)](https://youtu.be/CAGlgKkwACw)
+	- [Chrono (Tank / Mid Strat)](https://youtu.be/q6a_wSa6wiQ)
 	- [Druid (Seeker Control)](https://youtu.be/7V_Ew_xCZDM)
+	- [Druid (Seeker Control / Mid Strat)](https://youtu.be/kmdsDsdd7aE)
 	- [BS](https://youtu.be/e2fEPSttoqg)
 	- [DPS (Condi)](https://youtu.be/TmouJVFStC4)
 	- [DPS (Power)](https://youtu.be/1LrNn-a5DyQ)
@@ -18,6 +20,7 @@ This is a channel that lists information for every boss. Each boss will have:
 
 * **SPIRIT RUN**
 	- [Chrono (Portals)](https://youtu.be/0uWESE80lkE)
+	- [Healer (Torch)](https://youtu.be/05p9KtUnPQA)
 	- [DPS](https://youtu.be/q4q_nq-4vVg)
 
 * **GORSEVAL**
@@ -39,6 +42,7 @@ This is a channel that lists information for every boss. Each boss will have:
 ## Wing 2
 * **SLOTH**
 	- [Chrono](https://youtu.be/u4mb6yjEulo)
+	- [Druid](https://youtu.be/kvqwAN4Rh_4)
 	- [DPS (Shrooms)](https://youtu.be/YXzpOUoDVZw)
 	- [BS (Shrooms)](https://youtu.be/ihM1db0M37A)
 	- [Dragonhunter (Stand Your Ground)](https://youtu.be/vVffM-aIExc)
@@ -46,6 +50,7 @@ This is a channel that lists information for every boss. Each boss will have:
 
 * **TRIO**
 	- [Chrono (Mortars)](https://youtu.be/eKTS5YPELlY)
+	- [BS (Mortars)](https://youtu.be/oOENRBx9HKI)
 	- [BS (Saboteurs)](https://youtu.be/nnw1pa0a_4k)
 	- [DPS (Keg Thrower)](https://youtu.be/eQvs3W5VJcw)
 	- [DPS](https://youtu.be/RZtas5B3FjI)
@@ -74,6 +79,9 @@ This is a channel that lists information for every boss. Each boss will have:
 	- [DPS](https://youtu.be/xLa5kAMan0s)
 
 * **TWISTED CASTLE**
+	- [Chrono (Portal)](https://youtu.be/6ix14xIG_YY)
+	- [Druid (Gap)](https://youtu.be/c9C-h9uBlWQ)
+	- [DPS (Solo Buttons)](https://youtu.be/FS_hEDcfxlw)
 	- [DPS](https://youtu.be/R-oMS3vA2FM)
 
 * **XERA**
@@ -86,6 +94,7 @@ This is a channel that lists information for every boss. Each boss will have:
 
 ## Wing 4
 * **CAIRN**
+	- [Chrono (7:37 Agony)](https://youtu.be/-ORO13i6iuc)
 	- [Heal Renegade (6:57 Agony)](https://youtu.be/8Ky-K2nLWNc)
 	- [BS (7:17 Agony)](https://youtu.be/hqmfkYT3XpI)
 	- [DPS](https://youtu.be/yLz_zSCm5zE)
@@ -108,6 +117,7 @@ This is a channel that lists information for every boss. Each boss will have:
 	- [Druid (Prides Control)](https://youtu.be/xJ_xm8UYKFk)
 	- [Soulbeast (Hand Kiter)](https://youtu.be/IukfOGbuKug)
 	- [Herald (Hand Kiter)](https://youtu.be/bs4kSdFFHWc)
+	- [Spellbreaker (Hand Kiter)](https://youtu.be/iWy32xMLrxo)
 	- [BS](https://youtu.be/TLETc4e9eAQ)
 	- [DPS](https://youtu.be/SA8eGZYjp5Q)
 
@@ -116,7 +126,8 @@ This is a channel that lists information for every boss. Each boss will have:
 ## Wing 5
 * **SOULLESS HORROR**
 	- [Chrono (Tank)](https://youtu.be/nRs7X0N2W9c)
-	- [Druid (Pusher)](https://youtu.be/f22kP9-K45c)
+	- [Druid (Pusher)](https://youtu.be/efnLNfA3awo)
+	- [Scourge (Epidemic)](https://youtu.be/IHLBWjr7yzI)
 	- [BS](https://youtu.be/pURbNb6zukQ)
 	- [DPS](https://youtu.be/y1EAoMfllyM)
 
@@ -137,8 +148,9 @@ This is a channel that lists information for every boss. Each boss will have:
 
 * **DHUUM**
 	- [Chrono (Tank)](https://youtu.be/BG4MoKSBep8)
-	- [Chrono (Throne Tank)](https://youtu.be/zELFWwFQDzg)
+	- [Chrono (Throne Tank)](https://youtu.be/ceu2O8u3xOg)
 	- [Chrono (Green 3)](https://youtu.be/rQpYB--cM6U)
+	- [Druid (Throne Tank)](https://youtu.be/YKzCUPe8lz8)
 	- [Druid (Kiter + Greens)](https://youtu.be/uECC39w2Gcg)
 	- [DPS (Boonstrip)](https://youtu.be/XI81tes7aA8)
 	- [BS](https://youtu.be/1WbmOvuAwlM)
@@ -163,9 +175,11 @@ This is a channel that lists information for every boss. Each boss will have:
 * **QADIM**
 	- [Chrono (Tank + Portals + Pull In)](https://youtu.be/UVs4JuTodQs)
 	- [Chrono (Tank + Pull Out)](https://youtu.be/d0c8rp96xww)
+	- [Druid](https://youtu.be/H1UXtZRC_d4)
 	- [Spellbreaker (Dome)](https://youtu.be/yXRPdVGL-7k)
 	- [Daredevil (Solo Lamp)](https://youtu.be/I1-JTVwTr4s)
 	- [Deadeye (Kiter)](https://youtu.be/scp3ActKZh4)
+	- [Daredevil (Kiter)](https://youtu.be/FeXmb8TrFUg)
 	- [DPS (Duo Lamp)](https://youtu.be/GKFM_1ggRBQ)
 	- [DPS](https://youtu.be/5UXpLCUgfPM)
 
@@ -179,13 +193,15 @@ This is a channel that lists information for every boss. Each boss will have:
 	- [DPS](https://youtu.be/vItcc0AwU4c)
 
 * **SABIR**
+	- [Chrono (Portals)](https://youtu.be/cHBh0cvgeJo)
 	- [BS (Wisps)](https://youtu.be/BTx29w7mwH8)
 	- [DPS](https://youtu.be/-8USQJCZowo)
 
 * **QADIM THE PEERLESS**
 	- [Chrono (Tank)](https://youtu.be/9n8mUe1dQSg)
 	- [Scourge (Pylon Kiter / Blood Magic)](https://youtu.be/4Or5OkISenY)
-	- [Scourge (Pylon Kiter / Parasitic Contagion)]()
+	- [Scourge (Pylon Kiter / Parasitic Contagion)](https://youtu.be/QSQtEQPrmus)
 	- [Deadeye (Pylon Kiter)](https://youtu.be/S0aYPj-7h1o)
+	- [Druid (Anomalies)](https://youtu.be/uIeIzQBTeZY)
 	- [BS (Anomalies)](https://youtu.be/OdL5_5e7FcM)
 	- [DPS](https://youtu.be/s28xBJIQfP4)
