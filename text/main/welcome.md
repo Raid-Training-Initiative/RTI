@@ -5,6 +5,9 @@
 - [Who We Are]
 ```
 We're a community built around being an entry point into PvE raiding. Getting into the game mode can seem impossible without any knowledge regarding the standards, requirements and so forth. RTI is here to help you and provide you with a friendly environment to walk through the steps in becoming a raider without the infamous requirements and toxicity of the underworld known as the LFG. We offer a guild with open minded people who are willing to help you with any questions you might have.
+
+Our @Officers:
+-ping officers one by one-
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 ```diff
