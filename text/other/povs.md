@@ -151,9 +151,9 @@ This is a channel that lists information for every boss. Each boss will have:
 	- [Chrono (Throne Tank)](https://youtu.be/ceu2O8u3xOg)
 	- [Chrono (Green 3)](https://youtu.be/rQpYB--cM6U)
 	- [Druid (Throne Tank)](https://youtu.be/YKzCUPe8lz8)
-	- [Druid (Kiter + Greens)](https://youtu.be/uECC39w2Gcg)
+	- [Druid (Kiter + Green 2)](https://youtu.be/uECC39w2Gcg)
 	- [DPS (Boonstrip)](https://youtu.be/XI81tes7aA8)
-	- [BS](https://youtu.be/1WbmOvuAwlM)
+	- [BS (Green 1)](https://youtu.be/1WbmOvuAwlM)
 	- [DPS](https://youtu.be/2O_axpUXBI8)
 
 ---
