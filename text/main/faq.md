@@ -83,7 +83,7 @@ Your rank upon joining the community. You need this rank to join our raids!
 _Requirements_: #join_us 
 `[•]` **Lieutenant**
 Lieutenants help out in training runs and organise kill runs, CM runs, fractals, and dungeons. They have good knowledge of most encounters and have experience within raids.
-_Requirements_: Approved by @Officer. To get the role, a lieutenant will have raided with us before and demonstrated good performance in raids and a capacity to lead raids.
+_Requirements_: Approved by @Officer. To get the role, a lieutenant will have raided with us before and demonstrated decent experience/knowledge in raids and a capacity to lead raids.
 `[•]` **Commander**
 Commanders lead training runs on a regular basis (at least once per month). They have good knowledge of all encounters and many class builds. They will also be socially active in the guild and keen to help out new players.
 _Requirements_: Approved by @Officer. A commander will get their role after they demonstrate their ability and motivation to teach and train new players in official RTI training runs.
