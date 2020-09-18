@@ -7,7 +7,7 @@ Post a message in here advertising your raid static.
 `[•]` You can't have more than one ad message in the channel at any one time.
 `[•]` Do not advertise any sell runs.
 `[•]` Please follow the formatting of the example post below. Make sure you ping the @Statics role.
-`[•]` Ensure your ad is short and to the point. Stick to your role requirements, raid times, and a brief outlook on what your group's aim is.
+`[•]` Ensure your ad is short and to the point. Stick to your role requirements, raid times, what experience level you're after, and a brief outlook on what your group's aim is.
 `[•]` Do not list ALL the details of your static; details can be discussed in DMs.
 `[•]` If you have found members to fill your group, please delete your ad.
 **MAKE SURE YOU FOLLOW THESE RULES OR YOUR POST WILL BE DELETED WITHOUT WARNING.**
