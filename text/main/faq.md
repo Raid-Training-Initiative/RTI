@@ -109,7 +109,7 @@ It is difficult to get into raid trainings, but here are some tips to give you b
 `[•]` Have your ping notifications turned on for this server. We ping people every time a new raid is up, and the faster you are to react, the quicker you can get a spot.
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
 `[•]` Join the in-game guild via #guild_join_requests. Runs are advertised there on a regular basis.
-`[•]` Be as multiclass as you can. Gearing roles such as Support/Tank Chronomancer, Condition Quickness Firebrand, Heal Alacrity Renegade, and Heal Druid makes it much easier to get spots in our runs, as they are in far less demand than DPS.
+`[•]` Be as multiclass as you can. Gearing roles such as Support/Tank Chronomancer, Condition Quickness Firebrand, Heal Alacrity Renegade, and Heal Druid makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
