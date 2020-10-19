@@ -57,7 +57,7 @@ Chronomancers (support) are always in short supply (namely the variant with boon
 
 Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on Largos, a class that is good for moving targets that attack often such as condition Mirage/Chronomancer is extremely helpful).
 
-Beginner-friendly power DPS classes include power reaper, power daredevil, and power berserker. Beginner-friendly condition DPS classes include condi soulbeast, condi scourge, and condi chronomancer.
+In #class_guides we talk a bit more about some builds you can run and what we usually take into RTI trainings.
 _ _
 `[11] Do I need to rep RTI?`
 There are no requirements on representing or even joining the in-game guild.
