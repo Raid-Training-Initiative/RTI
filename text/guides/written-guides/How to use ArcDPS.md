@@ -213,4 +213,4 @@ If we now look at the animation, we'll be able to see Lucius Blackmoon highlight
 ![dps.report Combat Replay Highlight](https://i.imgur.com/gaVVPhO.png)
 
 ## Closing Notes
-If anyone has any questions about logging, ask about them in the [RTI discord](https://discord.gg/455x8kG "RTI Discord Invite")!
+If anyone has any questions about logging, ask about them in the [RTI discord](https://discord.gg/rti "RTI Discord Invite")!
