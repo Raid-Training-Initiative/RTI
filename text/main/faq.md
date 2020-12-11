@@ -15,6 +15,9 @@ Once you have joined RTI and received the Member role, you can sign up for our r
 To sign up for any raid, simply click the :pencil: reaction underneath the post in the raid's channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number. You can only sign up as one reserve role (e.g. DPS reserve or Chrono reserve), but you will get notified regardless of which role you sign up as reserve for.
 
 Ensure that you have DMs turned on for this server or else the bot won't be able to contact you! You can turn them on from the server's privacy settings, which you can find by right-clicking on the RTI server icon in your Discord.
+
+
+Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
 _ _
 `[4] Can I sign up for any raid?`
 As a general rule of thumb, always read the raid description. That being said, the raids we organise tend to fall under four categories:
