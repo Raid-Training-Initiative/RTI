@@ -42,7 +42,7 @@ If you're on this page then you might be new to raids and looking to get into th
 
 ![Daredevil Training](https://i.imgur.com/dq045jV.png)
 
-2. Make sure you have your masteries all set up. These are the masteries we recommend working towards:
+2. Make sure you have your masteries all set up by gathering experience and mastery points in Heart of Thorns and Path of Fire. You can start working towards raid masteries after having completed a single raid boss. These are the masteries we recommend working towards:
 
 ![Masteries](https://i.imgur.com/S7d7Ie3.png)
 
@@ -61,7 +61,7 @@ If you're on this page then you might be new to raids and looking to get into th
 
 3. Sign up to the raid by pressing the pencil icon (📝) at the bottom of the message.
 
-![Raid Signup](https://i.imgur.com/wiFufBQ.png)
+![Raid Signup](https://i.imgur.com/EgPD6rK.png)
 
 4. You will be sent a private message asking you what role to sign up as. Sign up for the role you plan on attending the raid as. If that role is full, you can sign up as reserve and get notified if a spot opens up in the raid, in which case you should sign up for the core role as soon as you can before the spot is taken.
 
@@ -69,21 +69,21 @@ If you're on this page then you might be new to raids and looking to get into th
 
 5. On the day and time of the run, if you signed up as a core role and not as a reserve, the commander will ping you with a `/sqjoin` command that you can type in the in-game chatbox and press Enter to join the raid squad.
 
-![Sqjoin](https://i.imgur.com/GeEKzFw.png)
+![Sqjoin](https://i.imgur.com/FNdTGU5.png)
 
 6. Go into Lion's Arch Aerodrome, join the raid wing instance, and enjoy the RTI raid!
 
 ![RTI Raid](https://i.imgur.com/mmfWus7.png)
 
-As an additional note, use the `#training_requests` channel in the RTI Discord if you are new to certain raid wings to request them and get priority to join future raid trainings on those wings.
+As an additional note, use the `#training_requests` channel in the RTI Discord if you are new to certain raid wings to request them and get priority to join future raid trainings on those wings. Do note that you need to have given us your [API key](https://account.arena.net/applications) in your RTI application OR when filling in your training request to be able to use this feature!
 
 ## Tips Any New Raider Should Know
 1. When you kill a raid boss, you get its tokens (referred to as "KP"). Keep these! Pugs want to see at LEAST a wing's final boss' KP to gauge your experience level.
-2. You can repair your armour in raids at Ley Rifts with the mastery.
+2. You can repair your armour in raids at Ley Rifts with the mastery. If you don't have this mastery, you can use the anvil present at the start of every raid wing.
 3. If you get any spare minis from raid bosses, you can convert them into raid currency at any raid vendor.
-4. Opening a raid wing instance will stop you where you left off in that week.
-5. If you get someone to open an instance at a particular boss for you, don't load into that instance until they've confirmed that they're loaded in.
-6. Doing a raid boss more than once doesn't give more rewards. Every Monday morning, progress on raid bosses is reset and you can get rewards on every boss again.
+4. If you open a raid wing instance of a wing you haven't completed all the bosses for that week, then it will open with your progress saved.
+5. If you get someone to open an instance at a particular boss for you, don't "opener snipe", which is loading into that instance until they've confirmed that they're loaded in.
+6. Doing a raid boss more than once in a week doesn't give more rewards. Every Monday morning, progress on raid bosses is reset and you can get rewards on every boss again.
 7. Bind your skills to buttons, including your Special Action Key. Don't skill click!
 8. In Graphics Settings, turn up your `Character Model Limit` for raids, set `Shaders` to at least `Medium`, and turn on `Effect LOD`.
 9. In General Settings, turn on `Show Skill Recharge`, `Show Target Health Percent`, and `Lock Ground Target at Maximum Skill Range`.
@@ -96,7 +96,7 @@ As an additional note, use the `#training_requests` channel in the RTI Discord i
 16. Exotic armour has a tiny loss in stats compared to ascended armour. You can get exotic armour of any stat from many areas, such as Bladed armour in Verdant Brink.
 17. Check if exotic equipment is salvageable before slotting in expensive runes/sigils. Karma armour or armour from levelling, for example, is not salvageable.
 18. Stand tightly in the stack as often as possible. This is where all the boons and healing is!
-19. Often, ascended food is cheaper to craft than its exotic counterpart.
+19. Sometimes, ascended food is cheaper to craft than its exotic counterpart. Use [GW2Efficiency](https://gw2efficiency.com/crafting/calculator) to compare prices!
 20. The 1-hour version of enhancements is much more cost-efficient than the 30-minute variant.
 21. You can filter most raid sellers and guilds looking for members from the Raid LFG by entering `-[` into the search bar.
 22. Doing Strikes and Fractals nets you currency for ascended gear.
@@ -104,10 +104,12 @@ As an additional note, use the `#training_requests` channel in the RTI Discord i
 24. If you miss a ready check and can't ready up, press `P` or click the arrow at the top left of the squad UI and ready up from there.
 25. You can stat-swap ascended gear in the Mystic Forge very cheaply, but be careful because you lose your upgrades inside it.
 26. There is a red bar indicator below your skills when you're out of range of your target.
-27. The [Envoy I collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor) is a great source of ascended armour of any weight of your choosing.
+27. The [Envoy I collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor) is a basically free set of ascended armour of any weight/stats of your choosing.
 28. The weight you choose in the [Envoy II collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_II:_Refined_Armor) is what you're stuck with for legendary armour.
 29. Know your CC skills and which CC of yours is more impactful. [This](https://wiki.guildwars2.com/wiki/Defiance_bar) Wiki page helps a lot with that!
 30. Many skills, traits, and upgrades rely on you being able to flank the boss. This counts for both being behind the boss and to the side of the boss.
 31. On almost all bosses, standing behind the raid boss is recommended to avoid taking unnecessary damage that should only be designated for the tank.
 32. Party chat (`/p`) is only visible to people in your squad subgroup. Squad chat (`/d`) is visible to everyone in the squad.
-33. Raids have a reputation of being full of toxicity and elitism, but you'll find that this isn't nearly as true as people think. Don't get disheartened!
+33. You can prioritise whom to resurrect by clicking on their name in the squad UI before beginning to resurrect, which will target their downed bodies.
+34. If everyone dies while fighting a raid boss (even by using `/gg`), they respawn with their cooldowns reset.
+35. Raids have a reputation of being full of toxicity and elitism, but you'll find that this isn't nearly as true as people think. Don't get disheartened!
