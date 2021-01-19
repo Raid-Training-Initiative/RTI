@@ -78,38 +78,59 @@ If you're on this page then you might be new to raids and looking to get into th
 As an additional note, use the `#training_requests` channel in the RTI Discord if you are new to certain raid wings to request them and get priority to join future raid trainings on those wings. Do note that you need to have given us your [API key](https://account.arena.net/applications) in your RTI application OR when filling in your training request to be able to use this feature!
 
 ## Tips Any New Raider Should Know
-1. When you kill a raid boss, you get its tokens (referred to as "KP"). Keep these! Pugs want to see at LEAST a wing's final boss' KP to gauge your experience level.
-2. You can repair your armour in raids at Ley Rifts with the mastery. If you don't have this mastery, you can use the anvil present at the start of every raid wing.
-3. If you get any spare minis from raid bosses, you can convert them into raid currency at any raid vendor.
-4. If you open a raid wing instance of a wing you haven't completed all the bosses for that week, then it will open with your progress saved.
-5. If you get someone to open an instance at a particular boss for you, don't "opener snipe", which is loading into that instance until they've confirmed that they're loaded in.
-6. Doing a raid boss more than once in a week doesn't give more rewards. Every Monday morning, progress on raid bosses is reset and you can get rewards on every boss again.
-7. Bind your skills to buttons, including your Special Action Key. Don't skill click!
-8. In Graphics Settings, turn up your `Character Model Limit` for raids, set `Shaders` to at least `Medium`, and turn on `Effect LOD`.
-9. In General Settings, turn on `Show Skill Recharge`, `Show Target Health Percent`, and `Lock Ground Target at Maximum Skill Range`.
-10. In General Settings, disable `Melee Attack Assist` and `Double Tap To Dodge`.
-11. `/gg` allows you to quickly suicide without damaging your armour. It's used to reset a raid boss attempt to try again.
-12. You can use `/gg` to teleport to the squad upon entering an instance.
-13. Turn up effects volume - many attacks in raids have sound cues!
-14. Keep track of your mouse cursor in raids. Download [YoloMouse](https://dragonrisegames.com/yolomouse)!
-15. If you want to play as DPS, have a condition and power DPS build ready. Many bosses favour power DPS and many others favour condition DPS.
-16. Exotic armour has a tiny loss in stats compared to ascended armour. You can get exotic armour of any stat from many areas, such as Bladed armour in Verdant Brink.
-17. Check if exotic equipment is salvageable before slotting in expensive runes/sigils. Karma armour or armour from levelling, for example, is not salvageable.
-18. Stand tightly in the stack as often as possible. This is where all the boons and healing is!
-19. Sometimes, ascended food is cheaper to craft than its exotic counterpart. Use [GW2Efficiency](https://gw2efficiency.com/crafting/calculator) to compare prices!
-20. The 1-hour version of enhancements is much more cost-efficient than the 30-minute variant.
-21. You can filter most raid sellers and guilds looking for members from the Raid LFG by entering `-[` into the search bar.
-22. Doing Strikes and Fractals nets you currency for ascended gear.
-23. The Advanced Logistics mastery gives you access to vendors that are the only way to get your hands on useful food and enhancement recipes.
-24. If you miss a ready check and can't ready up, press `P` or click the arrow at the top left of the squad UI and ready up from there.
-25. You can stat-swap ascended gear in the Mystic Forge very cheaply, but be careful because you lose your upgrades inside it.
-26. There is a red bar indicator below your skills when you're out of range of your target.
-27. The [Envoy I collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor) is a basically free set of ascended armour of any weight/stats of your choosing.
-28. The weight you choose in the [Envoy II collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_II:_Refined_Armor) is what you're stuck with for legendary armour.
-29. Know your CC skills and which CC of yours is more impactful. [This](https://wiki.guildwars2.com/wiki/Defiance_bar) Wiki page helps a lot with that!
-30. Many skills, traits, and upgrades rely on you being able to flank the boss. This counts for both being behind the boss and to the side of the boss.
-31. On almost all bosses, standing behind the raid boss is recommended to avoid taking unnecessary damage that should only be designated for the tank.
-32. Party chat (`/p`) is only visible to people in your squad subgroup. Squad chat (`/d`) is visible to everyone in the squad.
-33. You can prioritise whom to resurrect by clicking on their name in the squad UI before beginning to resurrect, which will target their downed bodies.
-34. If everyone dies while fighting a raid boss (even by using `/gg`), they respawn with their cooldowns reset.
-35. Raids have a reputation of being full of toxicity and elitism, but you'll find that this isn't nearly as true as people think. Don't get disheartened!
+**General:**
+
+1. You can repair your armour in raids at Ley Rifts with the mastery. If you don't have this mastery, you can use the anvil present at the start of every raid wing.
+2. If you get someone to open an instance at a particular boss for you, don't "opener snipe", which is loading into that instance until they've confirmed that they're loaded in.
+3. If you open a raid wing instance of a wing you haven't completed all the bosses for that week, then it will open with your progress saved.
+4. `/gg` allows you to quickly suicide without damaging your armour. It's used to reset a raid boss attempt to try again.
+5. You can use `/gg` to teleport to the squad upon entering an instance.
+6. If everyone dies while fighting a raid boss (even by using `/gg`), they respawn with their cooldowns reset.
+7. You can filter most raid sellers and guilds looking for members from the Raid LFG by entering `-[` into the search bar.
+8. If you miss a ready check and can't ready up, press `P` or click the arrow at the top left of the squad UI and ready up from there.
+9. Party chat (`/p`) is only visible to people in your squad subgroup. Squad chat (`/d`) is visible to everyone in the squad.
+10. LFG squads often ask for things like "40KP" or "200LI". They expect you to, upon entering, hold Ctrl and click spam 3-4 times on your KP or LI in your inventory to prove you have it.
+11. Raids have a reputation of being full of toxicity and elitism, but you'll find that this isn't nearly as true as people think. Don't get disheartened!
+
+**Settings:**
+
+12. In Graphics Settings, turn up your `Character Model Limit` for raids to be able to see all mechanics/attacks.
+13. In Graphics Settings, set `Shaders` to at least `Medium` or some arena floors won't render correctly.
+14. In Graphics Settings, turn on `Effect LOD` so that other people's spell effects don't clutter your screen and make it difficult to see what's going on.
+15. In General Settings, turn on `Show Skill Recharge` so you can see your cooldowns more precisely.
+16. In General Settings, turn on `Show Target Health Percent` so you can see exactly what percentage the boss' health is at.
+17. In General Settings, turn on `Lock Ground Target at Maximum Skill Range` to make it much easier to cast targeted skills at long distances.
+18. In General Settings, disable `Melee Attack Assist` or else you won't easily be able to enter the boss' hitbox (something you need to do often in raids).
+19. In General Settings, disable `Double Tap To Dodge` because it makes it difficult to make precise movements or dodge with precise timings.
+20. Bind your skills to buttons, including your Special Action Key. Avoid "skill-clicking" (clicking on your skill icons to cast them) as much as possible!
+21. Keep track of your mouse cursor in raids. Download [YoloMouse](https://dragonrisegames.com/yolomouse)!
+
+**Gearing:**
+
+22. Exotic armour has a tiny loss in stats compared to ascended armour. You can get exotic armour of any stat from many areas, such as Bladed armour in Verdant Brink.
+23. Check if exotic equipment is salvageable before slotting in expensive runes/sigils. Karma armour or armour from levelling, for example, is not salvageable.
+24. Sometimes, ascended food is cheaper to craft than its exotic counterpart. Use [GW2Efficiency](https://gw2efficiency.com/crafting/calculator) to compare prices!
+25. The 1-hour version of enhancements is much more cost-efficient than the 30-minute variant.
+26. If you want to play as DPS, have a condition and power DPS build ready. Many bosses heavily favour power DPS and many others heavily favour condition DPS.
+27. Doing Strikes and Fractals nets you currency for ascended gear.
+28. The Advanced Logistics mastery gives you access to vendors that are the only way to get your hands on useful food and enhancement recipes.
+29. You can stat-swap ascended gear in the Mystic Forge very cheaply, but be careful because you lose your upgrades inside it.
+
+**Combat:**
+
+30. Turn up effects volume - many attacks in raids have sound cues!
+31. Stand tightly in the stack as often as possible. This is where all the boons and healing is!
+32. There is a red bar indicator below your skills when you're out of range of your target.
+33. Know your CC skills and which CC of yours is more impactful. [This](https://wiki.guildwars2.com/wiki/Defiance_bar) Wiki page helps a lot with that!
+34. Many skills, traits, and upgrades rely on you being able to flank the boss. This counts for both being behind the boss and to the side of the boss.
+35. On almost all bosses, standing behind the raid boss is recommended to avoid taking unnecessary damage that should only be designated for the tank.
+36. You can prioritise whom to resurrect by clicking on their name in the squad UI before beginning to resurrect, which will target their downed bodies.
+37. You can easily target the raid boss by clicking on their health bar in the raid event information UI at the top right.
+
+**Rewards:**
+
+38. When you kill a raid boss, you get its tokens (referred to as "KP"). Keep these! Pugs want to see at LEAST a wing's final boss' KP to gauge your experience level.
+39. If you get any spare minis from raid bosses, you can convert them into raid currency at any raid vendor.
+40. Doing a raid boss more than once in a week doesn't give more rewards. Every Monday morning, progress on raid bosses is reset and you can get rewards on every boss again.
+41. The [Envoy I collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor) is a basically free set of ascended armour of any weight/stats of your choosing.
+42. The weight you choose in the [Envoy II collection](https://wiki.guildwars2.com/wiki/Envoy_Armor_II:_Refined_Armor) is what you're stuck with for legendary armour.
