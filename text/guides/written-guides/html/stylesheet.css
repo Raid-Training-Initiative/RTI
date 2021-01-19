@@ -2360,7 +2360,8 @@ html {
     font-variant-ligatures: common-ligatures;
     line-height: 1.67;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #1d2026;
 }
 
 .app--dark .layout__panel--editor,
@@ -2496,7 +2497,7 @@ mark {
 
 kbd {
     font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
-    background-color: #fff;
+    background-color: #1d2026;
     border: 1px solid rgba(63, 63, 63, .25);
     border-radius: 3px;
     box-shadow: 0 1px 0 rgba(63, 63, 63, .25);
