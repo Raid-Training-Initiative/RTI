@@ -1,7 +1,12 @@
 # RTI Raid Quickstart
 If you're on this page then you might be new to raids and looking to get into the game mode. This game mode has some of the most fun content that Guild Wars 2 has to offer, and this guide will show you how to get started with raiding with our guild! Click on any step in the below list to expand it and get a helpful image.
 
+![RTI Banner](../../../graphics/banners/server_banner.png)
+
 ## Joining RTI
+
+![Joining RTI](https://i.imgur.com/64zq4lE.png)
+
 1. Make sure you're on the [RTI discord](https://www.discord.gg/rti) and that you've verified yourself in `#welcome` to unlock the server!
 
 ![Verification](https://i.imgur.com/gzK72vI.png)
@@ -23,6 +28,8 @@ If you're on this page then you might be new to raids and looking to get into th
 ![Application Sent](https://i.imgur.com/IxkITyf.png)
 
 ## Preparing for Raids
+
+![Preparing for Raids](https://i.imgur.com/PD4Mgez.png)
 
 ### Gearing up:
 1. Choose the class you wish to raid with. All classes in the game are viable with some build or other. Take a look at the `#class_guides` channel in the RTI Discord to get a better idea of what class to go for and what a typical RTI raid class composition looks like.
@@ -51,6 +58,9 @@ If you're on this page then you might be new to raids and looking to get into th
 ![Rotation](https://i.imgur.com/OyILYDs.png)
 
 ## Joining Your First RTI Raid
+
+![Joining Your First RTI Raid](https://i.imgur.com/SErWuc7.png)
+
 1. Every time a new raid is published, a new raid channel is created in the RTI Discord. You can scroll down to the `CURRENT RAIDS` section to see all of our raid channels, with an indicator next to them indicating if they're full (🔴) or if spots are still open (🔹). Choose any one of them to view more information about the raid.
 
 ![Current Raids](https://i.imgur.com/Z4bql1B.png)
@@ -78,6 +88,9 @@ If you're on this page then you might be new to raids and looking to get into th
 As an additional note, use the `#training_requests` channel in the RTI Discord if you are new to certain raid wings to request them and get priority to join future raid trainings on those wings. Do note that you need to have given us your [API key](https://account.arena.net/applications) in your RTI application OR when filling in your training request to be able to use this feature!
 
 ## Tips Any New Raider Should Know
+
+![Tips Any New Raider Should Know](https://i.imgur.com/1iHEgp1.png)
+
 **General:**
 
 1. You can repair your armour in raids at Ley Rifts with the mastery. If you don't have this mastery, you can use the anvil present at the start of every raid wing.
