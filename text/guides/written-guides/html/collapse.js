@@ -1,10 +1,11 @@
 'use strict';
 
 const collapsibles = document.querySelectorAll('.collapse-header').forEach(elem => {
-  elem.addEventListener('click', collapseHeaderClick);
+  elem.addEventListener('click', toggleCollapse);
+  elem.addEventListener('touchstart', toggleCollapse);
 });
 
-function collapseHeaderClick() {
+function toggleCollapse() {
   const parent = this.parentNode;
   const content = this.nextElementSibling;
   const icon = this.querySelector('i.material-icons');
