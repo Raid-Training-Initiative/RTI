@@ -1,5 +1,5 @@
 # RTI Raid Quickstart
-If you're on this page then you might be new to raids and looking to get into the game mode. This game mode has some of the most fun content that Guild Wars 2 has to offer, and this guide will show you how to get started with raiding with our guild!
+If you're on this page then you might be new to raids and looking to get into the game mode. This game mode has some of the most fun content that Guild Wars 2 has to offer, and this guide will show you how to get started with raiding with our guild! Click on any step in the below list to expand it and get a helpful image.
 
 ## Joining RTI
 1. Make sure you're on the [RTI discord](https://www.discord.gg/rti) and that you've verified yourself in `#welcome` to unlock the server!

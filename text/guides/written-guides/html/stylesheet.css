@@ -2128,6 +2128,18 @@ body {
     margin: 0
 }
 
+details[open] summary {
+    background-color: #22252b;
+}
+
+summary:focus {
+    outline: none !important;
+}
+
+summary:hover {
+    cursor: pointer;
+}
+
 article,
 aside,
 footer,
