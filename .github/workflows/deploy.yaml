@@ -1,0 +1,21 @@
+name: deploy
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.0.4
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'text/guides/written-guides/html'
+        destination_repo: 'RTIGuides/RTIGuides.github.io'
+        user_email: '72631338+RTIGuides@users.noreply.github.com'
+        user_name: 'RTIGuides'
+        commit_message: 'Deploy RTI Guides'
