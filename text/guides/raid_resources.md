@@ -75,13 +75,16 @@ _ _
 :pushpin: **BEGINNER GUIDES**
 `--------------------------`
 
+:link: <https://rtiguides.github.io/html/Raid%20Quickstart%20Guide.html>
+**Raid Quickstart Guide**: Guide (by Step) on how to start raiding with RTI and useful tips for all raid newbies. Go here if you're new to the raiding business!
+
 :link: <https://tinyurl.com/gw2raidbeginnerguide>
 **Ultimate Beginner's Guide**: MightyTeapot's videos on basic GW2 gameplay.
 
 :link: <https://wiki.guildwars2.com/wiki/User:Tanetris/So_You_Want_To_Gear_a_Character>
 **Gearing Guide**: Guide on how to gear your character.
 
-:link: <https://feverousaardvark.htmlpasta.com/>
+:link: <https://rtiguides.github.io/html/ArcDPS%20Guide.html>
 **ArcDPS & Logging Guide**: Guide (by Step) on how to install and use ArcDPS, its plugins, and <https://dps.report/> logging.
 
 :link:  <https://metabattle.com/wiki/PvE_Guides>
