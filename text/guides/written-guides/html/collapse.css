@@ -5,6 +5,9 @@
 .collapse.open > .collapse-header {
   background-color: #22252b
 }
+.collapse.open > .collapse-body {
+  overflow: visible;
+}
 
 .collapse > .collapse-body {
   max-height: 0;
