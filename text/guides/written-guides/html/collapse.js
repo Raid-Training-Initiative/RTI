@@ -5,14 +5,6 @@ const collapsibles = document.querySelectorAll('.collapse-header').forEach(elem 
   elem.addEventListener('touchstart', onTouch);
 });
 
-function debounce(fn, wait) {
-  let timeout;
-  return function() {
-    const context = this
-
-  }
-}
-
 function onClick () {
   return toggleCollapse.bind(this)();
 }
