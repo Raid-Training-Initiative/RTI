@@ -1,9 +1,26 @@
 'use strict';
 
 const collapsibles = document.querySelectorAll('.collapse-header').forEach(elem => {
-  elem.addEventListener('click', toggleCollapse);
-  elem.addEventListener('touchstart', toggleCollapse);
+  elem.addEventListener('click', onClick);
+  elem.addEventListener('touchstart', onTouch);
 });
+
+function debounce(fn, wait) {
+  let timeout;
+  return function() {
+    const context = this
+
+  }
+}
+
+function onClick () {
+  return toggleCollapse.bind(this)();
+}
+
+function onTouch(e) {
+  e.preventDefault();
+  return toggleCollapse.bind(this)();
+}
 
 function toggleCollapse() {
   const parent = this.parentNode;
