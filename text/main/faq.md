@@ -2,7 +2,7 @@
 ![separator-big](../../graphics/separators/separator-big.png)
 `[1] How do I join your raids?`
 First, join our community (i.e. get the **Member** role on Discord)! Read the #join_us channel and follow our requirements before applying. Follow this guide to get a full overview of what you need to do to get started:
-https://rtiguides.github.io/Raid%20Quickstart%20Guide.html
+https://rtiguides.github.io/html/Raid%20Quickstart%20Guide.html
 _ _
 `[2] When do you normally raid?`
 Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`). The only expectation is that, once signed up, you commit yourself to the duration of the raid (usually 2 - 3 hours).
