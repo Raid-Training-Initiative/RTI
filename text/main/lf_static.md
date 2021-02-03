@@ -1,4 +1,5 @@
-This is a channel you can use to advertise yourself as looking for a raid or fractal static.
+This is a channel you can use to advertise yourself as looking for a raid or fractal static.  You can also use the `/r/guildrecruitment` subreddit:
+<https://www.reddit.com/r/guildrecruitment/>
 `-------------------------------------------------`
 **How does it work?**
 Post a message in here advertising yourself.
