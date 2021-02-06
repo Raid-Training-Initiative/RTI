@@ -58,7 +58,7 @@ _ _
 :pushpin: **BEGINNER GUIDES**
 `--------------------------`
 
-:link: <https://rtiguides.github.io/html/Raid%20Quickstart%20Guide.html>
+:link: <https://tinyurl.com/rtiquickstart>
 **Raid Quickstart Guide**: Guide (by Step) on how to start raiding with RTI and useful tips for all raid newbies. Go here if you're new to the raiding business!
 
 :link: <https://tinyurl.com/gw2raidbeginnerguide>
