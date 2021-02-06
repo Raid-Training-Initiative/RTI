@@ -10,7 +10,7 @@ We expect an active interest in learning and improving in raids. This includes e
 Being a part of our community, you also need to have an open mind for different opinions and perspectives. What a good player is, or what meta is, can vary dramatically from person to person, and thus, we expect you to respect other people's views and resolve differences through friendly discussion.
 
 Last but not least, we ask you to never forget where you came from, what it was like when you first joined so that you can contribute to our guild by helping new players and welcome them to our guild in the same way that we have welcomed you. If you ever get lost, consult our quickstart guide here:
-https://rtiguides.github.io/Raid%20Quickstart%20Guide.html
+https://tinyurl.com/rtiquickstart
 _ _
 ![notes](../../graphics/paintbrush-banners/notes.png)
 If RTI seems like the right place for you, then please be sure to read our #rules. Then, hit the checkbox at the bottom to have access to the rest of our server!
