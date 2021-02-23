@@ -35,10 +35,10 @@ _ _
 :link:  <https://www.deltaconnected.com/arcdps/>
 **ArcDPS**: This is the DPS meter that a huge portion of the raiding community uses. We stongly recommend that you download it!!
 
-:link:  <https://github.com/MarsEdge/GW2-ArcDPS-Boon-Table/releases>
+:link:  <https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table/releases>
 **ArcDPS Boon Table**: Plugin for ArcDPS to improve the boon table. Download `d3d9_arcdps_table.dll` and dump it in the `bin64` folder in your Guild Wars 2 installation.
 
-:link:  <https://github.com/MarsEdge/GW2-ArcDPS-Mechanics-Log/releases>
+:link:  <https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log/releases>
 **ArcDPS Mechanics Table**: Plugin for ArcDPS to show when people received or got hit by certain mechanics in real-time. Download `d3d9_arcdps_mechanics.dll` and dump it in the `bin64` folder in your Guild Wars 2 installation.
 
 :link: <https://buildpad.gw2archive.eu/>
