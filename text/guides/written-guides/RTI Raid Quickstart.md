@@ -51,7 +51,7 @@ If you're on this page then you might be new to raids and looking to get into th
 
 2. Make sure you have your masteries all set up by gathering experience and mastery points in Heart of Thorns and Path of Fire. You can start working towards raid masteries after having completed a single raid boss. These are the masteries we recommend working towards:
 
-![Masteries](https://i.imgur.com/S7d7Ie3.png)
+![Masteries](https://i.imgur.com/twaX5ID.png)
 
 3. Make sure you've practised your build in the [Special Forces Training Area](https://wiki.guildwars2.com/wiki/Special_Forces_Training_Area). You will find a rotation video and step-by-step guide on the Snow Crows page of your chosen class and build. You will also find class guides at the top of the page that are an immensely helpful resource to guide you through what to do on your class for each boss.
 
