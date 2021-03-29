@@ -87,10 +87,10 @@ Your rank upon joining the community. You need this rank to join our raids!
 _Requirements_: #join_us 
 `[•]` **Lieutenant**
 Lieutenants help out in training runs and organise kill runs, CM runs, fractals, and dungeons. They have good knowledge of most encounters and have experience within raids.
-_Requirements_: Approved by @Officer. To get the role, a lieutenant will have raided with us before and demonstrated decent experience/knowledge in raids and a capacity to lead raids.
+_Requirements_: #become_a_commander
 `[•]` **Commander**
 Commanders lead training runs on a regular basis (at least once per month). They have good knowledge of all encounters and many class builds. They will also be socially active in the guild and keen to help out new players.
-_Requirements_: Approved by @Officer. A commander will get their role after they demonstrate their ability and motivation to teach and train new players in official RTI training runs.
+_Requirements_: #become_a_commander
 `[•]` **Officer**
 Officers enforce guild discipline, handle guild admin, and are involved in overarching changes to how RTI and the discord work.
 _Requirements_: Approved by @Leader.
@@ -107,6 +107,8 @@ Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We
 If you're interested in organising official raids with the guild on a regular basis, especially training runs, then please contact an @Officer and we can talk about giving you the @Commander role.
 
 If you want to help out in our raid trainings and/or organise your own kill runs, CMs, dungeons, or fractals, contact an @Officer and we can talk about giving you the @Lieutenant role. This is a good stepping stone towards becoming a commander!
+
+More info is given in the #become_a_commander channel!
 _ _
 `[18] RTI raids fill up too quickly! What do I do?`
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
