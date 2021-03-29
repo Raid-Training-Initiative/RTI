@@ -69,7 +69,7 @@ The [SnowCrows Help Desk](https://discord.gg/qTs63YH) is a very good resource fo
 # The Special Forces Training Area
 ![Golem Area](https://i.imgur.com/PD4Mgez.png)
 
-The golem on which the benchmarks are done can be found in the Special Forces Training Area `[&BCAJAAA=]`. It's accessible through the Lion's Arch Aerodrome found in the south of Lion's Arch. The Aerodrome functions as a lobby where you can access all raid wings. The portal to the training area can be found in the south-western corner of the map, and like with the normal raid wings, it can only be entered in a 10-man squad. This means you need to create a squad via the party menu on the top left corner, check the box for raid mode, and you are ready to go.
+The golem on which the benchmarks are done can be found in the Special Forces Training Area `[&BCAJAAA=]`. It's accessible through the Lion's Arch Aerodrome found in the south of Lion's Arch. The Aerodrome functions as a lobby where you can access all raid wings. The portal to the training area can be found in the north-eastern corner of the map, and like with the normal raid wings, it can only be entered in a 10-man squad. This means you need to create a squad via the party menu on the top left corner, check the box for raid mode, and you are ready to go.
 
 The Special Forces Training Area mimics a raid wing, which means you cannot use certain consumable or novelties. Walking up the the main area you will find a Golem Spawner and the Arena Console. The nearby technician will tell you something about the training area and how to use it. The Jam-r-Tron allows you to change the music for the time of your staying.
 
