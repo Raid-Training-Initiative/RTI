@@ -4,6 +4,9 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 :pushpin: **RAIDS**
 `--------------------------`
 
+:link: <https://discord.gg/zexy-raid-guild>
+**[Zexy] Raid Guild**: Large EU-based raid training guild.
+
 :link: <https://discord.gg/hdhDE3v>
 **The Crossroads Inn**: Large EU-based raid training guild.
 
