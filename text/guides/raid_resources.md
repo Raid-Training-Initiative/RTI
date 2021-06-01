@@ -4,6 +4,9 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 :pushpin: **RAIDS**
 `--------------------------`
 
+:link: <https://discord.gg/zexy-raid-guild>
+**[Zexy] Raid Guild**: Large EU-based raid training guild.
+
 :link: <https://discord.gg/hdhDE3v>
 **The Crossroads Inn**: Large EU-based raid training guild.
 
@@ -80,8 +83,11 @@ _ _
 :link:  <https://snowcrows.com/>
 **Advanced Raid Guides**: The "Class Guides" section at the top of the Snow Crows website has useful guides for your class on each boss (though some advice is suited more for hardcore players).
 
-:link:  <https://www.youtube.com/watch?v=d-Z-mwZUlkA>
-**Raid Commanding Guide**: A long stream to watch with lots of info on how to be a raid commander and trainer.
+:link:  <https://youtu.be/d-Z-mwZUlkA>
+**Raid Commanding Guide**: A long stream (by Step) with lots of info on how to be a raid commander and trainer. Timestamps in description!
+
+:link: <https://youtu.be/s0CVVCOF4EI>
+**Raid Squad Setup Guide**: A guide video (by Step) showing how to set up a raid squad, where boons come from, etc. Timestamps in description!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
