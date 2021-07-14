@@ -2,7 +2,7 @@
 ![separator-big](../../graphics/separators/separator-big.png)
 ```diff
 - Rule [1]: Respect others
-We encourage joking around and friendly humour but not toxicity, frustration, inappropriate behaviour, and name-shaming. To veterans in particular, do not berate new players and trainees - remember that we were all new once.
+We encourage joking around and friendly humour but not toxicity, frustration, inappropriate behaviour, and name-shaming. In particular, we do not tolerate berating or mocking new players and trainees - remember that we were all new once.
 ```
 ```diff
 - Rule [2]: Don't be inappropriate
@@ -18,7 +18,7 @@ Try to be open to constructive criticism and willing to improve your gameplay. O
 ```
 ```diff
 - Rule [5]: Be punctual and prudent
-If you sign up for a raid, we expect you to read the description of the raid, show up on time, and stay for the specified duration of the raid. If you learn that you can't make it, unregister as soon as you can!
+If you sign up for a raid, we expect you to read the description of the raid, show up on time, and stay for the specified duration of the raid. If you learn that you can't make it, unregister as soon as you can! Unregistering under 30 minutes before a raid starts is seen as infringement of this rule.
 ```
 ```diff
 - Rule [6]: Follow the Guild Wars 2 rules
