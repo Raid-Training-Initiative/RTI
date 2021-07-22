@@ -118,5 +118,12 @@ It is difficult to get into raid trainings, but here are some tips to give you b
 `[•]` Be as multiclass as you can. Gearing roles such as Support/Tank Chronomancer, Condition Quickness Firebrand, Heal Alacrity Renegade, and Heal Druid makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
 _ _
+`[19] I have <insert disability here>. Am I still able to raid with you?`
+Yes! Sometimes we get people joining with certain disabilities, such as hearing impairments, colour blindness, learning disorders, physical disabilities, etc. This often can make it more daunting to join training raids.
+
+Don't feel ashamed to let us know if you need us to make any accommodations. We are happy to make some changes to how we do things, such as giving you one-on-one sessions to help you with certain challenges, having someone transcribe what the commander is saying on voice chat to you in typing, or at the very least exercising a level of understanding of your situation if we notice you struggling with certain things.
+
+The important thing is that you let the commander of the raid you're joining know in advance so that we are able to make these accommodations!
+_ _
 ![separator-small](../../graphics/separators/separator-small.png)
 -table of contents goes here-
