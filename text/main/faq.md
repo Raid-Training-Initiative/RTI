@@ -56,9 +56,9 @@ _ _
 `[10] What build should I run?`
 We want to encourage players to build up a variety of roles they can perform. Having more increases your desirability in raids and gives you more opportunities, as well as just improving your understanding of each encounter.
 
-Chronomancers (support) are always in short supply (namely the variant with boon duration). Niche builds, such as hand kiter on Deimos, are also far and few between. Healers, especially druid and renegade, are always a good idea to have in any raider's arsenal.
+:chronomancer: **Chronomancers** (support) are always in short supply. Niche builds, such as Hand Kiter on :deimos: **Deimos**, are also far and few between. Healers, especially :druid: **Druid** and :firebrand: **Firebrand**, are always a good idea to have in any raider's arsenal.
 
-Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on Largos, a class that is good for moving targets that attack often such as condition Mirage/Chronomancer is extremely helpful).
+Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on :largos: **Largos**, a class that is good for moving targets that attack often such as Condition :mirage: **Mirage** / :chronomancer: **Chronomancer** is extremely helpful).
 
 In #class_guides we talk a bit more about some builds you can run and what we usually take into RTI trainings.
 _ _
@@ -114,7 +114,7 @@ It is difficult to get into raid trainings, but here are some tips to give you b
 `[•]` Have your ping notifications turned on for this server. We ping people every time a new raid is up, and the faster you are to react, the quicker you can get a spot.
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
 `[•]` Join the in-game guild via #guild_join_requests. Runs are advertised there on a regular basis.
-`[•]` Be as multiclass as you can. Gearing roles such as Support/Tank Chronomancer, Condition Quickness Firebrand, Heal Alacrity Renegade, and Heal Druid makes it much easier to get spots in our runs, as they are in far more demand than DPS.
+`[•]` Be as multiclass as you can. Gearing roles such as :chronomancer: **Support/Tank Chronomancer**, :firebrand: **Heal Firebrand**, :renegade: **Alacrity Renegade**, and :druid: **Druid** makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
 _ _
 `[19] I have <insert disability here>. Am I still able to raid with you?`
