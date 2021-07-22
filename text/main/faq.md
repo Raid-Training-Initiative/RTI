@@ -17,7 +17,6 @@ To sign up for any raid, simply click the :pencil: reaction underneath the post 
 
 Ensure that you have DMs turned on for this server or else the bot won't be able to contact you! You can turn them on from the server's privacy settings, which you can find by right-clicking on the RTI server icon in your Discord.
 
-
 Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
 _ _
 `[4] Can I sign up for any raid?`
@@ -28,8 +27,8 @@ As a general rule of thumb, always read the raid description. That being said, t
 `[•]` **Kill runs** are generally made with the intent of getting a number of bosses or wings down. These are regular LFG raids that require experience with the fights and will not include explanations. While KP/LI requirements will never be present, you are expected to join these raids with a decent level of comfort and familiarity with the boss and your class.
 `[•]` **CM runs** are progression on certain raid challenge motes, which are essentially more difficult versions of raid bosses. For these, familiarity with the normal-mode version of the boss(es) is almost always required.
 _ _
-`[5] Do I need to be able to talk on Discord/Teamspeak?`
-You must be able to listen during an RTI run. Talking is not required but is encouraged.
+`[5] Do I need to be able to talk on Discord voice chat?`
+You must be able to listen during an RTI run (hearing impairments notwithstanding). Talking is not required but is encouraged.
 _ _
 `[6] Do I need to be in the in-game guild to join your raids?`
 No! You can join our raids without being in our in-game guild. However, if you want a spot in the in-game guild, check out #guild_join_requests.
