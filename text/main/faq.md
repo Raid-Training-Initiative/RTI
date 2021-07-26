@@ -15,6 +15,8 @@ Once you have joined RTI and received the **Member** role, you can sign up for o
 
 To sign up for any raid, simply click the :pencil: reaction underneath the post in the raid's channel. You will then get a DM from the bot asking you what you want to sign up as, and all you need to do is send it the correct number. You can sign up for the reserve role you want to fill (e.g. :green_circle: **Druid**) and get notified if that specific spot opens up, or you can choose to sign up as :jigsaw: **Multiclass** and get notified if any spot opens up.
 
+You will get a message from @RtiBot#4883 an hour before the raid is starting and there is also a time at the bottom of each of our raid embeds (the `Your Time` footer) which converts the raid's scheduled time to your timezone. If you're still unsure, hit the :clipboard: in #📅raid_schedule to get a countdown for each raid you've signed up to!
+
 Ensure that you have DMs turned on for this server or else the bot won't be able to contact you! You can turn them on from the server's privacy settings, which you can find by right-clicking on the RTI server icon in your Discord.
 
 Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
