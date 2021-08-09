@@ -151,7 +151,7 @@ This is a channel that lists information for every boss. Each boss will have:
 * **RIVER**
 	- [Chrono (Babysitter)](https://youtu.be/ZweONAWbgcs)
 	- [Heal Scrapper (Babysitter)](https://youtu.be/X_Vj7QLVtRI)
-	- [Firebrand (Babysitter)](https://youtu.be/IHLBWjr7yzI)
+	- [Firebrand (Babysitter)](https://youtu.be/HWaSyIRM2jM)
 	- [DPS](https://youtu.be/UBw9mqxIKto)
 
 * **STATUES**
