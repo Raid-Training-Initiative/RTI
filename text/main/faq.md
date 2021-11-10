@@ -1,7 +1,7 @@
 ![header-faq](../../graphics/headers/header-faq.png)
 ![separator-big](../../graphics/separators/separator-big.png)
 `[1] How do I join your raids?`
-First, join our community (i.e. get the **Member** role on Discord)! Read the #join_us channel and follow our requirements before applying. Follow this guide to get a full overview of what you need to do to get started:
+First, join our community (i.e. get the **Member** role on Discord)! Read the #welcome channel and follow our requirements before applying. Follow this guide to get a full overview of what you need to do to get started:
 https://tinyurl.com/rtiquickstart
 _ _
 `[2] When do you normally raid?`
@@ -85,7 +85,7 @@ _ _
 `[15] What are all the different Discord ranks?`
 `[•]` **Member**
 Your rank upon joining the community. You need this rank to join our raids!
-_Requirements_: #join_us 
+_Requirements_: #rules
 `[•]` **Lieutenant**
 Lieutenants help out in training runs and organise kill runs, CM runs, fractals, and dungeons. They have good knowledge of most encounters and have experience within raids.
 _Requirements_: #become_a_commander
