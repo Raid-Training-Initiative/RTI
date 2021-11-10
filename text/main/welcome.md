@@ -10,14 +10,17 @@ We expect an active interest in learning and improving in raids. This includes e
 Being a part of our community, you also need to have an open mind for different opinions and perspectives. What a good player is, or what meta is, can vary dramatically from person to person, and thus, we expect you to respect other people's views and resolve differences through friendly discussion.
 
 Last but not least, we ask you to never forget where you came from, what it was like when you first joined so that you can contribute to our guild by helping new players and welcome them to our guild in the same way that we have welcomed you. If you ever get lost, consult our quickstart guide here:
-https://tinyurl.com/rtiquickstart
+<https://tinyurl.com/rtiquickstart>
 _ _
 ![notes](../../graphics/paintbrush-banners/notes.png)
-If RTI seems like the right place for you, then please be sure to read our #rules. Then, hit the checkbox at the bottom to have access to the rest of our server!
+If RTI seems like the right place for you, then make sure you read our rules and application requirements in #rules, and then hit the ✅ below to join our community and gain access to our raids.
 
 We look forward to raiding with you!
 - RTI
-![header-accept](../../graphics/headers/header-accept.png)
-![separator-big](../../graphics/separators/separator-big.png)
-Once you have read the above, including the #rules, click on the :white_check_mark: reaction to gain access to our other channels!
+_ _
+![howtoapply](../../graphics/paintbrush-banners/howtoapply.png)
+You can apply to RTI by clicking the ✅ at the bottom of this message. You will then be approved shortly.
+If you then wish to be invited to the in-game guild, you can do so at #guild_join_requests after your application has been approved.
+
+Be sure to turn on the ability to receive DMs from this server (in your **Privacy Settings** for the server) or else you won't receive DMs from the bot to apply to the guild. If you have any questions, contact an @Officer!
 ![separator-big_2](../../graphics/separators/separator-big_2.png)
