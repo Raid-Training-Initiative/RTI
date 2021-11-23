@@ -113,11 +113,12 @@ More info is given in the #become_a_commander channel!
 _ _
 `[18] RTI raids fill up too quickly! What do I do?`
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
-`[•]` Have your ping notifications turned on for this server. We ping people every time a new raid is up, and the faster you are to react, the quicker you can get a spot.
+`[•]` Have your ping notifications turned on for this server. We ping people every time a new official raid is published. Be sure to go to #ping_settings and opt in to additional ping roles for even more opportunities!
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
 `[•]` Join the in-game guild via #guild_join_requests. Runs are advertised there on a regular basis.
 `[•]` Be as multiclass as you can. Gearing roles such as :chronomancer: **Support/Tank Chronomancer**, :firebrand: **Heal Firebrand**, :renegade: **Alacrity Renegade**, and :druid: **Druid** makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
+`[•]` If you want to practise specific roles on specific wings/bosses, then make a request in #special_role_requests and you may get a spot reserved for you in a future raid!
 _ _
 `[19] I have <insert disability here>. Am I still able to raid with you?`
 Yes! Sometimes we get people joining with certain disabilities, such as hearing impairments, colour blindness, learning disorders, physical disabilities, etc. This often can make it more daunting to join training raids.
