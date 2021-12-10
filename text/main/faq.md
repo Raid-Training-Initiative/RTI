@@ -64,11 +64,19 @@ Players that try to stick to pure DPS should also have options between power-bas
 
 In #class_guides we talk a bit more about some builds you can run and what we usually take into RTI trainings.
 _ _
-`[11] Do I need to rep RTI?`
-There are no requirements on representing or even joining the in-game guild.
+`[11] Do I need to rep RTI or be an active member?`
+There are no requirements on representing or even joining the in-game guild. There is also no requirement to be active to remain a member of RTI, but do note that we regularly clear out inactive members (i.e. people who have not logged into the game for a while) from our in-game guild.
 _ _
-`[12] Do I need to be active?`
-There is no requirement to be active to remain a member of RTI, but do note that we regularly clear out inactive members (i.e. people who have not logged into the game for a while) from our in-game guild.
+`[12] I messed up and received a warning! What does this mean?`
+Sometimes you might, consciously or subconsciously, fail to follow one of our #rules, especially **Rule #5** which is our most commonly broken rule that includes the following infractions:
+a) Not showing up for a raid.
+b) Showing up but leaving earlier than the specified duration.
+c) Unregistering from a raid within 30 minutes of it starting.
+d) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** training asked for experience with the "greens" mechanic and you had no experience).
+
+We take this stuff seriously! All of the above infractions and other offences that are covered in the #rules channel can cause minor inconveniences at best and downtime, stress, or drama at worst. If you do break our rules, you will receive an anonymous warning from our officers letting you know what the issue was. Of course, we tend to be lenient with these, i.e. you shouldn't get warned for a power cut that caused you to leave a raid early, for instance, but you will get warned if, say, you forgot you signed up for a raid and didn't show up. Communicating such issues with the leader of the raid is paramount!
+
+Each warning is saved into our system, and you get temporarily banned from joining RTI raids (and kicked from any raids you're currently in) if you hit three warnings. If you then hit six warnings, you'll get temporarily banned for a longer period. On the extreme case that you hit nine warnings, you will be permanently banned from RTI raids and from our Discord server.
 _ _
 `[13] What are the bots that I see people sending commands to?`
 Read the #bot_spam channel's description to get an overview of each Discord bot that we use.
