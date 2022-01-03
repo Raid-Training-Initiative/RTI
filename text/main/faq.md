@@ -90,7 +90,7 @@ An API key is a identifier unique to your GW2 account that allows the bots to ac
 `[•]` Log into your account here: <http://account.arena.net/applications>
 `[•]` Create an API Key by clicking `New Key`.
 `[•]` Check the permissions that you will give it. Permissions that you will want to tick for our bots are: `inventories`, `characters`, `wallet`, `progressions`, and `guilds`
-`[•]` Once you have created the key, copy it, and then go into #bot_spam and type `$key add ####` (replace the hashtags with your key) to add it to GW2-Bot and `&keyadd ####` to add it to RTI-Bot.
+`[•]` Once you have created the key, copy it, and then go into #bot_spam and type `/key add ####` (replace the hashtags with your key) to add it to GW2-Bot and `&keyadd ####` to add it to RTI-Bot.
 _ _
 `[15] What are all the different Discord ranks?`
 `[•]` **Member**
