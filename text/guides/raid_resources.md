@@ -73,6 +73,9 @@ _ _
 :link: <https://rtiguides.github.io/html/ArcDPS%20Guide.html>
 **ArcDPS & Logging Guide**: Guide (by Step) on how to install and use ArcDPS, its plugins, and <https://dps.report/> logging.
 
+:link: <https://metabattle.com/wiki/PvE_Guides>
+**Raid Encounter Guides**: The "Raiding" section in this guide has good detailed guides on each raid encounter.
+
 **Note**: For boss-specific guides, check the #boss_guides channel. Also, as the meta constantly evolves, raids change, and strategies emerge over time, it is always difficult to find updated, contemporary guides on raids. For the most up-to-date knowledge, feel free to ask in #ask_questions or consult any of our raid commanders!
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
