@@ -58,7 +58,7 @@ _ _
 `[10] What build should I run?`
 We want to encourage players to build up a variety of roles they can perform. Having more increases your desirability in raids and gives you more opportunities, as well as just improving your understanding of each encounter.
 
-:chronomancer: **Chronomancers** (support) are always in short supply. Niche builds, such as Hand Kiter on :deimos: **Deimos**, are also far and few between. Healers, especially :druid: **Druid** and :firebrand: **Firebrand**, are always a good idea to have in any raider's arsenal.
+Support classes such as :mechanist: **Heal Mechanist**, :druid: **Druid**, :chronomancer: **Power Boon Chronomancer**, and :firebrand: **Condi/Heal Quickness Firebrand** are always in short supply. Niche builds, such as Hand Kiter on :deimos: **Deimos**, are also far and few between.
 
 Players that try to stick to pure DPS should also have options between power-based DPS and condition-based DPS, including DPS roles which are more effective on bosses with unusual circumstances (e.g. if we're on :largos: **Largos**, a class that is good for moving targets that attack often such as Condition :mirage: **Mirage** / :chronomancer: **Chronomancer** is extremely helpful).
 
