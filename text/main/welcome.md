@@ -20,7 +20,6 @@ We look forward to raiding with you!
 _ _
 ![howtoapply](../../graphics/paintbrush-banners/howtoapply.png)
 You can apply to RTI by clicking the ✅ at the bottom of this message. You will then be approved shortly.
-If you then wish to be invited to the in-game guild, you can do so at #guild_join_requests after your application has been approved.
-
 Be sure to turn on the ability to receive DMs from this server (in your **Privacy Settings** for the server) or else you won't receive DMs from the bot to apply to the guild. If you have any questions, contact an @Officer!
+To get priority for training registration if you did not kill all bosses yet, check out #training_requests!
 ![separator-big_2](../../graphics/separators/separator-big_2.png)
