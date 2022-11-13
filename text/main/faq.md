@@ -33,7 +33,7 @@ You must be able to listen during an RTI run (hearing impairments notwithstandin
 _ _
 `[6] What is a raid-ready character?`
 We consider a character raid-ready when:
-`[•]` It follows a meta build (see <https://snowcrows.com/> for meta builds you can choose from).
+`[•]` It follows a meta build (see <https://snowcrows.com/> and #class_guides for builds you can choose from).
 `[•]` It has the right stats, runes, and sigils.
 `[•]` You understand how to play your class and have looked through and practised the skill rotation on your build's Snow Crows page.
 `[•]` You have at least your weapons and trinkets on 🟣 **Ascended** rarity, with armour on at least 🟠 **Exotic**. Please note that this is a soft requirement and we are not strict about your gear's rarity, but we ask that you are realistic about what standard is acceptable and keep in mind that running subpar gear is a detriment to the squad.
