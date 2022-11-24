@@ -13,12 +13,12 @@ There will be no racism, sexism, hate speech, dark humour, NSFW/NSFL, or similar
 Any personal feuds or "drama" between guild members should be moved to direct messages or whispers or brought to the attention of an officer.
 ```
 ```diff
-- Rule [4]: Accept and deliver criticism fairly
-Try to be open to constructive criticism and willing to improve your gameplay. On the flip side, criticism you dish out should be constructive and helpful.
+- Rule [4]: Prepare adequately
+Please ensure you come with a suitable raid-ready build (see the #faq channel for more information), fully read the description of any raid you sign up to, and adhere to any requirements. This is especially important for kill runs, where more familiarity with the encounter and your role are expected.
 ```
 ```diff
 - Rule [5]: Be punctual and prudent
-If you sign up for a raid, we expect you to read the description of the raid, show up on time, and stay for the specified duration of the raid. If you learn that you can't make it, unregister as soon as you can! Unregistering under 30 minutes before a raid starts is seen as infringement of this rule.
+If you sign up for a raid, we expect that you show up on time and that you stay for the specified duration of the raid. If you learn that you can't make it, we expect you to unregister at least 30 minutes before the raid is scheduled to start.
 ```
 ```diff
 - Rule [6]: Follow the Guild Wars 2 rules
@@ -40,4 +40,13 @@ Spam includes posting the same or similar messages multiple times, pinging peopl
 - Rule [10]: Do not misspell "Qadim"
 It's spelled "Qadim". Not "Quadim". Seriously.
 ```
+![separator-big_2](../../graphics/separators/separator-small.png)
+
+![requirements](../../graphics/paintbrush-banners/requirements.png)
+`[1]` Your Guild Wars 2 account must be on the EU server.
+`[2]` You must have Discord available to join voice chat (there is no requirement to speak).
+`[3]` You must have at least one raid-ready character properly geared with a meta build.
+`[4]` You must be able to understand English.
+
 ![separator-big_2](../../graphics/separators/separator-big_2.png)
+_ _
