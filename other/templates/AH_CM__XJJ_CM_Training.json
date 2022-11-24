@@ -1,0 +1,19 @@
+{
+  "name": "AH CM + XJJ CM Training",
+  "description": "We will be tackling the first two EoD Strike Missions <:maitrin:954126378511527986>  **Atherblade Hideout** and <:ankka:954126378473762866> **Xunlai Jade Junkyard** in the challenge mode! **No experience with the NM of both encounters is required!**\n\nAny type of DPS works for both encounters, but range DPS classes like power or condition Virtuoso <:virtuoso:948585484165210162>, power Mechanist <:mechanist:948585084842287184> , condition Specter <:specter:948585463415992335> or condition Scourge <:scourge:763701209122471958> help us to manage the reasonable DPS check.\n\nFor <:maitrin:954126378511527986>  **Atherblade Hideout CM** it is recommended to bring extra CC and projectile block/destruction.\nFor  <:ankka:954126378473762866> **Xunlai Jade Junkyard CM** bringing extra CC is also strongly recommended.\n\nIf you have any questions, send me a message!",
+  "comp": [
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 6
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quick DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Heal Alacrity",
+      "requiredParticipants": 2
+    }
+  ],
+  "duration": 3
+}
