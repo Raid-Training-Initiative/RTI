@@ -1,0 +1,39 @@
+:warning: This is a kill run, so you should be have defeated all the bosses before and be comfortable in performing your role :warning:
+
+**Special jobs:**
+
+:red_circle: **DPS (G2 / Portal)**
+*W5:* Take Green 2 at **Dhuum**.
+*W6:* Place Mesmer Portals at **Qadim**.
+
+:red_square: **DPS (Lamp)**
+*W6:* Do the first two Lamps on your own at **Qadim**.
+
+:small_red_triangle:**DPS (Pylon)**
+*W7:* Do a Pylon at **QtP**.
+
+:small_red_triangle_down: **DPS (Kiter / Pylon)**
+*W6:* Kite on **Qadim**.
+*W7:* Do a Pylon at **QtP**.
+
+:drop_of_blood: **DPS (Epi / Pylon)**
+*W5:* Use Epidemic to kill the Tormented Dead on **SH**.
+*W7:* Do a Pylon at **QtP**.
+
+:yellow_circle: **DPS (G1 / CC)**
+*W5:* Take Green 1 at **Dhuum**.
+*W7* Kill the Wisps at **Sabir** and kill the Anomalies at **QtP**.
+
+:quick_dps:  **Quick DPS (Offtank)**
+*W5:* Tank on **SH**. 
+*W6:* Tank at **Twin Largos** and take a Wyvern at **Qadim**.
+
+:brown_heart: **Heal Alac (Push / Kite)**
+*W5:* Push Tormented Dead on **SH** and kite the Messengers at **Dhuum**.
+
+:alac_healer: **Healmech (Tank / G3)**
+*W5:* Tank on **SH** and **Dhuum**. Do Green 3.
+*W6:* Tank on **Twin Largos** and **Qadim**.
+*W7:* Tank on **Adina** and  **QtP**.
+
+Send me a message if you have any questions!

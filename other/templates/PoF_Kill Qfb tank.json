@@ -1,0 +1,47 @@
+{
+  "name": "PoF Kill",
+  "description": "⚠️ This is a kill run, so you should be have defeated all the bosses before and be comfortable in performing your role ⚠️\n\n**Special jobs:**\n\n🔴  **DPS (Portal)**\n*W6:* Place Mesmer Portals and pull at **Qadim**.\n\n🟥 **DPS (Lamp)**\n*W6:* Do the first two Lamps alone at **Qadim**.\n\n🔺**DPS (Pylon)**\n*W7:* Do a Pylon at **QtP**.\n\n🔻 **DPS (Kiter / Pylon)**\n*W6:* Kite on **Qadim**.\n*W7:* Do a Pylon at **QtP**.\n\n🩸 **DPS (Epi  / Pylon)**\n*W5:* Use Epidemic to kill the Tormented Dead on **SH**.\n*W7:* Do a Pylon at **QtP**.\n\n🟡 **DPS (G1 / CC)**\n*W5:* Take Green 1 at **Dhuum**.\n*W7* Kill the Wisps at **Sabir** and kill the Anomalies at **QtP**.\n\n<:quick_dps:1022999237824352416>  **Quick DPS (Offtank / G3)**\n*W5:* Tank on **SH** and **Dhuum**. Do Green 3.\n*W6:* Tank at **Twin Largos** and take a Wyvern at **Qadim**.\n\n🤎 **Heal Alac (Push / Kite / G2)**\n*W5:* Push Tormented Dead on **SH** and kite the Messengers and take G2 at **Dhuum**.\n\n<:alac_healer:1023021148612595793> **Healmech (Tank)**\n*W5:* Tank on **SH**.\n*W6:* Tank on **Twin Largos** and **Qadim**.\n*W7:* Tank on **Adina** and  **QtP**.\n\nSend me a message if you have any questions!",
+  "comp": [
+    {
+      "name": "🔴 DPS (Portal)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟥 DPS (Lamp)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔺 DPS (Pylon)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔻 DPS (Kiter/Pylon)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🩸 DPS (Epi/Pylon)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟡 DPS (G1/CC)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quick DPS (Offtank/G3)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "⚪ Quick DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Heal Alacrity (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🤎 Heal Alacrity (Pusher/Kiter/G2)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

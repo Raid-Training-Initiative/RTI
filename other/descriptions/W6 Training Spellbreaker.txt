@@ -1,0 +1,17 @@
+*Zommoros has invited you to participate in the very first private tour of the Mystic Forge. Witness the incredible inner workings of the djinn's magical domain, and uncover the dark secret that lurks at its center.*
+This is the sixth raid wing and one of the hardest raid wings for training groups currently. There are three encounters:
+:conjuredamalgamate: **Conjured Amalgamate** - An easy bursty boss which heavily favours power DPS.
+:largos: **Twin Largos** - A difficult set of two bosses which heavily favours condi DPS.
+:qadim: **Qadim** - A difficult boss which requires power DPS.
+
+The :alac_healer: **Heal Alacrity (Tank)** will be expected to tank for :largos: **Twin Largos** and :qadim: **Qadim**. High toughness is recommended.
+
+The :purple_circle: **DPS (Portal)** will be expected to use `Portals` on :qadim: **Qadim**. Only :thief: **Thief** and :mesmer: **Mesmer** DPS builds are qualified to do this.
+
+The :yellow_circle: **DPS (Spellbreaker)** will be expected to play :spellbreaker: **Power Spellbreaker** at :qadim: **Qadim** and bring Winds of Disenchantment.
+
+The :small_red_triangle: **DPS (Kiter)** will be expected to do the `Kiting` mechanic on :qadim: **Qadim**. We recommend :deadeye: **Rifle Deadeye** or :soulbeast: **Soulbeast** for this role. Check our PoVs in #boss_guides for a demonstration of how it's done.
+
+The :small_red_triangle_down: **DPS (Lamp)** will be expected to do the first two `Lamp` mechanics alone. We **highly** recommend :daredevil: **Power Daredevil** for this role, but :reaper: **Power Reaper** can also do it. Check our PoVs in #boss_guides for a demonstration of how it's done.
+
+Let me know if you have any questions!

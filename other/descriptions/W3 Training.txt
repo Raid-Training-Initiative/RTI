@@ -1,0 +1,16 @@
+*You’ve faced the ghosts of Spirit Vale and uncovered the truth behind Salvation Pass; now the final steps of your journey lie before you. Prepare to enter the Stronghold of the Faithful and challenge the White Mantle in their own territory. Cut through to the heart of their plans, or you and your allies may be lost forever to their twisted magic.*
+
+This is the third raid and final wing of the Forsaken Thicket. We will have four encounters:
+
+:escort: **Escort** - An easy encounter with a lot of mobs.
+:keepconstruct: **Keep Construct** - An easy bursty boss that favours power DPS.
+:twistedcastle: **Twisted Castle**- A confusing maze-like encounter.
+:xera: **Xera** - A medium difficulty boss that **requires** the Ley Line Gliding mastery.
+
+The :alacrity_healer: **Heal Alacrity (Tank)** will be expected to tank :keepconstruct: **Keep Construct** and :xera: **Xera**. Tanking is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro. For :xera: **Xera**'s tanking in particular, I'd recommend that you watch a PoV in #boss_guides to get an idea of how the tanking is done. Explanations will be given as well during the fight.
+
+The :purple_circle: **DPS (Towers)** will be expected to do the `Towers` mechanic on Escort, which can only be done effectively by a Mesmer. For this, you can either do the regular strategy of portalling people up to the towers or the more difficult strategy of attempting to solo the towers yourself. PoVs are all available in #boss_guides, and as much toughness as you can is strongly recommended if you want to do the solo towers strategy.
+
+:warning:`**IMPORTANT**`: Do not join this raid unless you have the **Ley Line Gliding** mastery! You need it to defeat the last boss.:warning:
+
+Let me know if you have any questions!

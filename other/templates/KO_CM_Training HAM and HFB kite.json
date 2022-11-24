@@ -1,0 +1,31 @@
+{
+  "name": "KO CM Training",
+  "description": "In this encounter we'll be fighting <:ministerli:954126378364715059> **Minister Li** on CM, which is one of the hardest encounters in the game right now that requires fast reflexes and good coordination. I encourage everyone who comes to be familiar with the **normal mode** of this strike.\n\nThe <:quick_dps:1022999237824352416>  **DPS Quickness Firebrand** and <:quick_healer:1022999250109485146> **Heal Firebrand** will be expected to take the skill `Stand Your Ground!` for <:stability:844163847161774121> **Stability**.\n\nThe <:alac_healer:1023021148612595793>  **Heal Alacrity (Kiter)** and <:quick_healer:1022999250109485146> **Heal Firebrand** will be expected to kite the `Orange Shots` from the Sniper. For this role, a good amount of toughness (exotics is fine!) is strongly recommended.\n\nThe 🟥  **DPS (Tank)** will be expected to tank the Enforcer and the Mech. The only requirement is that the DPS class you come on has a long-range blink. <:virtuoso:948585484165210162> **Virtuoso** and <:mechanist:948585084842287184> **Mechanist** are good options.\n\nThe 🔴 **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are <:virtuoso:948585484165210162> **Condi/Power Virtuoso**, <:scourge:763701209122471958> **Condi Scourge**, <:harbinger:948585473645903903> **Condi Harbinger**, and <:mechanist:948585084842287184> **Condi/Power Mechanist**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🩸 DPS (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_healer:1022999250109485146> Heal Firebrand (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quickness DPS Firebrand",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Heal Alacrity (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1023021163045212180> Alac DPS",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

@@ -1,0 +1,11 @@
+In this encounter we'll be fighting :ministerli: **Minister Li** on CM, which is one of the hardest encounters in the game right now that requires fast reflexes and good coordination. I encourage everyone who comes to be familiar with the **normal mode** of this strike.
+
+The :blue_circle: **DPS Quickness Firebrand** will be expected to take the skill `Stand Your Ground!` for :stability: **Stability**.
+
+The :alac_healer: **Heal Alacrity (Kiter)** and the :quick_healer: **Heal Firebrand (Kiter)** will be expected to kite the `Orange Shots` from the Sniper. For this role, a good amount of toughness (exotics is fine!) is strongly recommended.
+
+The :red_square:  **DPS (Tank)** will be expected to tank the Enforcer and the Mech. The only requirement is that the DPS class you come on has a long-range blink. :virtuoso: **Virtuoso** and :mechanist: **Mechanist** are good options.
+
+The :red_circle: **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are :virtuoso: **Condi/Power Virtuoso**, :scourge: **Condi Scourge**, :harbinger: **Condi Harbinger**, and :mechanist: **Condi/Power Mechanist**.
+
+Let me know if you have any questions!

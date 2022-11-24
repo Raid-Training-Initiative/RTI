@@ -1,0 +1,27 @@
+{
+  "name": "W4 Training",
+  "description": "*The bloodstone explosion unearthed a portal to a place where few have been—and none have escaped. Deconstruct the mysteries and learn the true story of one of history's most misunderstood figures.*\n\nThis is the fourth raid wing and probably the most beginner-friendly one in the game right now! We will have four encounters:\n<:cairn:703930782003101758> **Cairn** - An easy but chaotic boss that favours condi DPS.\n<:mursaat:703930783680954459> **Mursaat Overseer** - An easy boss that lets you show of your rotation.\n<:samarog:703930783257329714> **Samarog** - An easy CC-heavy boss that favours power DPS.\n<:deimos:703930783257067551> **Deimos** - A difficult, punishing boss where any kind of DPS works.\n\nThe <:alac_healer:1023021148612595793> **Heal Alacrity (Tank)** will be expected to tank <:mursaat:703930783680954459> **Mursaat Overseer** (using the `Claim` mechanic) and <:deimos:703930783257067551> **Deimos**. Tanking on <:deimos:703930783257067551> **Deimos** is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.\n\nThe 🤎 Heal Alactrity will be responsible for pushing and CCing Rigom at <:samarog:703930783257329714> **Samarog**. Depending on your class, this may require you to bring a different weapon (e.g. longbow on Druid). \n\nThe 🩸 **DPS (Hand Kiter)** will need to play DPS for the first three bosses and swap to a specialized build to do the `Hand Kiting` mechanic on Deimos. This is a role that requires a lot of survivability and I recommend bringing some toughness trinkets. <:soulbeast:818775299805413386> **[Soulbeast](https://snowcrows.com/builds/ranger/soulbeast/handkite-soulbeast)** and <:herald:818773507286499328> **[Herald](https://snowcrows.com/builds/revenant/herald/hand-kite-herald)** are popular choices, but other builds can also do the job. You can also find PoV videos in <#776399505376411659>.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🩸DPS (Handkiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quick DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Heal Alacrity (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🤎 Heal Alacrity",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

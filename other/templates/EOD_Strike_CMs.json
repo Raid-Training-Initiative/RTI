@@ -1,0 +1,31 @@
+{
+  "name": "EOD Strike CMs",
+  "description": "⚠️ This is a kill run, so you should have defeated all bosses before and be comfortable on the roles you sign up for. Make sure you know your special assignments. Since this is not a training, you are required to have beaten the bosses on CM before! ⚠️ \n\n**Special jobs:**\n\n<:maitrin:954126378511527986> **Atherblade Hideout CM**\nNo special roles but bring CC and projectile reflection/destruction.\n\n<:ankka:954126378473762866> **Xunlai Jade Junkyard CM**\nNo special roles but bring CC and condition cleanses.\n\n<:ministerli:954126378364715059> **Kaineng Overlook CM:**\n<:quick_healer:1022999250109485146> Heal Firebrand will bring `Stand your Ground` for <:stability:844163847161774121> Stability, tank the Mindblade and kite during the sniper phase.\n<:alac_healer:1023021148612595793> Alac Heal will tank the Enforcer and kite during the sniper phase.\n<:quick_dps:1022999237824352416> DPS Qfb will bring `Stand your Ground`for <:stability:844163847161774121> Stability.\n🟥 DPS (Tank) will tank the Mech during the sniper phase. A class with a blink is required.\n🔴 DPS is **strongly** recommended to run either a <:virtuoso:948585484165210162> **Virtuoso** or <:mechanist:948585084842287184> **Power Mechanist** build.\n\n<:dragonvoid:954126378473767032> **Harvest Temple NM**\n<:quick_healer:1022999250109485146> Heal Firebrand and <:alac_healer:1023021148612595793> Alac Heal will push the orb.\n\nIf you have any questions just send me a message.",
+  "comp": [
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🟥 DPS (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Alac Heal (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1023021163045212180> Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_healer:1022999250109485146> Heal Firebrand (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> DPS Qfb",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}
