@@ -40,7 +40,7 @@ Spam includes posting the same or similar messages multiple times, pinging peopl
 - Rule [10]: Do not misspell "Qadim"
 It's spelled "Qadim". Not "Quadim". Seriously.
 ```
-![separator-big_2](../../graphics/separators/separator-small.png)
+![separator-small](../../graphics/separators/separator-small.png)
 
 ![requirements](../../graphics/paintbrush-banners/requirements.png)
 `[1]` Your Guild Wars 2 account must be on the :flag_eu: **EU** server.
