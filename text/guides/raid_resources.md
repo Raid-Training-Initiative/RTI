@@ -89,6 +89,9 @@ _ _
 :link:  <https://youtu.be/d-Z-mwZUlkA>
 **Raid Commanding Guide**: A long stream (by Step) with lots of info on how to be a raid commander and trainer. Timestamps in description!
 
+:link: <https://youtu.be/z_mjk_yk2kU>
+**RTI Commanding Workshop**: A 1h20min workshop (by Akronox) with information on how to organise and command raids with RTI. Timestamps in the description!
+
 :link: <https://youtu.be/s0CVVCOF4EI>
 **Raid Squad Setup Guide**: A guide video (by Step) showing how to set up a raid squad, where boons come from, etc. Timestamps in description!
 _ _
