@@ -54,8 +54,16 @@ d) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** trai
 
 Each warning is saved into our system, and you get temporarily banned from joining RTI raids (and kicked from any raids you're currently in) if you hit **three** warnings in a rolling period of **6 months**. Persistent infractions to our rules after the initial three will be met with longer ban periods, including an eventual permanent ban, which is done for extreme cases.
 _ _
-`[9] Whom do I speak to if I have an issue with another member?`
-Speak to an @Officer. Screenshots of the (entire) conversation, if it happened in game, are immensely useful. Any action taken will depend upon the severity of the transgression.
+`[9] What are trainings? What are kill runs?`
+The events we organise typically fall under two categories: "training run" or "kill run".
+
+**Training runs** are raids, strikes, or other content organised by @Commanders that is specifically targeted towards **inexperienced players**. These are the runs you would attend to learn the encounter and get your first ever kill (which we usually announce in #first_kills!).
+
+Brief explanations of the encounter and special roles are provided and the goal is to not only learn the encounter but also become familiar with it and comfortable with the mechanics. Note that you should always read descriptions of any training run you join because sometimes requirements (such as watching a video on a mechanic or coming with a certain build or having a certain mastery) are mentioned.
+
+**Kill runs** are raids, strikes, or other content organised by @Commanders or @Lieutenants that is specifically targeted towards players that have done the encounters already before. There will be no explanations and there will be a presumption that people know what is expected of them in each encounter.
+
+Of course, we are a training guild and we don't expect the gameplay of someone with thousands of LI under their belt, but the soft guideline is that you must have experienced the entire encounter at least once before and that you join with enough familiarity with your role and the encounter to not hold the group back from killing all the planned bosses in the designated time. We will always mention specific requirements and expectations in the description of kill runs that you should adhere to.
 _ _
 `[10] Can anyone organise a raid / training run?`
 Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We do, however, have an important rule: You cannot ask for LI or kill proof in these channels, unless it is not an RTI run (e.g. the PUG you are in - which you are currently not leading - is looking for more people).
