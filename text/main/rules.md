@@ -43,7 +43,7 @@ It's spelled "Qadim". Not "Quadim". Seriously.
 ![separator-big_2](../../graphics/separators/separator-small.png)
 
 ![requirements](../../graphics/paintbrush-banners/requirements.png)
-`[1]` Your Guild Wars 2 account must be on the EU server.
+`[1]` Your Guild Wars 2 account must be on the :flag_eu: **EU** server.
 `[2]` You must have Discord available to join voice chat (there is no requirement to speak).
 `[3]` You must have at least one raid-ready character properly geared with a meta build.
 `[4]` You must be able to understand English.
