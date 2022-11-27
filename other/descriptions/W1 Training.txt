@@ -7,7 +7,7 @@ The Spirit Vale is the first released raid wing and consists of four encounters:
 
 Power and condi DPS are both fine for this wing, but two players will need to play :red_square: **Condi DPS** on :valeguardian: **Vale Guardian** to deal with the red guardian.
 
-The :alacrity_healer: **Heal Alacrity (Tank)** will be expected to tank for :valeguardian: **Vale Guardian** and :gorseval:  **Gorseval**. Tanking is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.
+The :alac_healer: **Heal Alacrity (Tank)** will be expected to tank for :valeguardian: **Vale Guardian** and :gorseval:  **Gorseval**. Tanking is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.
 
 The :brown_heart: **Heal Alacrity (Seeker Control + Kiter)** will be expected to do `Seeker Control` for :valeguardian: **Vale Guardian** and `Kiting` for :sabetha: **Sabetha**. Watch our PoVs in #boss_guides for videos showing how to do that!
 
