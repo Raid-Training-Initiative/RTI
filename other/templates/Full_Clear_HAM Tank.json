@@ -3,7 +3,7 @@
   "description": "⚠️ This is an intense run that requires a everybody to be experienced on all bosses to finish within the scheduled time. Please make sure you are confident to perform well on your role and can commit for the full time ⚠️\n\n**We will do as many CMs as possible, but will revert to NM after 2 tries.**\n\n**Special jobs:**\n🔴 **DPS (G2 / Portal)**\n*W5:* Take Green 2 at **Dhuum**.\n*W6:* Place Mesmer Portals at **Qadim**.\n\n🟥 **DPS (Lamp)**\n*W6:* Do the Lamp on your own at **Qadim**.\n\n🔺**DPS (Pylon)**\n*W7:* Do a Pylon at **QtP**.\n\n🔻 **DPS (Kiter / Pylon)**\n*W6:* Kite on **Qadim**.\n*W7:* Do a Pylon at **QtP**.\n\n🩸 **DPS (Epi / Pylon)**\n*W5:* Use Epidemic to kill the Tormented Dead on **SH**. (Place Flesh Wurm on Dhuum CM)\n*W6:* Do a Pylon at **QtP**.\n\n🟡 **DPS (Handkite / G1 / CC)**\n*W4:* Kite the hands at **Deimos**.\n*W5:* Take Green 1 at **Dhuum**.\n*W7* Kill the Wisps at **Sabir** and kill the Anomalies at **QtP**.\n\n<:quick_dps:1022999237824352416>  **Quick DPS (Offtank / G3)**\n*W2:* Main reflect on **Matthias**.\n*W5:* Tank on **SH** and **Dhuum**. Do Green 3.\n*W6:* Tank at **Twin Largos** and take a Wyvern at **Qadim**.\n\n🤎 **Heal Alac (Push / Kite)**\n*W1:* Control Seeker on **VG** and kite flak on **Sabetha**.\n*W3:* Push the orb on **KC**.\n*W4:* Push Rigom at **Samarog**.\n*W5:* Push Tormented Dead on **SH** and kite the Messengers at **Dhuum**.\n\n<:alac_healer:1023021148612595793> **Healmech (Tank)**\n*W1:* Tank on **VG** and **Gorseval**.\n*W3:* Tank at **KC** and **Xera**.\n*W4:* Tank at **Deimos**.\n*W5:* Tank on **SH**.\n*W6:* Tank on **Twin Largos** and **Qadim**.\n*W7:* Tank on **Adina** and  **QtP**.",
   "comp": [
     {
-      "name": "🔴 DPS (G2 / Portal)",
+      "name": "🔴 DPS (Portal)",
       "requiredParticipants": 1
     },
     {
@@ -11,7 +11,7 @@
       "requiredParticipants": 1
     },
     {
-      "name": "🔺 DPS (Pylon)",
+      "name": "🔺 DPS (G2 / Pylon)",
       "requiredParticipants": 1
     },
     {
