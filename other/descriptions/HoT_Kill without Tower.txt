@@ -5,7 +5,7 @@ Get yourself a spot for your weekly HoT clear.
 :red_circle: **DPS** need to have a Power **and** Condi build! 
 
 :green_heart: **Heal Alac** 
-*W1:* Control Seeker on :valeguardian: VG and kite flak on :Sabetha: Sabetha.
+*W1:* Control Seeker on :valeguardian: VG and kite flak on :sabetha: Sabetha.
 *W3:* Push orb on :keepconstruct: KC.
 *W4:* Push and CC Rigom at :samarog: Samarog.
 
@@ -15,9 +15,9 @@ Get yourself a spot for your weekly HoT clear.
 *W4:* Tank at :deimos: Deimos.
 
 :blue_circle: **DPS Qfb**
-*W2:* Bring stability for :slothasor: Slothasor and be the main reflect for :Matthias: Matthias.
+*W2:* Bring stability for :slothasor: Slothasor and be the main reflect for :matthias: Matthias.
 
 :drop_of_blood: *Handkiter/DPS**
-*W4:* Kite the hands at :Deimos: Deimos. Otherwise play DPS.
+*W4:* Kite the hands at :deimos: Deimos. Otherwise play DPS.
 
 Send me a message if you have any questions!
