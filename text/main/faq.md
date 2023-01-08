@@ -59,7 +59,7 @@ The events we organise typically fall under two categories: "training run" or "k
 
 **Training runs** are raids, strikes, or other content organised by @Commanders that is specifically targeted towards **inexperienced players**. These are the runs you would attend to learn the encounter and get your first ever kill (which we usually announce in #first_kills!).
 
-Brief explanations of the encounter and special roles are provided and the goal is to not only learn the encounter but also become familiar with it and comfortable with the mechanics. Note that you should always read descriptions of any training run you join because sometimes requirements (such as watching a video on a mechanic or coming with a certain build or having a certain mastery) are mentioned.
+Brief explanations of the encounter and special roles are provided and the goal is to not only learn the encounter but also become familiar with it and comfortable with the mechanics. Note that you should always read descriptions of any training run you join because sometimes requirements (such as watching a video on a mechanic or requiring/disallowing certain builds or having a certain mastery) are mentioned.
 
 **Kill runs** are raids, strikes, or other content organised by @Commanders or @Lieutenants that is specifically targeted towards players that have done the encounters already before. There will be no explanations and there will be a presumption that people know what is expected of them in each encounter.
 
