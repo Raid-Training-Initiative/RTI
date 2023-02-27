@@ -8,7 +8,7 @@ This is the fourth raid wing and probably the most beginner-friendly one in the 
 
 The :alac_healer: **Heal Alacrity (Tank)** will be expected to tank :mursaat: **Mursaat Overseer** (using the `Claim` mechanic) and :deimos: **Deimos**. Tanking on :deimos: **Deimos** is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.
 
-The :brown_heart: Heal Alactrity will be responsible for pushing and CCing Rigom at :samarog: **Samarog**. Depending on your class, this may require you to bring a different weapon (e.g. longbow on Druid). 
+The :brown_heart: **Heal Alacrity** will be responsible for pushing and CCing Rigom at :samarog: **Samarog**. Depending on your class, this may require you to bring a different weapon (e.g. longbow on :druid: **Druid**). 
 
 The :drop_of_blood: **DPS (Hand Kiter)** will need to play DPS for the first three bosses and swap to a specialized build to do the `Hand Kiting` mechanic on Deimos. This is a role that requires a lot of survivability and I recommend bringing some toughness trinkets. :soulbeast: **[Soulbeast](https://snowcrows.com/builds/ranger/soulbeast/handkite-soulbeast)** and :herald: **[Herald](https://snowcrows.com/builds/revenant/herald/hand-kite-herald)** are popular choices, but other builds can also do the job. You can also find PoV videos in #boss_guides.
 
