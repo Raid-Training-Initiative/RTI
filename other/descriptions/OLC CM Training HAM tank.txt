@@ -2,7 +2,7 @@ In this event we'll be doing :oldlionscourt: **Old Lion's Court** on CM, which i
 
 If we finish with time to spare we can try getting the `Defender of Lion's Court` title afterwards!
 
-The :quick_dps: **DPS Quickness** can come on any class that gives :quickness: **Quickness**, but it's worth noting that :herald: **Herald** and :scrapper: **Scrapper** are both fantastic for this role in this fight.
+The :quick_dps: **Quick DPS** can come on any class that gives :quickness: **Quickness**, but it's worth noting that :herald: **Herald** and :scrapper: **Scrapper** are both fantastic for this role in this fight.
 
 The :alac_healer: **Heal Mechanist (Tank)** will be expected to tank the `Prototype Vermilion` (Red Knight) and `Prototype Arsenite` (Green Knight) on :mechanist: **Heal Mechanist**. High toughness via `Giver's` or `Minstrel's` gear (exotics are fine!) is strongly recommended. Check our PoVs in #boss_guides for a demonstration of how it's done!
 
