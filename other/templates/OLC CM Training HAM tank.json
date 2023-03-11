@@ -1,0 +1,19 @@
+{
+  "name": "Old Lion's Court CM Training",
+  "description": "In this event we'll be doing <:oldlionscourt:1084190718022660188> **Old Lion's Court** on CM, which is a difficult encounter that requires good positioning, high boon uptime, and solid execution of mechanics. I encourage everyone who comes to be familiar with the **normal mode** of this strike.\n\nIf we finish with time to spare we can try getting the `Defender of Lion's Court` title afterwards!\n\nThe <:quick_dps:1022999237824352416> **DPS Quickness** can come on any class that gives <:quickness:766683009423245373> **Quickness**, but it's worth noting that <:herald:818773507286499328> **Herald** and <:scrapper:818773750585229312> **Scrapper** are both fantastic for this role in this fight.\n\nThe <:alac_healer:1023021148612595793> **Heal Mechanist (Tank)** will be expected to tank the `Prototype Vermilion` (Red Knight) and `Prototype Arsenite` (Green Knight) on <:mechanist:948585084842287184> **Heal Mechanist**. High toughness via `Giver's` or `Minstrel's` gear (exotics are fine!) is strongly recommended. Check our PoVs in <#1053246449212739604> for a demonstration of how it's done!\n\nThe 🔴 **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage and CC are extremely helpful. <:virtuoso:948585484165210162> **Condi/Power Virtuoso** is strongly recommended, but good alternative classes are <:scourge:763701209122471958> **Condi Scourge**, <:harbinger:948585473645903903> **Condi Harbinger**, <:specter:948585463415992335> **Condi Specter**, and <:mechanist:948585084842287184> **Condi Mechanist**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 6
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quickness DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793> Heal Mechanist (Tank)",
+      "requiredParticipants": 2
+    }
+  ],
+  "duration": 3
+}
