@@ -1,8 +1,12 @@
-We will be tackling the first two EoD Strike Missions :maitrin:  **Atherblade Hideout** and :ankka: **Xunlai Jade Junkyard** in the challenge mode! **No experience with the NM of both encounters is required!**
+We will be tackling the first two EoD Strike Missions on Challenge Mode:
+:maitrin: **Aetherblade Hideout CM**
+:ankka: **Xunlai Jade Junkyard CM**
 
-Any type of DPS works for both encounters, but range DPS classes like power or condition Virtuoso :virtuoso:, power Mechanist :mechanist: , condition Specter :specter: or condition Scourge :scourge: help us to manage the reasonable DPS check.
+No experience with the normal mode of both encounters is required, but it helps!
 
-For :maitrin:  **Atherblade Hideout CM** it is recommended to bring extra CC and projectile block/destruction.
-For  :ankka: **Xunlai Jade Junkyard CM** bringing extra CC is also strongly recommended.
+Any type of DPS works for both encounters, but ranged DPS classes like :virtuoso: **Power/Condi Virtuoso** , :specter: **Condi Specter**, :scourge: **Condi Scourge**, and :harbinger: **Condi Harbinger** tend to perform better for :ankka: **Xunlai Jade Junkyard**.
 
-If you have any questions, send me a message!
+For :maitrin: **Aetherblade Hideout CM**, it is recommended to bring extra CC and projectile block/destruction.
+For :ankka: **Xunlai Jade Junkyard CM**, bringing extra CC is also strongly recommended.
+
+Let me know if you have any questions!
