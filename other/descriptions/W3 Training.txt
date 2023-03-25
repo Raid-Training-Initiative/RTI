@@ -11,6 +11,6 @@ The :alacrity_healer: **Heal Alacrity (Tank)** will be expected to tank :keepcon
 
 The :purple_circle: **DPS (Towers)** will be expected to do the `Towers` mechanic on Escort, which can only be done effectively by a Mesmer. For this, you can either do the regular strategy of portalling people up to the towers or the more difficult strategy of attempting to solo the towers yourself. PoVs are all available in #boss_guides, and as much toughness as you can is strongly recommended if you want to do the solo towers strategy.
 
-:warning:`**IMPORTANT**`: Do not join this raid unless you have the **Ley Line Gliding** mastery! You need it to defeat the last boss.:warning:
+:warning: **IMPORTANT**: Do not join this raid unless you have the **Ley Line Gliding** mastery! You need it to defeat the last boss.:warning:
 
 Let me know if you have any questions!
