@@ -1,0 +1,27 @@
+{
+  "name": "OLC CM Training",
+  "description": "It time to beat down with the Watchwork Knight Triumvirate!\r\n\r\nHere's your chance at a training for <:oldlionscourt:1084190718022660188> **Old Lion's Court CM** with RTI! No experience with NM needed, but it might help <:catthumbsup:927183089002754088>\r\n\r\nHaving **Ranged DPS**, and access to **plenty of CC** (also preferably ranged) will make this considerably smoother.  If your chosen class has access to a blink skill, this could also prove useful but is not necessary\r\n\r\n:clipboard: If we beat the CM fast enough, remaining time will be used to go for the `Defender of Lion's Court` title afterwards.\r\n\r\nSpecial Roles:\r\n<:alac_healer:1023021148612595793> **Alac Healer (Green Tank)**, will tank the Green knight away from the group. \r\n<:quick_healer:1022999250109485146> **Quick Healer (Red Tank)**, will tank the Red Knight with the group, except for Blue+Red where it will be away from the group.\r\nBringing good toughness gear is recommended for both tanks!\r\n\r\nSome suggested builds to consider:\r\n`*` <:alac_dps:1023021163045212180>**Alac DPS** -> <:mechanist:948585084842287184> Power Alac Mechanist; <:mirage:766682555763916851> Condition Alacrity Mirage; <:specter:948585463415992335> Condition Alacrity Specter\r\n`*` <:quick_dps:1022999237824352416>**Quick DPS** -> <:herald:818773507286499328> Power Quickness Herald; <:scrapper:818773750585229312> Power Quickness Scrapper\r\n`*` :red_circle:**DPS** -> <:virtuoso:948585484165210162> Condition/Power Virtuoso; <:specter:948585463415992335> Condition Specter; <:mechanist:948585084842287184> Condition Mechanist \r\n\r\nIf you have any questions, feel free to DM me or ask in the thread below!",
+  "comp": [
+    {
+      "name": "<:alac_healer:1023021148612595793>Alac Healer (Green Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_healer:1022999250109485146>Quick Healer",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1023021163045212180>Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416>Quick DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔴DPS",
+      "requiredParticipants": 6
+    }
+  ],
+  "duration": 2.5
+}
