@@ -1,0 +1,12 @@
+*After the events in the Mystic Forge, Qadim has returned home to the Hidden City of Ahdashim to usurp a great power. Seek the Key and the cardinals for guidance into the hallowed city walls and stop Qadim from destroying not only the djinn, but also the natural balance of the world.*
+This is the seventh and most recent raid wing which serves as a plot continuation of Wing 6 (the Mythwright Gambit). It is a beginner-friendly and medium difficulty wing. We will have four encounters:
+:gate: **Gate** - A trivially easy encounter that serves as a pre-event to the wing.
+:adina: **Cardinal Adina** - A medium difficulty boss that requires you to be quick on your feet.
+:sabir: **Cardinal Sabir** - A medium difficulty boss that requires a lot of CC.
+:qadimthepeerless: **Qadim the Peerless** - A fairly difficult, complicated boss where any kind of DPS works.
+
+The :quick_healer: **Heal Quickness (Tank)** will be expected to tank on :adina: **Cardinal Adina** and :qadimthepeerless: **Qadim the Peerless**, and high toughness via gear such as `Minstrel's` or `Giver's` is strongly recommended.
+
+The :brown_heart: **Heal Alacrity** will be expected to do the `Anomalies` mechanic on :qadimthepeerless: **Qadim the Peerless**, which requires a bit of ranged hard/soft CC.
+
+The :drop_of_blood: **DPS (Pylon Kiter)** will be expected to do the `Pylon Kiting` mechanic on :qadimthepeerless: **Qadim the Peerless**. The only three builds that can reliably perform the role are :scourge: **[Condition Scourge](https://snowcrows.com/builds/necromancer/scourge/condition-scourge)**, :virtuoso: **[Condition Virtuoso](https://snowcrows.com/builds/mesmer/virtuoso/condition-virtuoso)**, and :deadeye: **[Rifle Deadeye](https://snowcrows.com/builds/thief/deadeye/kite-deadeye)**. Check our POVs in <#1053246449212739604> for a demonstration.
