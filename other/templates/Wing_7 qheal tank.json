@@ -1,0 +1,31 @@
+{
+  "name": "Wing 7 Training",
+  "description": "*After the events in the Mystic Forge, Qadim has returned home to the Hidden City of Ahdashim to usurp a great power. Seek the Key and the cardinals for guidance into the hallowed city walls and stop Qadim from destroying not only the djinn, but also the natural balance of the world.*\n\nThis is the seventh and most recent raid wing which serves as a plot continuation of Wing 6 (the Mythwright Gambit). It is a beginner-friendly and medium difficulty wing. We will have four encounters:\n<:gate:756822812450226186> **Gate** - A trivially easy encounter that serves as a pre-event to the wing.\n<:adina:703930780610461806> **Cardinal Adina** - A medium difficulty boss that requires you to be quick on your feet.\n<:sabir:703930783160860722> **Cardinal Sabir** - A medium difficulty boss that requires a lot of CC.\n<:qadimthepeerless:703930782749818940> **Qadim the Peerless** - A fairly difficult, complicated boss where any kind of DPS works.\n\nThe <:quick_healer:1022999250109485146> **Heal Quickness (Tank)** will be expected to tank on <:adina:703930780610461806> **Cardinal Adina** and <:qadimthepeerless:703930782749818940> **Qadim the Peerless**, and high toughness via gear such as `Minstrel's` or `Giver's` is strongly recommended.\n\nThe 🤎 **Heal Alacrity** will be expected to do the `Anomalies` mechanic on <:qadimthepeerless:703930782749818940> **Qadim the Peerless**, which requires a bit of ranged hard/soft CC.\n\nThe 🩸 **DPS (Pylon Kiter)** will be expected to do the `Pylon Kiting` mechanic on <:qadimthepeerless:703930782749818940> **Qadim the Peerless**. The only three builds that can reliably perform the role are <:scourge:763701209122471958> **[Condition Scourge]**, <:virtuoso:948585484165210162> **[Condition Virtuoso]**, and <:deadeye:818854511342780416> **[Rifle Deadeye]**. Check our POVs in <#1053246449212739604> for a demonstration.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:quick_healer:1022999250109485146> Heal Quickness (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🤎 Heal Alacrity",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔵 Quickness DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟤 Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🩸DPS (Pylon Kiter)",
+      "requiredParticipants": 3
+    },
+    {
+      "name": "🔴 DPS",
+      "requiredParticipants": 3
+    }
+  ],
+  "duration": 3
+}
