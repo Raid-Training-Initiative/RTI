@@ -2,7 +2,7 @@
 
 This is the fourth raid wing and probably the most beginner-friendly one in the game right now! We will have four encounters:
 :cairn: **Cairn** - An easy but chaotic boss that favours condi DPS.
-:mursaat: **Mursaat Overseer** - An easy boss that lets you show of your rotation.
+:mursaat: **Mursaat Overseer** - An easy boss that lets you show off your rotation.
 :samarog: **Samarog** - An easy CC-heavy boss that favours power DPS.
 :deimos: **Deimos** - A difficult, punishing boss where any kind of DPS works.
 
