@@ -6,6 +6,6 @@ The :alac_healer: **Heal Alacrity (Kiter)** will be expected to kite the `Orange
 
 The :red_square:  **DPS (Tank)** will be expected to tank the Enforcer and the Mech. The only requirement is that the DPS class you come on has a long-range blink. :virtuoso: **Virtuoso** and :mechanist: **Mechanist** are good options.
 
-The :red_circle: **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are :virtuoso: **Condi/Power Virtuoso**, :scourge: **Condi Scourge**, :harbinger: **Condi Harbinger**, and :mechanist: **Condi/Power Mechanist**.
+The :red_circle: **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are :virtuoso: **Condi/Power Virtuoso**, :scourge: **Condi Scourge**, :harbinger: **Condi Harbinger**, and :mechanist: **Condi Mechanist**.
 
 Let me know if you have any questions!
