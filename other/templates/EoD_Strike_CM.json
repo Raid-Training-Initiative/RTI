@@ -1,0 +1,31 @@
+{
+  "name": "EoD Strike CM",
+  "description": "⚠️ This is a Kill Run so you should have defeated all bosses before and be comfortable on your role.  Make sure you know how to do all special assignments for the role you sign up for. ⚠️\n\nThis is not a Training. You are required to have beaten the CMs before.\n\n**Special Jobs:** \n<:maitrin:954126378511527986> **Aetherblade Hideout CM:** \nNo special roles but bring CC and projectile reflection/destruction skills.\n\n<:ankka:954126378473762866> **Xunlai Jade Junkyard CM:**\nNo special roles but bring CC and condition cleanses.\n\n<:ministerli:954126378364715059> **Kaineng Overlook CM:**\n<:quick_healer:1022999250109485146> **Quickness Heal** will bring group <:stability:844163847161774121> stability and kite during the sniper phase.\n<:alac_healer:1023021148612595793>  **Alac Heal** will tank the Enforcer during the trio phase and kite during the sniper phase.\n\n🟥  **DPS (Tank)** will tank the mech during the sniper phase. A class with a blink skill is required.\n\n🔵 **Quickness DPS** will bring group <:stability:844163847161774121> stability.\n\n 🔴 **DPS** is **recommended** to run a <:virtuoso:948585484165210162> condi virtuoso build. Okay alternatives are ranged DPS with pierce capabilities. Note that since it is always night-time in KO, a power build can bring night sigil for bonus damage.\n\n<:oldlionscourt:1084190718022660188> **Old Lion's Court CM:**\n<:quick_healer:1022999250109485146> **Quickness Heal** will tank the red watchknight.\n\n<:alac_healer:1023021148612595793> **Alac Heal** will tank the green watchknight.\n\n🔴 **DPS** preferably runs some kind of ranged damage build that has easy access to CC.\n\nIf you have any questions just send me a message.",
+  "comp": [
+    {
+      "name": "🔴  DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "<:quick_healer:1022999250109485146>  Quickness Heal (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1023021148612595793>  Alac Heal (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1023021163045212180> Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1022999237824352416> Quickness DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟥 DPS (Tank)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}
