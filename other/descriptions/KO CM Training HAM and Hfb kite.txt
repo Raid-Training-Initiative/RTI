@@ -1,11 +1,13 @@
 In this encounter we'll be fighting :ministerli: **Minister Li** on CM, which is one of the hardest encounters in the game right now that requires fast reflexes and good coordination. I encourage everyone who comes to be familiar with the **normal mode** of this strike.
 
-The :blue_circle: **DPS Quickness Firebrand** will be expected to take the skill `Stand Your Ground!` for :stability: **Stability**.
+I strongly recommend that everyone comes with a `Jade Bot Core: Tier 10` (or as high as you can get the tier to be). There are hard-hitting attacks in this fight that you may have to facetank which the extra vitality helps with.
 
-The :alac_healer: **Heal Alacrity (Kiter)** and the :quick_healer: **Heal Firebrand (Kiter)** will be expected to kite the `Orange Shots` from the Sniper. For this role, a good amount of toughness (exotics is fine!) is strongly recommended.
+The :quick_healer: **Heal Quickness (Kiter / Stability)** and :quick_dps: **Quick DPS (Stability)** will be expected to take :stability: **Stability** for the boss's dragon slash attack.
 
-The :red_square:  **DPS (Tank)** will be expected to tank the Enforcer and the Mech. The only requirement is that the DPS class you come on has a long-range blink. :virtuoso: **Virtuoso** and :mechanist: **Mechanist** are good options.
+The :quick_healer: **Heal Quickness (Kiter / Stability)** and :alac_healer: **Heal Alacrity (Kiter)** will be expected to kite the `Orange Shots` from the Sniper. For this role, a good amount of toughness (exotics is fine!) is strongly recommended.
 
-The :red_circle: **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are :virtuoso: **Condi/Power Virtuoso**, :scourge: **Condi Scourge**, :harbinger: **Condi Harbinger**, and :mechanist: **Condi Mechanist**.
+The :red_square: **DPS (Tank)** will be expected to tank the Enforcer and the Mech. The only requirement is that the DPS class you come on has a long-range blink. :virtuoso: **Virtuoso** is by far the best for this, but :mechanist: **Condi Mechanist** is also a good option. Check out #boss_guides for a POV of this, and I would also strongly recommend practising this in the `In the Name of the Law` story instance and also in normal mode pugs. Just be the closest to the boss and in front of it!
+
+The :red_circle: **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. Good classes are :virtuoso: **Condi/Power Virtuoso**, :scourge: **Condi Scourge**, and :mechanist: **Condi Mechanist**.
 
 Let me know if you have any questions!
