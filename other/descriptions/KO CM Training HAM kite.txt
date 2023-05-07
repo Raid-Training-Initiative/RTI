@@ -1,6 +1,6 @@
 In this encounter we'll be fighting :ministerli: **Minister Li** on CM, which is one of the hardest encounters in the game right now that requires fast reflexes and good coordination. I encourage everyone who comes to be familiar with the **normal mode** of this strike.
 
-Note that we will be attempting the `The Great Equalizer` title, which isn't all that more difficult compared to normal mode. Also, I strongly recommend that everyone comes with a `Jade Bot Core: Tier 10` (or as high as you can get the tier to be). There are hard-hitting attacks in this fight that you may have to facetank which the extra vitality helps with.
+I strongly recommend that everyone comes with a `Jade Bot Core: Tier 10` (or as high as you can get the tier to be). There are hard-hitting attacks in this fight that you may have to facetank which the extra vitality helps with.
 
 The :quick_dps: **Quick DPS (Stability)** will be expected to take :stability: **Stability** for the boss's dragon slash attack.
 
