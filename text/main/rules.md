@@ -6,7 +6,7 @@ We encourage joking around and friendly humour but not toxicity, frustration, in
 ```
 ```diff
 - Rule [2]: Don't be inappropriate
-There will be no racism, sexism, hate speech, dark humour, NSFW/NSFL, or similar unbecoming content in the Discord, TeamSpeak, guild chat, or RTI-organised runs. Moderators may deem messages as unbecoming or inappropriate at their own discretion.
+There will be no racism, sexism, hate speech, dark humour, NSFW/NSFL, or similar unbecoming content in the Discord, guild chat, or RTI-organised runs. Moderators may deem messages as unbecoming or inappropriate at their own discretion.
 ```
 ```diff
 - Rule [3]: Keep it to DMs
@@ -21,12 +21,12 @@ Please ensure you come with a suitable raid-ready build (see the #faq channel fo
 If you sign up for a raid, we expect that you show up on time and that you stay for the specified duration of the raid. If you learn that you can't make it, we expect you to unregister at least 30 minutes before the raid is scheduled to start.
 ```
 ```diff
-- Rule [6]: Follow the Guild Wars 2 rules
-We expect all of our members to follow the Guild Wars 2 user agreement and code of conduct while in-game.
+- Rule [6]: Be a law-abiding citizen
+We expect all of our members to follow the Guild Wars 2 user agreement and code of conduct while in-game. Furthermore, do not engage in illegal or counterfeit activities through our chat channels. This includes fraud, cyber bullying, sharing computer viruses, piracy, phishing, identity theft, etc.
 ```
 ```diff
-- Rule [7]: Don't commit cyber crime
-Do not engage in illegal or counterfeit activities through our chat channels. This includes fraud, cyber bullying, sharing computer viruses, piracy, phishing, identity theft, etc.
+- Rule [7]: Stream tactfully
+We allow streams within our Discord without needing to ask for permission (but it's always courteous to let people know!). Streaming outside of RTI Discord (e.g. on Twitch) is not allowed unless all members of the event, including the leader, have advance notice and do not object to it. Ask the raid leader for permission if you wish to do this.
 ```
 ```diff
 - Rule [8]: No LI/KP requirements
