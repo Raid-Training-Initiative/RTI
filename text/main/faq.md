@@ -10,16 +10,14 @@ First, join our community (i.e. get the **Member** role on Discord)! Read the #w
 _ _
 `[2] When do you normally raid?`
 Training runs can take place on any day and time of the week (often at `20:00 CET/CEST (GMT+1/2)`).
-Our timezones are CET and CEST, depending on whether or not we're in the summer period and daylight savings is active.
-<https://time.is/CET>
-<https://time.is/CEST>
+Our timezones are [CET](https://time.is/CET) and [CEST](https://time.is/CEST), depending on whether or not we're in the summer period and daylight savings is active.
 _ _
 `[3] How do I sign up for a raid?`
 Once you have joined RTI and received the **Member** role, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels and in our #📅raid_schedule channel.
 
 To sign up for any raid, simply click the :pencil: reaction underneath the post in the raid's channel. You will then get a DM from the bot asking you what you want to sign up as, and simply follow the instructions to sign up. Be sure to read the description of any raid you sign up to, because we organise a variety of raids with a variety of requirements.
 
-You will get a message from @RtiBot#4883 an hour before the raid is starting and there is also a time at the bottom of each of our raid embeds (the `Your Time` footer) which converts the raid's scheduled time to your timezone. If you're still unsure, hit the :clipboard: in #📅raid_schedule to get a countdown for each raid you've signed up to!
+You will get a message from @RtiBot#4883 an hour before the raid is starting and there is also a time at the bottom of each of our raid embeds (the `Your Time` footer) which converts the raid's scheduled time to your timezone. If you're still unsure, hit the :clipboard: **Personal Schedule** button in #📅raid_schedule to get a countdown for each raid you've signed up to!
 
 Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
 _ _
@@ -33,8 +31,8 @@ You must be able to listen during an RTI run (hearing impairments notwithstandin
 _ _
 `[6] What is a raid-ready character?`
 We consider a character raid-ready when:
-`[•]` It follows a meta build (see <https://snowcrows.com/> and #class_guides for builds you can choose from).
-`[•]` It has the right stats, runes, and sigils.
+`[•]` It follows a meta build (see [Snow Crows](https://www.snowcrows.com/) and #class_guides for builds you can choose from).
+`[•]` It has the right stats, runes, sigils, and relic.
 `[•]` You understand how to play your class and have looked through and practised the skill rotation on your build's Snow Crows page.
 `[•]` You have at least your weapons and trinkets on 🟣 **Ascended** rarity, with armour on at least 🟠 **Exotic**. Please note that this is a soft requirement and we are not strict about your gear's rarity, but we ask that you are realistic about what standard is acceptable and keep in mind that running subpar gear is a detriment to the squad.
 
@@ -54,28 +52,53 @@ d) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** trai
 
 Each warning is saved into our system, and you get temporarily banned from joining RTI raids (and kicked from any raids you're currently in) if you hit **three** warnings in a rolling period of **6 months**. Persistent infractions to our rules after the initial three will be met with longer ban periods, including an eventual permanent ban, which is done for extreme cases.
 _ _
-`[9] What are trainings? What are kill runs?`
-The events we organise typically fall under two categories: "training run" or "kill run".
+`[9] What are the different types of events?`
+The events we organise typically fall under three categories: "training run", "practice run", and "kill run".
 
-**Training runs** are raids, strikes, or other content organised by @Commanders that is specifically targeted towards **inexperienced players**. These are the runs you would attend to learn the encounter and get your first ever kill (which we usually announce in #first_kills!).
+**Training runs**
+- These are aimed at players who are **completely new** to the encounter.
+- They are organised by @Commanders.
+- An explanation on how the encounter works will be provided.
+- The focus is NOT to get a kill but to train and understand the encounter.
+- You can get priority for these via #training_requests.
 
-Brief explanations of the encounter and special roles are provided and the goal is to not only learn the encounter but also become familiar with it and comfortable with the mechanics. Note that you should always read descriptions of any training run you join because sometimes requirements (such as watching a video on a mechanic or requiring/disallowing certain builds or having a certain mastery) are mentioned.
+**Practice runs**
+- These are aimed at players who have **killed** or **trained** the encounter at least once before but might not be entirely familiar/confident yet.
+- They are organised by @Commanders and @Lieutenants.
+- An explanation on how the encounter works will not be provided. Questions, however, are welcome.
+- The focus is NOT to get a kill but to train and practise the encounter.
 
-**Kill runs** are raids, strikes, or other content organised by @Commanders or @Lieutenants that is specifically targeted towards players that have done the encounters already before. There will be no explanations and there will be a presumption that people know what is expected of them in each encounter.
+**Kill runs**
+- These are aimed at players who have **killed** the encounter at least once before AND are confident enough on their role to not hold the squad back.
+- They are organised by @Commanders and @Lieutenants.
+- An explanation on how the encounter works will not be provided. Questions, however, are welcome.
+- The focus is to get the kill within the allotted time.
 
-Of course, we are a training guild and we don't expect the gameplay of someone with thousands of LI under their belt, but the soft guideline is that you must have experienced the entire encounter at least once before and that you join with enough familiarity with your role and the encounter to not hold the group back from killing all the planned bosses in the designated time. We will always mention specific requirements and expectations in the description of kill runs that you should adhere to.
+We do not have KP requirements in this community, and we mostly operate on a good-faith system - always read the descriptions of the events you sign up to and ask the leader of the event if you have questions. We are, in the end, a training guild, and we are tolerant to mistakes and gaps in knowledge, but do your best to understand the expectations!
 _ _
 `[10] Can anyone organise a raid / training run?`
-Anyone is allowed to post an LFG in the #lfg channel by pinging the LFG role. We do, however, have an important rule: You cannot ask for LI or kill proof in these channels, unless it is not an RTI run (e.g. the PUG you are in - which you are currently not leading - is looking for more people).
+We have an #lfg channel where anyone can organise or fill existing groups. Here are some rules to follow for that channel:
+1. Make sure to ping the correct role! Failure to do so will cause your message to be deleted.
+  - @LFG for raids and strike CMs.
+  - @Strikes for normal-mode strikes.
+  - @Fractals for fractals.
+  - @Dungeons for dungeons.
+  - @Open World for open world (HP trains, guild missions, etc).
+2. Use the threads created under each message to discuss or express interest in LFG postings.
+3. Add a `/sqjoin` or `/join` command so people know how to join your group.
+4. Specify the level of experience you expect (but do NOT ask for any amount of killproof or LI).
 
-If you're interested in organising official raids with the guild on a regular basis, especially training runs, then please check out #become_a_commander and we can talk about enrolling you into our staff ranks.
+We also have a #community_events channel where anyone who has the @Member role with us can organise an event. Just type `/lfg start` in that channel and go through the dialogue to organise an event with us. Again, killproof requirements are not allowed.
+
+If you're interested in organising official raids with the community on a regular basis, especially training runs, then please check out #join_the_team and we can talk about enrolling you into our staff ranks.
 _ _
 `[11] RTI raids fill up too quickly! What do I do?`
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
 `[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
-`[•]` Have your ping notifications turned on for this server. We ping people every time a new official raid is published. Be sure to go to #ping_settings and opt in to additional ping roles for even more opportunities!
+`[•]` Have your ping notifications turned on for this server. We ping people every time a new official raid is published. Be sure to go to the **Channels & Roles** tab at the top left and opt in to additional ping roles for even more opportunities!
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
-`[•]` Be as multiclass as you can. Gearing roles that give :quickness: **Quickness** or :alacrity: **Alacrity**, or roles that heal while giving boons (such as :druid: **Druid**, :firebrand: **Heal Firebrand**, or :mechanist: **Heal Mechanist**) makes it much easier to get spots in our runs, as they are in far more demand than DPS.
+`[•]` Be as multiclass as you can. Gearing roles that give :quickness: **Quickness** or :alacrity: **Alacrity**, or roles that heal while giving boons (such as :druid: **Druid**, :firebrand: **Quickness Firebrand**, or :mechanist: **Heal Mechanist**) makes it much easier to get spots in our runs, as they are in far more demand than DPS.
+`[•]` Look out for runs in #lfg and #community_events (or organise some yourself!).
 `[•]` Join the in-game guild via #guild_join_requests. Runs are advertised there on a regular basis.
 `[•]` If you want to practise specific roles on specific wings/bosses, then make a request in #special_role_requests and you may get a spot reserved for you in a future raid!
 _ _
