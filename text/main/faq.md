@@ -94,8 +94,9 @@ If you're interested in organising official raids with the community on a regula
 _ _
 `[11] RTI raids fill up too quickly! What do I do?`
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
-`[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
 `[•]` Have your ping notifications turned on for this server. We ping people every time a new official raid is published. Be sure to go to the **Channels & Roles** tab at the top left and opt in to additional ping roles for even more opportunities!
+`[•]` Keep an eye on our #📅raid_schedule which lists both official raids our staff members organise and unofficial community events.
+`[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
 `[•]` Be as multiclass as you can. Gearing roles that give :quickness: **Quickness** or :alacrity: **Alacrity**, or roles that heal while giving boons (such as :druid: **Druid**, :firebrand: **Quickness Firebrand**, or :mechanist: **Heal Mechanist**) makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` Look out for runs in #lfg and #community_events (or organise some yourself!).
