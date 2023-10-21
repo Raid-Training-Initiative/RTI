@@ -57,20 +57,20 @@ The events we organise typically fall under three categories: "training run", "p
 
 **Training runs**
 - These are aimed at players who are **completely new** to the encounter.
-- They are organised by @Commanders.
+- They are organised by @Commanders and you get notified by them with the @Trainings role.
 - An explanation on how the encounter works will be provided.
 - The focus is NOT to get a kill but to train and understand the encounter.
 - You can get priority for these via #training_requests.
 
 **Practice runs**
-- These are aimed at players who have **killed** or **trained** the encounter at least once before but might not be entirely familiar/confident yet.
-- They are organised by @Commanders and @Lieutenants.
+- These are aimed at players who have **killed** the encounter at least once before but might not be entirely familiar/confident yet.
+- They are organised by @Commanders and @Lieutenants, and you get notified by them with the @Trainings role.
 - An explanation on how the encounter works will not be provided. Questions, however, are welcome.
 - The focus is NOT to get a kill but to train and practise the encounter.
 
 **Kill runs**
 - These are aimed at players who have **killed** the encounter at least once before AND are confident enough on their role to not hold the squad back.
-- They are organised by @Commanders and @Lieutenants.
+- They are organised by @Commanders and @Lieutenants, and you get notified by them with the @Kills role.
 - An explanation on how the encounter works will not be provided. Questions, however, are welcome.
 - The focus is to get the kill within the allotted time.
 
