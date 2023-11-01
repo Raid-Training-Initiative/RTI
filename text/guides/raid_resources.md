@@ -4,9 +4,6 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 :pushpin: **RAIDS**
 `--------------------------`
 
-:link: <https://discord.gg/zexy-raid-guild>
-**[Zexy] Raid Guild**: Large EU-based raid training guild.
-
 :link: <https://discord.gg/hdhDE3v>
 **The Crossroads Inn**: Large EU-based raid training guild.
 
@@ -18,6 +15,12 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 
 :link:  <https://discord.gg/Xfg2TqF>
 **GW2 Looking For Instance**: Discord for looking for raid openers.
+
+:link: <https://discord.gg/Kgt4CtfE>
+**HT CM**: Discord for Harvest Temple CM progression/training and kill runs.
+
+:link: <https://discord.gg/voidlounge>
+**Void Lounge**: Discord for Harvest Temple CM progression/training and kill runs.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
