@@ -1,0 +1,31 @@
+{
+  "name": "EoD Kill Run",
+  "description": "Get yourself a spot for your weekly EoD clear.\n\n**⚠️ This is a Kill Run so you should have defeated all bosses before and be comfortable on your role.  Make sure you know how to do all special assignments for the role you sign up for. ⚠️**\n\n**Special Jobs:** \n<:maitrin:954126378511527986> **Aetherblade Hideout CM:** \nNo special roles but bring CC and projectile reflection/destruction skills.\n\n<:ankka:954126378473762866> **Xunlai Jade Junkyard CM:**\nNo special roles but bring CC and condition cleanses.\n\n<:ministerli:954126378364715059> **Kaineng Overlook CM:**\n<:quick_healer:1176639812900495400> **Heal Quickness (Kiter)** will bring group <:stability:844163847161774121> **Stability** and `Kite` during the Mech + Sniper phase.\n<:alac_healer:1176639815282856017> **Heal Alacrity (Kiter)** will tank the `Enforcer` during the Trio phase and `kite` during the Mech + Sniper phase.\n🟥 **DPS (Tank)** will tank the Mech during the Mech + Sniper phase. A class with a blink skill is required.\n<:quick_dps:1176639849156051014> **Quickness DPS** will bring group <:stability:844163847161774121> **Stability**.\n<:dps:1176639819191951390> **DPS** is *recommended* to run a <:virtuoso:948585484165210162> **Condi Virtuoso** build. Okay alternatives are ranged DPS with pierce capabilities.\n\n<:oldlionscourt:1084190718022660188> **Old Lion's Court CM:**\n<:quick_healer:1176639812900495400> **Heal Quickness (Kiter)** will tank the Watchknight on the group.\n<:alac_healer:1176639815282856017> **Heal Alacrity (Kiter)** will tank the Watchknight away from the group.\n<:dps:1176639819191951390> **DPS** preferably runs some kind of ranged damage build that has easy access to CC.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390>  DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🟥 DPS (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quick DPS",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

@@ -1,0 +1,31 @@
+{
+  "name": "KO CM Training",
+  "description": "In this encounter we'll be fighting <:ministerli:954126378364715059> **Minister Li** on CM, which is one of the hardest encounters in the game right now that requires fast reflexes and good coordination.\n\nI strongly recommend that everyone comes with a `Jade Bot Core: Tier 10` (or as high as you can get the tier to be). There are hard-hitting attacks in this fight that you may have to facetank which the extra vitality helps with.\n\nThe <:quick_healer:1176639812900495400> **Heal Quickness (Kiter + Stability)** and <:quick_dps:1176639849156051014> **Quick DPS (Stability)** will be expected to take <:stability:844163847161774121> **Stability** for the boss's dragon slash attack. We recommend <:firebrand:763700488825733142> **Firebrand** for healing, but for DPS, various builds that gives permanent <:quickness:766683009423245373> **Quickness** work on this encounter, such as <:herald:818773507286499328> **Herald**, <:firebrand:763700488825733142> **Firebrand**, or <:scrapper:818773750585229312> **Scrapper**.\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity (Kiter)** and <:quick_healer:1176639812900495400> **Heal Quickness (Kiter + Stability)** will be expected to kite the `Orange Shots` from the Sniper. For this role, a good amount of toughness (exotics is fine!) is strongly recommended. Any healers work here, but we recommend <:mechanist:948585084842287184> **Mechanist** for <:alacrity:766683009314848808> **Alacrity**. The kiters will also be expected to tank the **Mindblade** and **Enforcer**.\n\nThe 🟥 **DPS (Tank)** will be expected to tank the **Mech**. The only requirement is that the DPS class you come on has a long-range blink. <:virtuoso:948585484165210162> **Virtuoso** is by far the best for this, but <:mechanist:948585084842287184> **Condi Mechanist** is also a good option. Check out <#1053246449212739604> for a POV of this, and I would also strongly recommend practising this in the `In the Name of the Law` story instance and also in normal mode pugs. Just be the closest to the boss and in front of it!\n\nThe <:dps:1176639819191951390> **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage is extremely helpful. The best class is <:virtuoso:948585484165210162> **Condi Virtuoso** by far, but <:scourge:763701209122471958> **Condi Scourge**, <:mechanist:948585084842287184> **Condi Mechanist**, and other ranged builds (especially those that can pierce) are all effective.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🟥 DPS (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_dps:1176639831720337438> Alac DPS",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_healer:1176639812900495400> Heal Quickness (Kiter + Stability)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quick DPS (Stability)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

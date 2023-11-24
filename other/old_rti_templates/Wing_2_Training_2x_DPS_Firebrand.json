@@ -1,0 +1,19 @@
+{
+  "name": "Wing 2 Training",
+  "description": "> *The search for a missing Pact leader continues as you and your allies venture deeper into the Forsaken Thicket. Strange magical energy has run amok, and long-hidden mysteries wait to be brought to light.*\n\nThis is the second raid wing of the Forsaken Thicket. We will have to face three encounters:\n<:slothasor:703930783206998087> **Slothasor** - A fairly hard boss that requires pulls and good CC.\n<:trio:703930901796618260> **Trio** - An easy encounter that has no particular requirements.\n<:matthias:703930783311593563> **Matthias** - A medium difficulty fight that favours condi DPS.\n\nThere will be no designated tanks for this raid. Tanking on <:slothasor:703930783206998087> **Slothasor** is chosen at random during regular intervals of the fight, and tanking on <:matthias:703930783311593563> **Matthias** is irrelevant.\n\nThe <:quick_dps:1176639849156051014> **DPS Quick Firebrand** will be expected to play <:firebrand:763700488825733142> **Firebrand** and share <:stability:844163847161774121> **Stability** for <:slothasor:703930783206998087> **Slothasor** to negate the <:fear:715162058802593872> **Fear**, and they will also be expected to handle `Reflects` at <:matthias:703930783311593563> **Matthias**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 6
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> DPS Quick Firebrand",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity",
+      "requiredParticipants": 2
+    }
+  ],
+  "duration": 3
+}

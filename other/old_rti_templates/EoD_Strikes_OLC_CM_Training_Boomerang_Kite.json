@@ -1,0 +1,27 @@
+{
+  "name": "Old Lion's Court CM Training",
+  "description": "In this event we'll be doing <:oldlionscourt:1084190718022660188> **Old Lion's Court** on CM, which is a difficult encounter that requires good positioning, high boon uptime, and solid execution of mechanics.\n\nThe <:quick_dps:1176639849156051014> **DPS Quickness** can come on any class that gives <:quickness:766683009423245373> **Quickness**, but it's worth noting that <:herald:818773507286499328> **Herald** and <:scrapper:818773750585229312> **Scrapper** are both fantastic for this role in this fight.\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity (Main Tank)** will be expected to tank the watchknight that the group is currently DPSing, while the 🤎 **Heal Mechanist (Off-Tank)** is expected to tank any other active watchknights on <:mechanist:948585084842287184> **Heal Mechanist**. High toughness via `Giver's` or `Minstrel's` gear (exotics are fine!) is strongly recommended, especially for the off-tank! Check our PoVs in <#1053246449212739604> for a demonstration of how it's done!\n\nThe 🩸 **DPS (Boomerang Kite)** is expected to be the person furthest away from the `Green Watchknight` when it does the `Boomerang` attack to kite it to the edge.\n\nThe <:dps:1176639819191951390> **DPS** can take either power or condi DPS, but condi *tends* to perform better and ranged damage and CC are extremely helpful. <:virtuoso:948585484165210162> **Condi/Power Virtuoso** is strongly recommended, but good alternative classes are <:scourge:763701209122471958> **Condi Scourge**, <:harbinger:948585473645903903> **Condi Harbinger**, <:specter:948585463415992335> **Condi Specter**, and <:mechanist:948585084842287184> **Condi Mechanist**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 5
+    },
+    {
+      "name": "🩸 DPS (Boomerang Kite)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quickness DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Main Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🤎 Heal Mechanist (Off-Tank)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

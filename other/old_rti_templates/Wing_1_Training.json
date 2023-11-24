@@ -1,0 +1,27 @@
+{
+  "name": "Wing 1 Training",
+  "description": "> *A Pact squad has gone missing in northern Maguuma, and you and your allies are their only hope for recovery. But the deadly forest isn’t the only risk to the rescue operation—the area holds dark secrets and strange magic.*\n\nThe Spirit Vale is the first released raid wing and consists of four encounters:\n<:valeguardian:703930901997944833> **Vale Guardian** - A medium difficulty boss that takes increased power damage. \n<:spiritwoods:836193678631764009> **Spirit Woods** - An easy encounter where we have to succeed at a multitude of events.\n<:gorseval:703930783198347284> **Gorseval** - An easy boss where any kind of DPS is fine.\n<:sabetha:703930783320113192> **Sabetha** - A medium difficulty boss where any kind of DPS is fine.\n\nPower and condi DPS are both fine for this wing, but two players will need to play 🟥 **Condi DPS** on <:valeguardian:703930901997944833> **Vale Guardian** to deal with the red guardian.\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity (Tank)** will be expected to tank for <:valeguardian:703930901997944833> **Vale Guardian** and <:gorseval:703930783198347284>  **Gorseval**. Tanking is toughness-based, so you're expected to take some toughness via gear such as `Minstrel's` or `Giver's` to take aggro.\n\nThe 🤎 **Heal Alacrity (Seeker Control + Kiter)** will be expected to do `Seeker Control` for <:valeguardian:703930901997944833> **Vale Guardian** and `Kiting` for <:sabetha:703930783320113192> **Sabetha**. Watch our PoVs in <#1053246449212739604> for videos showing how to do that!\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "🟥 Condi DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 4
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quick DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Tank)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🤎 Heal Alacrity (Seeker Control + Kiter)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

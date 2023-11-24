@@ -1,0 +1,31 @@
+{
+  "name": "Dhuum Training",
+  "description": "This is <:dhuum:703930782590304346> **Dhuum**, the last boss of the fifth raid wing which is commonly regarded as the most difficult raid boss in the game currently. It rewards good awareness and understanding of the mechanics. Both power and condi DPS work fine for this boss but condi tends to perform a little bit better!\n\nThe 🩸 **DPS (Boonstrip)** will be expected to take a DPS class like <:scourge:763701209122471958> **Condi Scourge**, <:renegade:763700489195487236> **Condi Renegade**, <:spellbreaker:839262301848600607> **Power Spellbreaker**, <:virtuoso:948585484165210162> **Power Virtuoso**, etc to boonstrip the boss when he gets boons.\n\nThe 🔺 **DPS (G1)** will be expected to do the `Greens` mechanic.\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity (Tank / G3)** will be expected to do the tanking, for which some toughness is required. Bring some toughness trinkets (exotics are fine!) or legendary gear with you!\n\nThe 💚 **Heal Alacrity (Kite / G2)** will be expected to do the `Kiting` and the `Greens` mechanics. For kiting, any alacrity healer works fine but <:druid:763700489011068939> **Druid** tends to be the most popular for the role.\n\n⚠️ **IMPORTANT**: If you are doing the `Greens` on <:dhuum:703930782590304346> **Dhuum**, then come prepared! There are guides showing how to practise it solo in the <#1053246449212739604> channel! You must be reliable with the mechanic **before joining the squad**.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 4
+    },
+    {
+      "name": "🩸 DPS (Boonstrip)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔺 DPS (G1)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quick DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Tank + G3)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "💚 Heal Alacrity (Kite + G2)",
+      "requiredParticipants": 1
+    }
+  ],
+  "duration": 3
+}

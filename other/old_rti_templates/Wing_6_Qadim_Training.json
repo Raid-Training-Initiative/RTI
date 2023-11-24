@@ -1,0 +1,35 @@
+{
+  "name": "Qadim Training",
+  "description": "> *Zommoros has invited you to participate in the very first private tour of the Mystic Forge. Witness the incredible inner workings of the djinn's magical domain, and uncover the dark secret that lurks at its center.*\n\nWe will be tackling <:qadim:703930782649024573> **Qadim**, the last boss of the sixth raid wing!\n\nThe <:alac_healer:1176639815282856017> **Heal Alacrity (Tank)** will be expected to tank (one main tank and one wyvern tank). High toughness is recommended.\n\nThe 🟣 **DPS (Portal + Pull)** will be expected to use `Portals` and pull the `Magma Elementals`. Only <:mesmer:675414199211393036> **Mesmer** DPS builds (with Focus) are qualified to do this.\n\nThe 🟡 **DPS (Spellbreaker)** will be expected to play <:spellbreaker:839262301848600607> **Power Spellbreaker** and bring `Winds of Disenchantment`.\n\nThe 🔺 **DPS (Kiter)** will be expected to do the `Kiting` mechanic. We recommend <:deadeye:818854511342780416> **Rifle Deadeye** or <:soulbeast:818775299805413386> **Soulbeast** for this role. Check our PoVs in <#1053246449212739604> for a demonstration of how it's done.\n\nThe 🔻 **DPS (Lamp)** will be expected to do the first two `Lamp` mechanics alone. We highly recommend <:daredevil:766682602580475944> **Power Daredevil** for this role, but <:reaper:839262566168657961> **Power Reaper** can also do it. Check our PoVs in⁠ <#1053246449212739604> for a demonstration of how it's done.\n\nLet me know if you have any questions!",
+  "comp": [
+    {
+      "name": "<:dps:1176639819191951390> DPS",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "🔺 DPS (Kiter)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🔻 DPS (Lamp)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟣 DPS (Portal + Pull)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "🟡 DPS (Spellbreaker)",
+      "requiredParticipants": 1
+    },
+    {
+      "name": "<:alac_healer:1176639815282856017> Heal Alacrity (Tank)",
+      "requiredParticipants": 2
+    },
+    {
+      "name": "<:quick_dps:1176639849156051014> Quick DPS",
+      "requiredParticipants": 2
+    }
+  ],
+  "duration": 2
+}
