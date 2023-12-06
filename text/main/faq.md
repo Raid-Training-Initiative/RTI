@@ -64,7 +64,8 @@ The events we organise typically fall under three categories: "training run", "p
 
 **Practice runs**
 - These are aimed at players who have **killed** the encounter at least once before but might not be entirely familiar/confident yet.
-- They are organised by @Commanders and @Lieutenants, and you get notified by them with the @Trainings role.
+- Requirements for people joining on special roles may vary, so always read the description!
+- They are organised by @Commanders and @Lieutenants, and you get notified by them with the @Practice role.
 - An explanation on how the encounter works will not be provided. Questions, however, are welcome.
 - The focus is NOT to get a kill but to train and practise the encounter.
 
