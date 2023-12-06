@@ -57,7 +57,7 @@ The events we organise typically fall under three categories: "training run", "p
 
 **Training runs**
 - These are aimed at players who are **completely new** to the encounter.
-- They are organised by @Commanders and you get notified by them with the @Trainings role.
+- They are organised by @Commanders (and @HoT Commanders for wings 1-4) and you get notified by them with the @Trainings role.
 - An explanation on how the encounter works will be provided.
 - The focus is NOT to get a kill but to train and understand the encounter.
 - You can get priority for these via #training_requests.
