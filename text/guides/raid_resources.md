@@ -56,8 +56,11 @@ _ _
 :link:  <https://pandateemo.github.io/YoloMouse/>
 **YoloMouse**: A program that you can use to make your cursor much more visible.
 
-:link:  <http://www.gw2taco.com/>
-**GW2 TacO**: A powerful overlay that you can use to show a lot of useful location markers and information, including raid-related information, on top of your game.
+:link:  <https://blishhud.com/>
+**Blish HUD**: A powerful, modular overlay that you can use to show a lot of useful information, including raid-related information, on top of your game.
+
+:link: <https://hardstuck.gg/gw2/team-builder/>
+**Hardstuck Team Builder**: A squad building tool that allows you to input classes and roles into the squad UI to form comps, and it will tell you whether you're missing important boons or utility.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
