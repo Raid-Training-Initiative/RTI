@@ -15,11 +15,12 @@ _ _
 `[3] How do I sign up for a raid?`
 Once you have joined RTI and received the **Member** role, you can sign up for our raids with our Discord bot, @RtiBot#4883! Raids organised using the bot will show up in the `CURRENT RAIDS` category of our Discord as separate channels and in our #📅raid_schedule channel.
 
-To sign up for any raid, simply click the :pencil: reaction underneath the post in the raid's channel. You will then get a DM from the bot asking you what you want to sign up as, and simply follow the instructions to sign up. Be sure to read the description of any raid you sign up to, because we organise a variety of raids with a variety of requirements.
+To sign up for any raid, simply click the :pencil: **Register** button underneath the post in the raid's channel. You will then get a message underneath the button from the bot asking you what you want to sign up as; simply select your role(s) to sign up. Be sure to read the description of any raid you sign up to, because we organise a variety of raids with a variety of requirements.
 
 You will get a message from @RtiBot#4883 an hour before the raid is starting and there is also a time at the bottom of each of our raid embeds (the `Your Time` footer) which converts the raid's scheduled time to your timezone. If you're still unsure, hit the :clipboard: **Personal Schedule** button in #📅raid_schedule to get a countdown for each raid you've signed up to!
 
 Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
+_ _
 _ _
 `[4] What happens if I sign up as reserve?`
 Signing up as reserve is a very effective way of opening up your opportunities to raid with us.
