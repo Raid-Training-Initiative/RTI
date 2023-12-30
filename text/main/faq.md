@@ -48,7 +48,8 @@ We send out anonymous warnings for behavioural infractions mentioned in #rules. 
 a) Not showing up for a raid.
 b) Showing up but leaving earlier than the specified duration.
 c) Unregistering from a raid within 30 minutes before it starts.
-d) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** training asked for experience with the "greens" mechanic and you had no experience).
+d) Showing up for the raid more than 5 minutes later than the starting time.
+e) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** training asked for experience with the "greens" mechanic and you had no experience).
 
 Each warning is saved into our system, and you get temporarily banned from joining RTI raids (and kicked from any raids you're currently in) if you hit **three** warnings in a rolling period of **6 months**. Persistent infractions to our rules after the initial three will be met with longer ban periods, including an eventual permanent ban, which is done for extreme cases.
 _ _
