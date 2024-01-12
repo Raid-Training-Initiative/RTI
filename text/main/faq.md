@@ -53,6 +53,8 @@ d) Showing up for the raid more than 5 minutes later than the starting time.
 e) Showing up to a raid unprepared (e.g. description of a :dhuum: **Dhuum** training asked for experience with the "greens" mechanic and you had no experience).
 
 Each warning is saved into our system, and you get temporarily banned from joining RTI raids (and kicked from any raids you're currently in) if you hit **three** warnings in a rolling period of **6 months**. Persistent infractions to our rules after the initial three will be met with longer ban periods, including an eventual permanent ban, which is done for extreme cases.
+
+:sparkles: **Tip**: If you have trouble remembering about RTI raids you've signed up to, click on the **Events** button at the top left of this server, find the event you signed up to, right-click on it, and press **Add to Calendar**. You can add it to your personal calendar. You also get notified **1 hour** before a raid is scheduled to start via DM, and you can get a list of all the upcoming raids you've registered for by pressing the :clipboard: **Personal Schedule** button in the #📅raid_schedule channel.
 _ _
 `[9] What are the different types of events?`
 The events we organise typically fall under three categories: "training run", "practice run", and "kill run".
