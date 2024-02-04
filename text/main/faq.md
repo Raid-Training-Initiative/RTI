@@ -19,8 +19,7 @@ To sign up for any raid, simply click the :pencil: **Register** button underneat
 
 You will get a message from @RtiBot#4883 an hour before the raid is starting and there is also a time at the bottom of each of our raid embeds (the `Your Time` footer) which converts the raid's scheduled time to your timezone. If you're still unsure, hit the :clipboard: **Personal Schedule** button in #📅raid_schedule to get a countdown for each raid you've signed up to!
 
-Note that if you still need your first ever raid kills on some bosses, you can even request a training in #training_requests and you'll get priority to join!
-_ _
+:warning: **Note**: If you still need your first ever raid kills on some bosses, or even if you have some encounter-specific roles you'd like to train (tank, kiter, etc), you can request a training in #training_requests and you'll get priority to join our training runs!
 _ _
 `[4] What happens if I sign up as reserve?`
 Signing up as reserve is a very effective way of opening up your opportunities to raid with us.
@@ -64,14 +63,15 @@ The events we organise typically fall under three categories: "training run", "p
 - They are organised by @Commanders (and @HoT Commanders for wings 1-4) and you get notified by them with the @Trainings role.
 - An explanation on how the encounter works will be provided.
 - The focus is NOT to get a kill but to train and understand the encounter.
-- You can get priority for these via #training_requests.
+- You will get priority for these via :crossed_swords: **First Kills Training** or :jigsaw: **Special Roles Training** requests in #training_requests.
 
 **Practice runs**
 - These are aimed at players who have **killed** the encounter at least once before but might not be entirely familiar/confident yet.
-- Requirements for people joining on special roles may vary, so always read the description!
 - They are organised by @Commanders and @Lieutenants, and you get notified by them with the @Practice role.
+- Requirements for people joining on special roles may vary, so always read the description!
 - An explanation on how the encounter works will not be provided. Questions, however, are welcome.
 - The focus is NOT to get a kill but to train and practise the encounter.
+- You can sometimes get priority for these via :jigsaw: **Special Roles Training** requests in #training_requests.
 
 **Kill runs**
 - These are aimed at players who have **killed** the encounter at least once before AND are confident enough on their role to not hold the squad back.
@@ -101,12 +101,11 @@ _ _
 It is difficult to get into raid trainings, but here are some tips to give you better chances of getting into raids with us:
 `[•]` Have your ping notifications turned on for this server. We ping people every time a new official raid is published. Be sure to go to the **Channels & Roles** tab at the top left and opt in to additional ping roles for even more opportunities!
 `[•]` Keep an eye on our #📅raid_schedule which lists both official raids our staff members organise and unofficial community events.
-`[•]` If you still need your first kills on certain bosses, then request a raid training in #training_requests and you may get a spot reserved for you in a future raid!
+`[•]` If you still need your first kills or to practise specific roles on certain wings/bosses, then request a raid training in #training_requests and you will get a spot reserved for you in a future raid training!
 `[•]` Sign up as reserve for runs you didn't get into on time. We regularly ping all reserves of a raid if a spot opens up.
 `[•]` Be as multiclass as you can. Gearing roles that give :quickness: **Quickness** or :alacrity: **Alacrity**, or roles that heal while giving boons (such as :druid: **Druid**, :firebrand: **Quickness Firebrand**, or :mechanist: **Heal Mechanist**) makes it much easier to get spots in our runs, as they are in far more demand than DPS.
 `[•]` Look out for runs in #lfg and #community_events (or organise some yourself!).
 `[•]` Join the in-game guild via #guild_join_requests. Runs are advertised there on a regular basis.
-`[•]` If you want to practise specific roles on specific wings/bosses, then make a request in #special_role_requests and you may get a spot reserved for you in a future raid!
 _ _
 `[12] I have <insert disability here>. Am I still able to raid with you?`
 Yes! Sometimes we get people joining with certain disabilities, such as hearing impairments, colour blindness, learning disorders, physical disabilities, etc. This often can make it more daunting to join training raids.
