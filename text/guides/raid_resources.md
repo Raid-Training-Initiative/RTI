@@ -18,9 +18,6 @@ This is a channel where we will showcase other Discord servers, websites, tools,
 
 :link: <https://discord.gg/Kgt4CtfE>
 **HT CM**: Discord for Harvest Temple CM progression/training and kill runs.
-
-:link: <https://discord.gg/voidlounge>
-**Void Lounge**: Discord for Harvest Temple CM progression/training and kill runs.
 _ _
 ![separator-small](../../graphics/separators/separator-small.png)
 `--------------------------`
