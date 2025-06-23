@@ -12,10 +12,50 @@ The typical use case is:
 
 This repository provides:
 
+- **`export_emojis.py`:** Download all emoji images from your Discord application to a folder.
 - **`import_emojis.py`:** Upload all emoji images from a folder to your Discord application, skipping already-existing names.
 - **`remplace_emojis.py`:** Automatically replace all emoji IDs in your TypeScript (or other) source files with the IDs corresponding to your current bot/application.
 
-## 1. `import_emojis.py` – Bulk Import Your Emoji Assets
+## 1. `export_emojis.py` – Export All Application Emojis to Folder
+
+### Purpose
+
+Exports all custom emojis **from your Discord application** into a local directory:
+
+- Downloads each emoji as `name.png` or `name.gif`.
+- Useful for backup, migration, or synchronizing your emoji assets.
+
+### Usage
+
+```sh
+python export_emojis.py <bot_token> <output_folder>
+```
+
+**Arguments:**
+
+- `bot_token` – Your Discord bot token (keep secret)
+- `output_folder` – The directory where all exported emoji images will be saved
+
+**Example:**
+
+```sh
+python export_emojis.py "Bot xxxxx" ./MyEmojisBackup/
+```
+
+**Behavior:**
+
+- Fetches the application ID dynamically.
+- Downloads every emoji image from your app to the target folder.
+- Images are named with their emoji name and appropriate extension.
+- Prints summary of exported/failed assets.
+
+**Notes & Limitations:**
+
+- Only works for 'application' emojis (not guild/server emojis).
+- Might not work for most bots, as Discord’s application emoji endpoint is rarely used outside special integrations.
+- If your endpoint returns 404, check if you’re really using application-level emojis, or switch to a guild emoji export.
+
+## 2. `import_emojis.py` – Bulk Import Your Emoji Assets
 
 ### Purpose
 
@@ -48,7 +88,7 @@ python import_emojis.py "Bot xxxxx" ./Emojis/
 - Supported formats: PNG, JPEG, GIF (use Discord's emoji requirements).
 - Limitations: Discord may limit the total number of emojis per application.
 
-## 2. `remplace_emojis.py` – Automatic ID Replacement in Source Files
+## 3. `remplace_emojis.py` – Automatic ID Replacement in Source Files
 
 ### Purpose
 
